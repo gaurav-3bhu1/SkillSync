@@ -1,4 +1,9 @@
-from src.data_loader import load_jobs, load_courses, load_skills
+from src.data_loader import load_courses, load_jobs, load_skills
+from src.validate_data import (
+    validate_courses,
+    validate_jobs,
+    validate_skills,
+)
 
 
 def main() -> None:
@@ -6,26 +11,29 @@ def main() -> None:
     courses = load_courses()
     skills = load_skills()
 
-    print("=" * 40)
+    validate_jobs(jobs)
+    validate_courses(courses)
+    validate_skills(skills)
+
+    print("=" * 50)
     print("SkillSync Data Pipeline")
-    print("=" * 40)
+    print("=" * 50)
 
     print(f"Jobs loaded:     {len(jobs)}")
     print(f"Courses loaded:  {len(courses)}")
     print(f"Skills loaded:   {len(skills)}")
 
-    print("\nData validation: PASSED")
     print("\nJob locations:")
     print(jobs["location"].value_counts())
-
-    print("\nJob roles:")
-    print(jobs["title"].value_counts())
 
     print("\nIndustries:")
     print(jobs["industry"].value_counts())
 
-    print("\nSample jobs:")
-    print(jobs.head())
+    print("\nTop job roles:")
+    print(jobs["title"].value_counts().head(10))
+
+    print("\nData validation: PASSED")
+
 
 if __name__ == "__main__":
     main()
