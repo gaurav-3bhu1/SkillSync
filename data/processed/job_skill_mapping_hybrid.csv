@@ -1,0 +1,116 @@
+job_id,title,role,location,industry,posted_date,skill,source,confidence
+J001,Backend Developer,Backend Developer,Pune,IT,2026-01-05,Java,exact,1.0
+J001,Backend Developer,Backend Developer,Pune,IT,2026-01-05,Spring Boot,exact,1.0
+J001,Backend Developer,Backend Developer,Pune,IT,2026-01-05,SQL,exact,1.0
+J001,Backend Developer,Backend Developer,Pune,IT,2026-01-05,REST API,exact,1.0
+J001,Backend Developer,Backend Developer,Pune,IT,2026-01-05,Docker,exact,1.0
+J002,Java Developer,Backend Developer,Pune,IT,2026-01-08,Java,exact,1.0
+J002,Java Developer,Backend Developer,Pune,IT,2026-01-08,Spring Boot,exact,1.0
+J002,Java Developer,Backend Developer,Pune,IT,2026-01-08,SQL,exact,1.0
+J002,Java Developer,Backend Developer,Pune,IT,2026-01-08,PostgreSQL,exact,1.0
+J003,Backend Engineer,Backend Developer,Pune,IT,2026-01-12,Java,exact,1.0
+J003,Backend Engineer,Backend Developer,Pune,IT,2026-01-12,REST API,exact,1.0
+J003,Backend Engineer,Backend Developer,Pune,IT,2026-01-12,Docker,exact,1.0
+J003,Backend Engineer,Backend Developer,Pune,IT,2026-01-12,AWS,exact,1.0
+J004,Backend Developer,Backend Developer,Pune,IT,2026-01-15,Java,exact,1.0
+J004,Backend Developer,Backend Developer,Pune,IT,2026-01-15,Spring Boot,exact,1.0
+J004,Backend Developer,Backend Developer,Pune,IT,2026-01-15,PostgreSQL,exact,1.0
+J004,Backend Developer,Backend Developer,Pune,IT,2026-01-15,REST API,exact,1.0
+J005,Software Engineer,Other,Pune,IT,2026-01-20,Java,exact,1.0
+J005,Software Engineer,Other,Pune,IT,2026-01-20,SQL,exact,1.0
+J005,Software Engineer,Other,Pune,IT,2026-01-20,Spring Boot,exact,1.0
+J005,Software Engineer,Other,Pune,IT,2026-01-20,AWS,exact,1.0
+J006,Backend Developer,Backend Developer,Mumbai,IT,2026-01-23,Java,exact,1.0
+J006,Backend Developer,Backend Developer,Mumbai,IT,2026-01-23,Spring Boot,exact,1.0
+J006,Backend Developer,Backend Developer,Mumbai,IT,2026-01-23,SQL,exact,1.0
+J006,Backend Developer,Backend Developer,Mumbai,IT,2026-01-23,Docker,exact,1.0
+J007,Data Analyst,Data Analyst,Pune,IT,2026-01-25,Python,exact,1.0
+J007,Data Analyst,Data Analyst,Pune,IT,2026-01-25,SQL,exact,1.0
+J007,Data Analyst,Data Analyst,Pune,IT,2026-01-25,Excel,exact,1.0
+J008,Data Analyst,Data Analyst,Mumbai,Finance,2026-01-27,Python,exact,1.0
+J008,Data Analyst,Data Analyst,Mumbai,Finance,2026-01-27,SQL,exact,1.0
+J008,Data Analyst,Data Analyst,Mumbai,Finance,2026-01-27,Power BI,exact,1.0
+J009,Frontend Developer,Frontend Developer,Pune,IT,2026-02-01,React,exact,1.0
+J009,Frontend Developer,Frontend Developer,Pune,IT,2026-02-01,JavaScript,exact,1.0
+J009,Frontend Developer,Frontend Developer,Pune,IT,2026-02-01,HTML,exact,1.0
+J009,Frontend Developer,Frontend Developer,Pune,IT,2026-02-01,CSS,exact,1.0
+J010,Frontend Developer,Frontend Developer,Mumbai,IT,2026-02-04,React,exact,1.0
+J010,Frontend Developer,Frontend Developer,Mumbai,IT,2026-02-04,JavaScript,exact,1.0
+J010,Frontend Developer,Frontend Developer,Mumbai,IT,2026-02-04,Node.js,exact,1.0
+J010,Frontend Developer,Frontend Developer,Mumbai,IT,2026-02-04,Express.js,semantic,0.608
+J011,Node.js Developer,Backend Developer,Pune,IT,2026-02-05,Node.js,exact,1.0
+J011,Node.js Developer,Backend Developer,Pune,IT,2026-02-05,JavaScript,exact,1.0
+J011,Node.js Developer,Backend Developer,Pune,IT,2026-02-05,REST API,exact,1.0
+J011,Node.js Developer,Backend Developer,Pune,IT,2026-02-05,PostgreSQL,exact,1.0
+J011,Node.js Developer,Backend Developer,Pune,IT,2026-02-05,Docker,exact,1.0
+J012,Backend Engineer,Backend Developer,Mumbai,IT,2026-02-07,Python,exact,1.0
+J012,Backend Engineer,Backend Developer,Mumbai,IT,2026-02-07,PostgreSQL,exact,1.0
+J012,Backend Engineer,Backend Developer,Mumbai,IT,2026-02-07,REST API,exact,1.0
+J012,Backend Engineer,Backend Developer,Mumbai,IT,2026-02-07,AWS,exact,1.0
+J013,Senior Backend Developer,Backend Developer,Pune,IT,2026-02-10,Java,exact,1.0
+J013,Senior Backend Developer,Backend Developer,Pune,IT,2026-02-10,Spring Boot,exact,1.0
+J013,Senior Backend Developer,Backend Developer,Pune,IT,2026-02-10,AWS,exact,1.0
+J013,Senior Backend Developer,Backend Developer,Pune,IT,2026-02-10,Docker,exact,1.0
+J014,API Developer,Backend Developer,Nagpur,IT,2026-02-12,Java,exact,1.0
+J014,API Developer,Backend Developer,Nagpur,IT,2026-02-12,Spring Boot,exact,1.0
+J014,API Developer,Backend Developer,Nagpur,IT,2026-02-12,Node.js,exact,1.0
+J014,API Developer,Backend Developer,Nagpur,IT,2026-02-12,REST API,exact,1.0
+J015,React Developer,Frontend Developer,Pune,IT,2026-02-14,React,exact,1.0
+J015,React Developer,Frontend Developer,Pune,IT,2026-02-14,JavaScript,exact,1.0
+J015,React Developer,Frontend Developer,Pune,IT,2026-02-14,HTML,exact,1.0
+J015,React Developer,Frontend Developer,Pune,IT,2026-02-14,CSS,exact,1.0
+J016,UI Developer,Frontend Developer,Mumbai,IT,2026-02-15,HTML,exact,1.0
+J016,UI Developer,Frontend Developer,Mumbai,IT,2026-02-15,CSS,exact,1.0
+J016,UI Developer,Frontend Developer,Mumbai,IT,2026-02-15,JavaScript,exact,1.0
+J016,UI Developer,Frontend Developer,Mumbai,IT,2026-02-15,React,exact,1.0
+J017,Frontend Engineer,Frontend Developer,Nagpur,IT,2026-02-18,React,exact,1.0
+J017,Frontend Engineer,Frontend Developer,Nagpur,IT,2026-02-18,TypeScript,exact,1.0
+J017,Frontend Engineer,Frontend Developer,Nagpur,IT,2026-02-18,Node.js,exact,1.0
+J017,Frontend Engineer,Frontend Developer,Nagpur,IT,2026-02-18,Tailwind CSS,exact,1.0
+J018,Data Scientist,Data Scientist,Pune,IT,2026-02-20,Python,exact,1.0
+J018,Data Scientist,Data Scientist,Pune,IT,2026-02-20,Machine Learning,exact,1.0
+J018,Data Scientist,Data Scientist,Pune,IT,2026-02-20,SQL,exact,1.0
+J018,Data Scientist,Data Scientist,Pune,IT,2026-02-20,Pandas,exact,1.0
+J019,Data Engineer,Data Engineer,Mumbai,IT,2026-02-22,Python,exact,1.0
+J019,Data Engineer,Data Engineer,Mumbai,IT,2026-02-22,SQL,exact,1.0
+J019,Data Engineer,Data Engineer,Mumbai,IT,2026-02-22,PostgreSQL,exact,1.0
+J019,Data Engineer,Data Engineer,Mumbai,IT,2026-02-22,AWS,exact,1.0
+J020,BI Analyst,Data Analyst,Pune,Finance,2026-02-25,SQL,exact,1.0
+J020,BI Analyst,Data Analyst,Pune,Finance,2026-02-25,Excel,exact,1.0
+J020,BI Analyst,Data Analyst,Pune,Finance,2026-02-25,Python,exact,1.0
+J021,DevOps Engineer,Cloud / DevOps,Pune,IT,2026-02-28,Docker,exact,1.0
+J021,DevOps Engineer,Cloud / DevOps,Pune,IT,2026-02-28,AWS,exact,1.0
+J021,DevOps Engineer,Cloud / DevOps,Pune,IT,2026-02-28,Linux,exact,1.0
+J021,DevOps Engineer,Cloud / DevOps,Pune,IT,2026-02-28,Jenkins,exact,1.0
+J021,DevOps Engineer,Cloud / DevOps,Pune,IT,2026-02-28,Kubernetes,exact,1.0
+J022,Cloud Engineer,Cloud / DevOps,Mumbai,IT,2026-03-01,AWS,exact,1.0
+J022,Cloud Engineer,Cloud / DevOps,Mumbai,IT,2026-03-01,Python,exact,1.0
+J022,Cloud Engineer,Cloud / DevOps,Mumbai,IT,2026-03-01,Docker,exact,1.0
+J022,Cloud Engineer,Cloud / DevOps,Mumbai,IT,2026-03-01,Terraform,exact,1.0
+J023,Site Reliability Engineer,Cloud / DevOps,Pune,IT,2026-03-03,AWS,exact,1.0
+J023,Site Reliability Engineer,Cloud / DevOps,Pune,IT,2026-03-03,Docker,exact,1.0
+J023,Site Reliability Engineer,Cloud / DevOps,Pune,IT,2026-03-03,Python,exact,1.0
+J023,Site Reliability Engineer,Cloud / DevOps,Pune,IT,2026-03-03,Linux,exact,1.0
+J024,DevOps Consultant,Cloud / DevOps,Nagpur,IT,2026-03-05,Docker,exact,1.0
+J024,DevOps Consultant,Cloud / DevOps,Nagpur,IT,2026-03-05,AWS,exact,1.0
+J024,DevOps Consultant,Cloud / DevOps,Nagpur,IT,2026-03-05,CI/CD,exact,1.0
+J024,DevOps Consultant,Cloud / DevOps,Nagpur,IT,2026-03-05,Git,exact,1.0
+J025,AWS Cloud Architect,Cloud / DevOps,Pune,IT,2026-03-08,AWS,exact,1.0
+J025,AWS Cloud Architect,Cloud / DevOps,Pune,IT,2026-03-08,Docker,exact,1.0
+J025,AWS Cloud Architect,Cloud / DevOps,Pune,IT,2026-03-08,Node.js,exact,1.0
+J026,Full Stack Developer,Full Stack Developer,Pune,IT,2026-03-10,React,exact,1.0
+J026,Full Stack Developer,Full Stack Developer,Pune,IT,2026-03-10,Node.js,exact,1.0
+J026,Full Stack Developer,Full Stack Developer,Pune,IT,2026-03-10,PostgreSQL,exact,1.0
+J026,Full Stack Developer,Full Stack Developer,Pune,IT,2026-03-10,Docker,exact,1.0
+J026,Full Stack Developer,Full Stack Developer,Pune,IT,2026-03-10,AWS,exact,1.0
+J027,QA Automation Engineer,QA / Test Automation,Mumbai,IT,2026-03-12,Python,exact,1.0
+J027,QA Automation Engineer,QA / Test Automation,Mumbai,IT,2026-03-12,Java,exact,1.0
+J027,QA Automation Engineer,QA / Test Automation,Mumbai,IT,2026-03-12,SQL,exact,1.0
+J028,Product Manager,Product Management,Pune,IT,2026-03-15,SQL,exact,1.0
+J029,Technical Support Engineer,Technical Support,Nagpur,IT,2026-03-18,Linux,exact,1.0
+J029,Technical Support Engineer,Technical Support,Nagpur,IT,2026-03-18,SQL,exact,1.0
+J029,Technical Support Engineer,Technical Support,Nagpur,IT,2026-03-18,REST API,exact,1.0
+J030,Full Stack Engineer,Full Stack Developer,Mumbai,IT,2026-03-20,Java,exact,1.0
+J030,Full Stack Engineer,Full Stack Developer,Mumbai,IT,2026-03-20,Spring Boot,exact,1.0
+J030,Full Stack Engineer,Full Stack Developer,Mumbai,IT,2026-03-20,React,exact,1.0
+J030,Full Stack Engineer,Full Stack Developer,Mumbai,IT,2026-03-20,PostgreSQL,exact,1.0
