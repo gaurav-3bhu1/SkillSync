@@ -1,0 +1,16 @@
+month,skill,job_count,total_jobs,demand_percentage
+2026-01,Java,4,4,100.0
+2026-01,REST API,3,4,75.0
+2026-01,Spring Boot,3,4,75.0
+2026-01,Docker,2,4,50.0
+2026-01,PostgreSQL,2,4,50.0
+2026-01,SQL,2,4,50.0
+2026-01,AWS,1,4,25.0
+2026-02,Docker,2,2,100.0
+2026-02,AWS,1,2,50.0
+2026-02,Java,1,2,50.0
+2026-02,JavaScript,1,2,50.0
+2026-02,Node.js,1,2,50.0
+2026-02,PostgreSQL,1,2,50.0
+2026-02,REST API,1,2,50.0
+2026-02,Spring Boot,1,2,50.0

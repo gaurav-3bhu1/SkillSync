@@ -1,0 +1,10 @@
+skill,previous_job_count,recent_job_count,previous_demand_percentage,recent_demand_percentage,change_percentage_points,growth_percentage,trend
+AWS,0,2,0.0,50.0,50.0,,Emerging
+Docker,1,3,50.0,75.0,25.0,50.0,Emerging
+REST API,1,3,50.0,75.0,25.0,50.0,Emerging
+JavaScript,0,1,0.0,25.0,25.0,,Stable
+Node.js,0,1,0.0,25.0,25.0,,Stable
+PostgreSQL,1,2,50.0,50.0,0.0,0.0,Stable
+Java,2,3,100.0,75.0,-25.0,-25.0,Declining
+Spring Boot,2,2,100.0,50.0,-50.0,-50.0,Declining
+SQL,2,0,100.0,0.0,-100.0,-100.0,Declining
