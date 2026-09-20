@@ -16,10 +16,10 @@ J004,Backend Developer,Backend Developer,Pune,IT,2026-01-15,Java
 J004,Backend Developer,Backend Developer,Pune,IT,2026-01-15,Spring Boot
 J004,Backend Developer,Backend Developer,Pune,IT,2026-01-15,PostgreSQL
 J004,Backend Developer,Backend Developer,Pune,IT,2026-01-15,REST API
-J005,Software Engineer,Other,Pune,IT,2026-01-20,Java
-J005,Software Engineer,Other,Pune,IT,2026-01-20,SQL
-J005,Software Engineer,Other,Pune,IT,2026-01-20,Spring Boot
-J005,Software Engineer,Other,Pune,IT,2026-01-20,AWS
+J005,Software Engineer,Backend Developer,Pune,IT,2026-01-20,Java
+J005,Software Engineer,Backend Developer,Pune,IT,2026-01-20,SQL
+J005,Software Engineer,Backend Developer,Pune,IT,2026-01-20,Spring Boot
+J005,Software Engineer,Backend Developer,Pune,IT,2026-01-20,AWS
 J006,Backend Developer,Backend Developer,Mumbai,IT,2026-01-23,Java
 J006,Backend Developer,Backend Developer,Mumbai,IT,2026-01-23,Spring Boot
 J006,Backend Developer,Backend Developer,Mumbai,IT,2026-01-23,SQL
@@ -113,3 +113,1278 @@ J030,Full Stack Engineer,Full Stack Developer,Mumbai,IT,2026-03-20,Java
 J030,Full Stack Engineer,Full Stack Developer,Mumbai,IT,2026-03-20,Spring Boot
 J030,Full Stack Engineer,Full Stack Developer,Mumbai,IT,2026-03-20,React
 J030,Full Stack Engineer,Full Stack Developer,Mumbai,IT,2026-03-20,PostgreSQL
+J031,Senior Backend Developer,Backend Developer,Nashik,E-commerce,2026-06-17,Java
+J031,Senior Backend Developer,Backend Developer,Nashik,E-commerce,2026-06-17,Spring Boot
+J031,Senior Backend Developer,Backend Developer,Nashik,E-commerce,2026-06-17,SQL
+J031,Senior Backend Developer,Backend Developer,Nashik,E-commerce,2026-06-17,REST API
+J031,Senior Backend Developer,Backend Developer,Nashik,E-commerce,2026-06-17,PostgreSQL
+J031,Senior Backend Developer,Backend Developer,Nashik,E-commerce,2026-06-17,GraphQL
+J031,Senior Backend Developer,Backend Developer,Nashik,E-commerce,2026-06-17,Jenkins
+J032,Backend Developer,Backend Developer,Nagpur,Logistics & Mobility,2026-09-13,Java
+J032,Backend Developer,Backend Developer,Nagpur,Logistics & Mobility,2026-09-13,Spring Boot
+J032,Backend Developer,Backend Developer,Nagpur,Logistics & Mobility,2026-09-13,REST API
+J032,Backend Developer,Backend Developer,Nagpur,Logistics & Mobility,2026-09-13,Git
+J032,Backend Developer,Backend Developer,Nagpur,Logistics & Mobility,2026-09-13,Jenkins
+J032,Backend Developer,Backend Developer,Nagpur,Logistics & Mobility,2026-09-13,FastAPI
+J033,Senior Backend Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-08-08,Java
+J033,Senior Backend Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-08-08,Spring Boot
+J033,Senior Backend Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-08-08,SQL
+J033,Senior Backend Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-08-08,REST API
+J033,Senior Backend Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-08-08,PostgreSQL
+J033,Senior Backend Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-08-08,Jenkins
+J033,Senior Backend Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-08-08,AWS
+J033,Senior Backend Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-08-08,GraphQL
+J034,Full Stack Engineer,Full Stack Developer,Pune,Manufacturing Technology,2026-06-24,React
+J034,Full Stack Engineer,Full Stack Developer,Pune,Manufacturing Technology,2026-06-24,Node.js
+J034,Full Stack Engineer,Full Stack Developer,Pune,Manufacturing Technology,2026-06-24,JavaScript
+J034,Full Stack Engineer,Full Stack Developer,Pune,Manufacturing Technology,2026-06-24,REST API
+J034,Full Stack Engineer,Full Stack Developer,Pune,Manufacturing Technology,2026-06-24,SQL
+J034,Full Stack Engineer,Full Stack Developer,Pune,Manufacturing Technology,2026-06-24,PostgreSQL
+J034,Full Stack Engineer,Full Stack Developer,Pune,Manufacturing Technology,2026-06-24,AWS
+J035,Senior Backend Developer,Backend Developer,Nagpur,EdTech,2026-05-16,Java
+J035,Senior Backend Developer,Backend Developer,Nagpur,EdTech,2026-05-16,Spring Boot
+J035,Senior Backend Developer,Backend Developer,Nagpur,EdTech,2026-05-16,PostgreSQL
+J035,Senior Backend Developer,Backend Developer,Nagpur,EdTech,2026-05-16,GraphQL
+J036,API Developer,Backend Developer,Nagpur,IT Services,2026-07-06,REST API
+J036,API Developer,Backend Developer,Nagpur,IT Services,2026-07-06,Java
+J036,API Developer,Backend Developer,Nagpur,IT Services,2026-07-06,Spring Boot
+J036,API Developer,Backend Developer,Nagpur,IT Services,2026-07-06,AWS
+J036,API Developer,Backend Developer,Nagpur,IT Services,2026-07-06,GraphQL
+J037,Senior Backend Developer,Backend Developer,Pune,SaaS,2026-08-20,Java
+J037,Senior Backend Developer,Backend Developer,Pune,SaaS,2026-08-20,Spring Boot
+J037,Senior Backend Developer,Backend Developer,Pune,SaaS,2026-08-20,PostgreSQL
+J037,Senior Backend Developer,Backend Developer,Pune,SaaS,2026-08-20,AWS
+J037,Senior Backend Developer,Backend Developer,Pune,SaaS,2026-08-20,Kubernetes
+J038,API Developer,Backend Developer,Pune,SaaS,2026-05-18,REST API
+J038,API Developer,Backend Developer,Pune,SaaS,2026-05-18,Java
+J038,API Developer,Backend Developer,Pune,SaaS,2026-05-18,Spring Boot
+J038,API Developer,Backend Developer,Pune,SaaS,2026-05-18,PostgreSQL
+J038,API Developer,Backend Developer,Pune,SaaS,2026-05-18,GraphQL
+J038,API Developer,Backend Developer,Pune,SaaS,2026-05-18,Node.js
+J039,UI Developer,Frontend Developer,Pune,FinTech,2026-07-03,HTML
+J039,UI Developer,Frontend Developer,Pune,FinTech,2026-07-03,CSS
+J039,UI Developer,Frontend Developer,Pune,FinTech,2026-07-03,JavaScript
+J039,UI Developer,Frontend Developer,Pune,FinTech,2026-07-03,React
+J039,UI Developer,Frontend Developer,Pune,FinTech,2026-07-03,Tailwind CSS
+J039,UI Developer,Frontend Developer,Pune,FinTech,2026-07-03,Git
+J039,UI Developer,Frontend Developer,Pune,FinTech,2026-07-03,TypeScript
+J040,React Developer,Frontend Developer,Mumbai,Logistics & Mobility,2026-07-17,React
+J040,React Developer,Frontend Developer,Mumbai,Logistics & Mobility,2026-07-17,JavaScript
+J040,React Developer,Frontend Developer,Mumbai,Logistics & Mobility,2026-07-17,HTML
+J040,React Developer,Frontend Developer,Mumbai,Logistics & Mobility,2026-07-17,CSS
+J040,React Developer,Frontend Developer,Mumbai,Logistics & Mobility,2026-07-17,Tailwind CSS
+J041,Senior Backend Developer,Backend Developer,Nagpur,FinTech,2026-09-12,Java
+J041,Senior Backend Developer,Backend Developer,Nagpur,FinTech,2026-09-12,Spring Boot
+J041,Senior Backend Developer,Backend Developer,Nagpur,FinTech,2026-09-12,PostgreSQL
+J041,Senior Backend Developer,Backend Developer,Nagpur,FinTech,2026-09-12,Git
+J041,Senior Backend Developer,Backend Developer,Nagpur,FinTech,2026-09-12,AWS
+J042,API Developer,Backend Developer,Nashik,FinTech,2026-04-20,Java
+J042,API Developer,Backend Developer,Nashik,FinTech,2026-04-20,Spring Boot
+J042,API Developer,Backend Developer,Nashik,FinTech,2026-04-20,SQL
+J042,API Developer,Backend Developer,Nashik,FinTech,2026-04-20,AWS
+J043,Data Analyst,Data Analyst,Nagpur,FinTech,2026-04-16,Python
+J043,Data Analyst,Data Analyst,Nagpur,FinTech,2026-04-16,SQL
+J043,Data Analyst,Data Analyst,Nagpur,FinTech,2026-04-16,Excel
+J043,Data Analyst,Data Analyst,Nagpur,FinTech,2026-04-16,Pandas
+J043,Data Analyst,Data Analyst,Nagpur,FinTech,2026-04-16,Data Visualization
+J043,Data Analyst,Data Analyst,Nagpur,FinTech,2026-04-16,Data Analysis
+J044,Backend Engineer,Backend Developer,Nagpur,E-commerce,2026-09-05,Java
+J044,Backend Engineer,Backend Developer,Nagpur,E-commerce,2026-09-05,Spring Boot
+J044,Backend Engineer,Backend Developer,Nagpur,E-commerce,2026-09-05,SQL
+J044,Backend Engineer,Backend Developer,Nagpur,E-commerce,2026-09-05,Docker
+J044,Backend Engineer,Backend Developer,Nagpur,E-commerce,2026-09-05,PostgreSQL
+J045,QA Automation Engineer,QA / Test Automation,Nagpur,E-commerce,2026-07-09,Java
+J045,QA Automation Engineer,QA / Test Automation,Nagpur,E-commerce,2026-07-09,Python
+J045,QA Automation Engineer,QA / Test Automation,Nagpur,E-commerce,2026-07-09,Git
+J045,QA Automation Engineer,QA / Test Automation,Nagpur,E-commerce,2026-07-09,CI/CD
+J045,QA Automation Engineer,QA / Test Automation,Nagpur,E-commerce,2026-07-09,Jenkins
+J046,QA Automation Engineer,QA / Test Automation,Pune,Manufacturing Technology,2026-08-03,Java
+J046,QA Automation Engineer,QA / Test Automation,Pune,Manufacturing Technology,2026-08-03,Python
+J046,QA Automation Engineer,QA / Test Automation,Pune,Manufacturing Technology,2026-08-03,SQL
+J046,QA Automation Engineer,QA / Test Automation,Pune,Manufacturing Technology,2026-08-03,Git
+J046,QA Automation Engineer,QA / Test Automation,Pune,Manufacturing Technology,2026-08-03,CI/CD
+J047,Site Reliability Engineer,Cloud / DevOps,Pune,Logistics & Mobility,2026-03-31,Docker
+J047,Site Reliability Engineer,Cloud / DevOps,Pune,Logistics & Mobility,2026-03-31,Kubernetes
+J047,Site Reliability Engineer,Cloud / DevOps,Pune,Logistics & Mobility,2026-03-31,AWS
+J047,Site Reliability Engineer,Cloud / DevOps,Pune,Logistics & Mobility,2026-03-31,Linux
+J047,Site Reliability Engineer,Cloud / DevOps,Pune,Logistics & Mobility,2026-03-31,Git
+J047,Site Reliability Engineer,Cloud / DevOps,Pune,Logistics & Mobility,2026-03-31,Azure
+J047,Site Reliability Engineer,Cloud / DevOps,Pune,Logistics & Mobility,2026-03-31,PowerShell
+J047,Site Reliability Engineer,Cloud / DevOps,Pune,Logistics & Mobility,2026-03-31,Jenkins
+J048,Product Manager,Product Management,Pune,E-commerce,2026-06-26,Excel
+J048,Product Manager,Product Management,Pune,E-commerce,2026-06-26,SQL
+J048,Product Manager,Product Management,Pune,E-commerce,2026-06-26,Data Analysis
+J048,Product Manager,Product Management,Pune,E-commerce,2026-06-26,Data Visualization
+J048,Product Manager,Product Management,Pune,E-commerce,2026-06-26,Python
+J048,Product Manager,Product Management,Pune,E-commerce,2026-06-26,Power BI
+J049,Frontend Engineer,Frontend Developer,Nagpur,IT Services,2026-07-02,React
+J049,Frontend Engineer,Frontend Developer,Nagpur,IT Services,2026-07-02,TypeScript
+J049,Frontend Engineer,Frontend Developer,Nagpur,IT Services,2026-07-02,JavaScript
+J049,Frontend Engineer,Frontend Developer,Nagpur,IT Services,2026-07-02,HTML
+J049,Frontend Engineer,Frontend Developer,Nagpur,IT Services,2026-07-02,CSS
+J049,Frontend Engineer,Frontend Developer,Nagpur,IT Services,2026-07-02,Tailwind CSS
+J050,DevOps Engineer,Cloud / DevOps,Pune,Manufacturing Technology,2026-08-24,Docker
+J050,DevOps Engineer,Cloud / DevOps,Pune,Manufacturing Technology,2026-08-24,Kubernetes
+J050,DevOps Engineer,Cloud / DevOps,Pune,Manufacturing Technology,2026-08-24,AWS
+J050,DevOps Engineer,Cloud / DevOps,Pune,Manufacturing Technology,2026-08-24,Linux
+J050,DevOps Engineer,Cloud / DevOps,Pune,Manufacturing Technology,2026-08-24,Git
+J050,DevOps Engineer,Cloud / DevOps,Pune,Manufacturing Technology,2026-08-24,Jenkins
+J050,DevOps Engineer,Cloud / DevOps,Pune,Manufacturing Technology,2026-08-24,GCP
+J051,Cloud Engineer,Cloud / DevOps,Mumbai,Logistics & Mobility,2026-07-29,AWS
+J051,Cloud Engineer,Cloud / DevOps,Mumbai,Logistics & Mobility,2026-07-29,Linux
+J051,Cloud Engineer,Cloud / DevOps,Mumbai,Logistics & Mobility,2026-07-29,Docker
+J051,Cloud Engineer,Cloud / DevOps,Mumbai,Logistics & Mobility,2026-07-29,Terraform
+J051,Cloud Engineer,Cloud / DevOps,Mumbai,Logistics & Mobility,2026-07-29,CI/CD
+J051,Cloud Engineer,Cloud / DevOps,Mumbai,Logistics & Mobility,2026-07-29,Azure
+J052,Frontend Engineer,Frontend Developer,Pune,HealthTech,2026-07-16,React
+J052,Frontend Engineer,Frontend Developer,Pune,HealthTech,2026-07-16,TypeScript
+J052,Frontend Engineer,Frontend Developer,Pune,HealthTech,2026-07-16,JavaScript
+J052,Frontend Engineer,Frontend Developer,Pune,HealthTech,2026-07-16,HTML
+J052,Frontend Engineer,Frontend Developer,Pune,HealthTech,2026-07-16,CSS
+J052,Frontend Engineer,Frontend Developer,Pune,HealthTech,2026-07-16,Node.js
+J052,Frontend Engineer,Frontend Developer,Pune,HealthTech,2026-07-16,Tailwind CSS
+J052,Frontend Engineer,Frontend Developer,Pune,HealthTech,2026-07-16,Git
+J053,Frontend Engineer,Frontend Developer,Nagpur,FinTech,2026-03-19,React
+J053,Frontend Engineer,Frontend Developer,Nagpur,FinTech,2026-03-19,TypeScript
+J053,Frontend Engineer,Frontend Developer,Nagpur,FinTech,2026-03-19,JavaScript
+J053,Frontend Engineer,Frontend Developer,Nagpur,FinTech,2026-03-19,HTML
+J053,Frontend Engineer,Frontend Developer,Nagpur,FinTech,2026-03-19,CSS
+J053,Frontend Engineer,Frontend Developer,Nagpur,FinTech,2026-03-19,Tailwind CSS
+J054,Node.js Developer,Backend Developer,Nagpur,FinTech,2026-07-17,Node.js
+J054,Node.js Developer,Backend Developer,Nagpur,FinTech,2026-07-17,JavaScript
+J054,Node.js Developer,Backend Developer,Nagpur,FinTech,2026-07-17,MongoDB
+J054,Node.js Developer,Backend Developer,Nagpur,FinTech,2026-07-17,Express.js
+J054,Node.js Developer,Backend Developer,Nagpur,FinTech,2026-07-17,GraphQL
+J055,BI Analyst,Data Analyst,Pune,FinTech,2026-07-07,Excel
+J055,BI Analyst,Data Analyst,Pune,FinTech,2026-07-07,Power BI
+J055,BI Analyst,Data Analyst,Pune,FinTech,2026-07-07,Data Visualization
+J055,BI Analyst,Data Analyst,Pune,FinTech,2026-07-07,Python
+J055,BI Analyst,Data Analyst,Pune,FinTech,2026-07-07,Git
+J056,React Developer,Frontend Developer,Nashik,EdTech,2026-06-13,React
+J056,React Developer,Frontend Developer,Nashik,EdTech,2026-06-13,JavaScript
+J056,React Developer,Frontend Developer,Nashik,EdTech,2026-06-13,HTML
+J056,React Developer,Frontend Developer,Nashik,EdTech,2026-06-13,CSS
+J056,React Developer,Frontend Developer,Nashik,EdTech,2026-06-13,Tailwind CSS
+J056,React Developer,Frontend Developer,Nashik,EdTech,2026-06-13,TypeScript
+J057,DevOps Engineer,Cloud / DevOps,Nashik,SaaS,2026-05-03,Kubernetes
+J057,DevOps Engineer,Cloud / DevOps,Nashik,SaaS,2026-05-03,AWS
+J057,DevOps Engineer,Cloud / DevOps,Nashik,SaaS,2026-05-03,Linux
+J057,DevOps Engineer,Cloud / DevOps,Nashik,SaaS,2026-05-03,Git
+J057,DevOps Engineer,Cloud / DevOps,Nashik,SaaS,2026-05-03,PowerShell
+J057,DevOps Engineer,Cloud / DevOps,Nashik,SaaS,2026-05-03,Jenkins
+J057,DevOps Engineer,Cloud / DevOps,Nashik,SaaS,2026-05-03,Terraform
+J058,Technical Support Engineer,Technical Support,Nashik,FinTech,2026-09-20,Linux
+J058,Technical Support Engineer,Technical Support,Nashik,FinTech,2026-09-20,PowerShell
+J058,Technical Support Engineer,Technical Support,Nashik,FinTech,2026-09-20,Git
+J058,Technical Support Engineer,Technical Support,Nashik,FinTech,2026-09-20,PostgreSQL
+J059,UI Developer,Frontend Developer,Nagpur,E-commerce,2026-05-11,HTML
+J059,UI Developer,Frontend Developer,Nagpur,E-commerce,2026-05-11,CSS
+J059,UI Developer,Frontend Developer,Nagpur,E-commerce,2026-05-11,JavaScript
+J059,UI Developer,Frontend Developer,Nagpur,E-commerce,2026-05-11,React
+J059,UI Developer,Frontend Developer,Nagpur,E-commerce,2026-05-11,Tailwind CSS
+J059,UI Developer,Frontend Developer,Nagpur,E-commerce,2026-05-11,Git
+J060,Frontend Engineer,Frontend Developer,Pune,EdTech,2026-09-07,React
+J060,Frontend Engineer,Frontend Developer,Pune,EdTech,2026-09-07,TypeScript
+J060,Frontend Engineer,Frontend Developer,Pune,EdTech,2026-09-07,JavaScript
+J060,Frontend Engineer,Frontend Developer,Pune,EdTech,2026-09-07,HTML
+J060,Frontend Engineer,Frontend Developer,Pune,EdTech,2026-09-07,CSS
+J060,Frontend Engineer,Frontend Developer,Pune,EdTech,2026-09-07,Tailwind CSS
+J060,Frontend Engineer,Frontend Developer,Pune,EdTech,2026-09-07,Angular
+J061,Site Reliability Engineer,Cloud / DevOps,Pune,IT Services,2026-04-10,Kubernetes
+J061,Site Reliability Engineer,Cloud / DevOps,Pune,IT Services,2026-04-10,AWS
+J061,Site Reliability Engineer,Cloud / DevOps,Pune,IT Services,2026-04-10,Linux
+J061,Site Reliability Engineer,Cloud / DevOps,Pune,IT Services,2026-04-10,Git
+J061,Site Reliability Engineer,Cloud / DevOps,Pune,IT Services,2026-04-10,Jenkins
+J062,Backend Engineer,Backend Developer,Nashik,EdTech,2026-05-14,Java
+J062,Backend Engineer,Backend Developer,Nashik,EdTech,2026-05-14,Spring Boot
+J062,Backend Engineer,Backend Developer,Nashik,EdTech,2026-05-14,SQL
+J062,Backend Engineer,Backend Developer,Nashik,EdTech,2026-05-14,GraphQL
+J062,Backend Engineer,Backend Developer,Nashik,EdTech,2026-05-14,Jenkins
+J063,Full Stack Developer,Full Stack Developer,Nagpur,SaaS,2026-09-08,React
+J063,Full Stack Developer,Full Stack Developer,Nagpur,SaaS,2026-09-08,JavaScript
+J063,Full Stack Developer,Full Stack Developer,Nagpur,SaaS,2026-09-08,Node.js
+J063,Full Stack Developer,Full Stack Developer,Nagpur,SaaS,2026-09-08,SQL
+J063,Full Stack Developer,Full Stack Developer,Nagpur,SaaS,2026-09-08,AWS
+J063,Full Stack Developer,Full Stack Developer,Nagpur,SaaS,2026-09-08,Docker
+J063,Full Stack Developer,Full Stack Developer,Nagpur,SaaS,2026-09-08,TypeScript
+J064,Java Developer,Backend Developer,Nagpur,FinTech,2026-08-06,Java
+J064,Java Developer,Backend Developer,Nagpur,FinTech,2026-08-06,Spring Boot
+J064,Java Developer,Backend Developer,Nagpur,FinTech,2026-08-06,SQL
+J064,Java Developer,Backend Developer,Nagpur,FinTech,2026-08-06,PostgreSQL
+J064,Java Developer,Backend Developer,Nagpur,FinTech,2026-08-06,Docker
+J064,Java Developer,Backend Developer,Nagpur,FinTech,2026-08-06,Jenkins
+J064,Java Developer,Backend Developer,Nagpur,FinTech,2026-08-06,AWS
+J065,Senior Backend Developer,Backend Developer,Mumbai,SaaS,2026-03-07,Java
+J065,Senior Backend Developer,Backend Developer,Mumbai,SaaS,2026-03-07,Spring Boot
+J065,Senior Backend Developer,Backend Developer,Mumbai,SaaS,2026-03-07,PostgreSQL
+J065,Senior Backend Developer,Backend Developer,Mumbai,SaaS,2026-03-07,AWS
+J066,React Developer,Frontend Developer,Mumbai,IT Services,2026-05-04,React
+J066,React Developer,Frontend Developer,Mumbai,IT Services,2026-05-04,JavaScript
+J066,React Developer,Frontend Developer,Mumbai,IT Services,2026-05-04,HTML
+J066,React Developer,Frontend Developer,Mumbai,IT Services,2026-05-04,CSS
+J066,React Developer,Frontend Developer,Mumbai,IT Services,2026-05-04,Tailwind CSS
+J066,React Developer,Frontend Developer,Mumbai,IT Services,2026-05-04,TypeScript
+J067,Backend Developer,Backend Developer,Mumbai,FinTech,2026-08-08,Java
+J067,Backend Developer,Backend Developer,Mumbai,FinTech,2026-08-08,Spring Boot
+J067,Backend Developer,Backend Developer,Mumbai,FinTech,2026-08-08,SQL
+J067,Backend Developer,Backend Developer,Mumbai,FinTech,2026-08-08,AWS
+J068,Data Scientist,Data Scientist,Nagpur,SaaS,2026-07-20,Python
+J068,Data Scientist,Data Scientist,Nagpur,SaaS,2026-07-20,Pandas
+J068,Data Scientist,Data Scientist,Nagpur,SaaS,2026-07-20,NumPy
+J068,Data Scientist,Data Scientist,Nagpur,SaaS,2026-07-20,Machine Learning
+J069,Product Manager,Product Management,Nashik,Logistics & Mobility,2026-04-27,Excel
+J069,Product Manager,Product Management,Nashik,Logistics & Mobility,2026-04-27,Data Analysis
+J069,Product Manager,Product Management,Nashik,Logistics & Mobility,2026-04-27,Data Visualization
+J069,Product Manager,Product Management,Nashik,Logistics & Mobility,2026-04-27,Power BI
+J069,Product Manager,Product Management,Nashik,Logistics & Mobility,2026-04-27,Python
+J070,Full Stack Developer,Full Stack Developer,Pune,HealthTech,2026-05-27,React
+J070,Full Stack Developer,Full Stack Developer,Pune,HealthTech,2026-05-27,JavaScript
+J070,Full Stack Developer,Full Stack Developer,Pune,HealthTech,2026-05-27,Node.js
+J070,Full Stack Developer,Full Stack Developer,Pune,HealthTech,2026-05-27,Git
+J070,Full Stack Developer,Full Stack Developer,Pune,HealthTech,2026-05-27,TypeScript
+J071,UI Developer,Frontend Developer,Pune,Logistics & Mobility,2026-09-03,HTML
+J071,UI Developer,Frontend Developer,Pune,Logistics & Mobility,2026-09-03,CSS
+J071,UI Developer,Frontend Developer,Pune,Logistics & Mobility,2026-09-03,JavaScript
+J071,UI Developer,Frontend Developer,Pune,Logistics & Mobility,2026-09-03,React
+J071,UI Developer,Frontend Developer,Pune,Logistics & Mobility,2026-09-03,Tailwind CSS
+J071,UI Developer,Frontend Developer,Pune,Logistics & Mobility,2026-09-03,TypeScript
+J071,UI Developer,Frontend Developer,Pune,Logistics & Mobility,2026-09-03,Angular
+J072,Technical Support Engineer,Technical Support,Nagpur,Manufacturing Technology,2026-07-13,Linux
+J072,Technical Support Engineer,Technical Support,Nagpur,Manufacturing Technology,2026-07-13,PowerShell
+J072,Technical Support Engineer,Technical Support,Nagpur,Manufacturing Technology,2026-07-13,Git
+J072,Technical Support Engineer,Technical Support,Nagpur,Manufacturing Technology,2026-07-13,Python
+J073,QA Automation Engineer,QA / Test Automation,Mumbai,SaaS,2026-08-09,Java
+J073,QA Automation Engineer,QA / Test Automation,Mumbai,SaaS,2026-08-09,Python
+J073,QA Automation Engineer,QA / Test Automation,Mumbai,SaaS,2026-08-09,Git
+J073,QA Automation Engineer,QA / Test Automation,Mumbai,SaaS,2026-08-09,CI/CD
+J073,QA Automation Engineer,QA / Test Automation,Mumbai,SaaS,2026-08-09,AWS
+J073,QA Automation Engineer,QA / Test Automation,Mumbai,SaaS,2026-08-09,Jenkins
+J073,QA Automation Engineer,QA / Test Automation,Mumbai,SaaS,2026-08-09,PostgreSQL
+J074,Full Stack Developer,Full Stack Developer,Nagpur,FinTech,2026-06-14,React
+J074,Full Stack Developer,Full Stack Developer,Nagpur,FinTech,2026-06-14,JavaScript
+J074,Full Stack Developer,Full Stack Developer,Nagpur,FinTech,2026-06-14,Node.js
+J074,Full Stack Developer,Full Stack Developer,Nagpur,FinTech,2026-06-14,PostgreSQL
+J075,Data Scientist,Data Scientist,Mumbai,EdTech,2026-03-14,Python
+J075,Data Scientist,Data Scientist,Mumbai,EdTech,2026-03-14,Pandas
+J075,Data Scientist,Data Scientist,Mumbai,EdTech,2026-03-14,NumPy
+J075,Data Scientist,Data Scientist,Mumbai,EdTech,2026-03-14,Machine Learning
+J075,Data Scientist,Data Scientist,Mumbai,EdTech,2026-03-14,Data Analysis
+J076,Data Scientist,Data Scientist,Nagpur,HealthTech,2026-09-12,Python
+J076,Data Scientist,Data Scientist,Nagpur,HealthTech,2026-09-12,Pandas
+J076,Data Scientist,Data Scientist,Nagpur,HealthTech,2026-09-12,NumPy
+J076,Data Scientist,Data Scientist,Nagpur,HealthTech,2026-09-12,Machine Learning
+J076,Data Scientist,Data Scientist,Nagpur,HealthTech,2026-09-12,Natural Language Processing
+J076,Data Scientist,Data Scientist,Nagpur,HealthTech,2026-09-12,Deep Learning
+J076,Data Scientist,Data Scientist,Nagpur,HealthTech,2026-09-12,Data Analysis
+J077,Backend Developer,Backend Developer,Nagpur,HealthTech,2026-09-20,Java
+J077,Backend Developer,Backend Developer,Nagpur,HealthTech,2026-09-20,Spring Boot
+J077,Backend Developer,Backend Developer,Nagpur,HealthTech,2026-09-20,AWS
+J077,Backend Developer,Backend Developer,Nagpur,HealthTech,2026-09-20,Jenkins
+J077,Backend Developer,Backend Developer,Nagpur,HealthTech,2026-09-20,PostgreSQL
+J078,DevOps Engineer,Cloud / DevOps,Pune,EdTech,2026-05-24,Docker
+J078,DevOps Engineer,Cloud / DevOps,Pune,EdTech,2026-05-24,Kubernetes
+J078,DevOps Engineer,Cloud / DevOps,Pune,EdTech,2026-05-24,AWS
+J078,DevOps Engineer,Cloud / DevOps,Pune,EdTech,2026-05-24,Linux
+J078,DevOps Engineer,Cloud / DevOps,Pune,EdTech,2026-05-24,Git
+J078,DevOps Engineer,Cloud / DevOps,Pune,EdTech,2026-05-24,Azure
+J078,DevOps Engineer,Cloud / DevOps,Pune,EdTech,2026-05-24,CI/CD
+J079,Node.js Developer,Backend Developer,Nashik,EdTech,2026-08-07,Node.js
+J079,Node.js Developer,Backend Developer,Nashik,EdTech,2026-08-07,JavaScript
+J079,Node.js Developer,Backend Developer,Nashik,EdTech,2026-08-07,MongoDB
+J079,Node.js Developer,Backend Developer,Nashik,EdTech,2026-08-07,Express.js
+J079,Node.js Developer,Backend Developer,Nashik,EdTech,2026-08-07,AWS
+J079,Node.js Developer,Backend Developer,Nashik,EdTech,2026-08-07,TypeScript
+J080,API Developer,Backend Developer,Nashik,EdTech,2026-03-17,Java
+J080,API Developer,Backend Developer,Nashik,EdTech,2026-03-17,Spring Boot
+J080,API Developer,Backend Developer,Nashik,EdTech,2026-03-17,FastAPI
+J080,API Developer,Backend Developer,Nashik,EdTech,2026-03-17,Node.js
+J080,API Developer,Backend Developer,Nashik,EdTech,2026-03-17,Git
+J081,Full Stack Engineer,Full Stack Developer,Nashik,E-commerce,2026-06-04,React
+J081,Full Stack Engineer,Full Stack Developer,Nashik,E-commerce,2026-06-04,Node.js
+J081,Full Stack Engineer,Full Stack Developer,Nashik,E-commerce,2026-06-04,JavaScript
+J081,Full Stack Engineer,Full Stack Developer,Nashik,E-commerce,2026-06-04,SQL
+J081,Full Stack Engineer,Full Stack Developer,Nashik,E-commerce,2026-06-04,AWS
+J081,Full Stack Engineer,Full Stack Developer,Nashik,E-commerce,2026-06-04,TypeScript
+J081,Full Stack Engineer,Full Stack Developer,Nashik,E-commerce,2026-06-04,PostgreSQL
+J082,Cloud Engineer,Cloud / DevOps,Pune,EdTech,2026-04-07,AWS
+J082,Cloud Engineer,Cloud / DevOps,Pune,EdTech,2026-04-07,Linux
+J082,Cloud Engineer,Cloud / DevOps,Pune,EdTech,2026-04-07,Git
+J083,Frontend Developer,Frontend Developer,Mumbai,E-commerce,2026-08-25,HTML
+J083,Frontend Developer,Frontend Developer,Mumbai,E-commerce,2026-08-25,CSS
+J083,Frontend Developer,Frontend Developer,Mumbai,E-commerce,2026-08-25,JavaScript
+J083,Frontend Developer,Frontend Developer,Mumbai,E-commerce,2026-08-25,React
+J083,Frontend Developer,Frontend Developer,Mumbai,E-commerce,2026-08-25,Git
+J083,Frontend Developer,Frontend Developer,Mumbai,E-commerce,2026-08-25,Angular
+J083,Frontend Developer,Frontend Developer,Mumbai,E-commerce,2026-08-25,Node.js
+J084,Product Manager,Product Management,Nashik,EdTech,2026-09-01,Excel
+J084,Product Manager,Product Management,Nashik,EdTech,2026-09-01,SQL
+J084,Product Manager,Product Management,Nashik,EdTech,2026-09-01,Data Analysis
+J084,Product Manager,Product Management,Nashik,EdTech,2026-09-01,Data Visualization
+J084,Product Manager,Product Management,Nashik,EdTech,2026-09-01,Power BI
+J085,Cloud Engineer,Cloud / DevOps,Nagpur,HealthTech,2026-08-01,AWS
+J085,Cloud Engineer,Cloud / DevOps,Nagpur,HealthTech,2026-08-01,Linux
+J085,Cloud Engineer,Cloud / DevOps,Nagpur,HealthTech,2026-08-01,Terraform
+J085,Cloud Engineer,Cloud / DevOps,Nagpur,HealthTech,2026-08-01,Kubernetes
+J086,Full Stack Developer,Full Stack Developer,Pune,Logistics & Mobility,2026-04-18,React
+J086,Full Stack Developer,Full Stack Developer,Pune,Logistics & Mobility,2026-04-18,JavaScript
+J086,Full Stack Developer,Full Stack Developer,Pune,Logistics & Mobility,2026-04-18,Node.js
+J086,Full Stack Developer,Full Stack Developer,Pune,Logistics & Mobility,2026-04-18,Git
+J086,Full Stack Developer,Full Stack Developer,Pune,Logistics & Mobility,2026-04-18,PostgreSQL
+J086,Full Stack Developer,Full Stack Developer,Pune,Logistics & Mobility,2026-04-18,AWS
+J087,Frontend Developer,Frontend Developer,Mumbai,E-commerce,2026-09-20,HTML
+J087,Frontend Developer,Frontend Developer,Mumbai,E-commerce,2026-09-20,CSS
+J087,Frontend Developer,Frontend Developer,Mumbai,E-commerce,2026-09-20,JavaScript
+J087,Frontend Developer,Frontend Developer,Mumbai,E-commerce,2026-09-20,React
+J087,Frontend Developer,Frontend Developer,Mumbai,E-commerce,2026-09-20,Git
+J087,Frontend Developer,Frontend Developer,Mumbai,E-commerce,2026-09-20,Tailwind CSS
+J087,Frontend Developer,Frontend Developer,Mumbai,E-commerce,2026-09-20,TypeScript
+J088,API Developer,Backend Developer,Nashik,FinTech,2026-04-06,Java
+J088,API Developer,Backend Developer,Nashik,FinTech,2026-04-06,Spring Boot
+J088,API Developer,Backend Developer,Nashik,FinTech,2026-04-06,SQL
+J088,API Developer,Backend Developer,Nashik,FinTech,2026-04-06,Node.js
+J089,Node.js Developer,Backend Developer,Nashik,IT Services,2026-09-10,Node.js
+J089,Node.js Developer,Backend Developer,Nashik,IT Services,2026-09-10,JavaScript
+J089,Node.js Developer,Backend Developer,Nashik,IT Services,2026-09-10,MongoDB
+J089,Node.js Developer,Backend Developer,Nashik,IT Services,2026-09-10,Express.js
+J089,Node.js Developer,Backend Developer,Nashik,IT Services,2026-09-10,TypeScript
+J089,Node.js Developer,Backend Developer,Nashik,IT Services,2026-09-10,Git
+J090,Frontend Engineer,Frontend Developer,Nagpur,HealthTech,2026-06-27,React
+J090,Frontend Engineer,Frontend Developer,Nagpur,HealthTech,2026-06-27,TypeScript
+J090,Frontend Engineer,Frontend Developer,Nagpur,HealthTech,2026-06-27,JavaScript
+J090,Frontend Engineer,Frontend Developer,Nagpur,HealthTech,2026-06-27,HTML
+J090,Frontend Engineer,Frontend Developer,Nagpur,HealthTech,2026-06-27,CSS
+J090,Frontend Engineer,Frontend Developer,Nagpur,HealthTech,2026-06-27,Tailwind CSS
+J091,Frontend Developer,Frontend Developer,Pune,E-commerce,2026-04-21,HTML
+J091,Frontend Developer,Frontend Developer,Pune,E-commerce,2026-04-21,CSS
+J091,Frontend Developer,Frontend Developer,Pune,E-commerce,2026-04-21,JavaScript
+J091,Frontend Developer,Frontend Developer,Pune,E-commerce,2026-04-21,React
+J091,Frontend Developer,Frontend Developer,Pune,E-commerce,2026-04-21,Git
+J091,Frontend Developer,Frontend Developer,Pune,E-commerce,2026-04-21,Tailwind CSS
+J092,BI Analyst,Data Analyst,Nashik,FinTech,2026-07-01,Excel
+J092,BI Analyst,Data Analyst,Nashik,FinTech,2026-07-01,Power BI
+J092,BI Analyst,Data Analyst,Nashik,FinTech,2026-07-01,Data Visualization
+J092,BI Analyst,Data Analyst,Nashik,FinTech,2026-07-01,Python
+J092,BI Analyst,Data Analyst,Nashik,FinTech,2026-07-01,Pandas
+J093,UI Developer,Frontend Developer,Pune,E-commerce,2026-06-29,HTML
+J093,UI Developer,Frontend Developer,Pune,E-commerce,2026-06-29,CSS
+J093,UI Developer,Frontend Developer,Pune,E-commerce,2026-06-29,JavaScript
+J093,UI Developer,Frontend Developer,Pune,E-commerce,2026-06-29,React
+J093,UI Developer,Frontend Developer,Pune,E-commerce,2026-06-29,Tailwind CSS
+J094,Cloud Engineer,Cloud / DevOps,Nashik,Manufacturing Technology,2026-04-29,AWS
+J094,Cloud Engineer,Cloud / DevOps,Nashik,Manufacturing Technology,2026-04-29,Linux
+J094,Cloud Engineer,Cloud / DevOps,Nashik,Manufacturing Technology,2026-04-29,CI/CD
+J095,BI Analyst,Data Analyst,Mumbai,SaaS,2026-07-03,Excel
+J095,BI Analyst,Data Analyst,Mumbai,SaaS,2026-07-03,Power BI
+J095,BI Analyst,Data Analyst,Mumbai,SaaS,2026-07-03,Data Visualization
+J095,BI Analyst,Data Analyst,Mumbai,SaaS,2026-07-03,Data Analysis
+J096,Backend Engineer,Backend Developer,Mumbai,E-commerce,2026-03-05,Java
+J096,Backend Engineer,Backend Developer,Mumbai,E-commerce,2026-03-05,Spring Boot
+J096,Backend Engineer,Backend Developer,Mumbai,E-commerce,2026-03-05,REST API
+J096,Backend Engineer,Backend Developer,Mumbai,E-commerce,2026-03-05,Git
+J096,Backend Engineer,Backend Developer,Mumbai,E-commerce,2026-03-05,PostgreSQL
+J096,Backend Engineer,Backend Developer,Mumbai,E-commerce,2026-03-05,AWS
+J097,QA Automation Engineer,QA / Test Automation,Nagpur,HealthTech,2026-05-15,Java
+J097,QA Automation Engineer,QA / Test Automation,Nagpur,HealthTech,2026-05-15,Python
+J097,QA Automation Engineer,QA / Test Automation,Nagpur,HealthTech,2026-05-15,SQL
+J097,QA Automation Engineer,QA / Test Automation,Nagpur,HealthTech,2026-05-15,Git
+J097,QA Automation Engineer,QA / Test Automation,Nagpur,HealthTech,2026-05-15,CI/CD
+J097,QA Automation Engineer,QA / Test Automation,Nagpur,HealthTech,2026-05-15,Jenkins
+J098,DevOps Engineer,Cloud / DevOps,Pune,Logistics & Mobility,2026-08-05,Kubernetes
+J098,DevOps Engineer,Cloud / DevOps,Pune,Logistics & Mobility,2026-08-05,AWS
+J098,DevOps Engineer,Cloud / DevOps,Pune,Logistics & Mobility,2026-08-05,Linux
+J098,DevOps Engineer,Cloud / DevOps,Pune,Logistics & Mobility,2026-08-05,Git
+J098,DevOps Engineer,Cloud / DevOps,Pune,Logistics & Mobility,2026-08-05,Jenkins
+J098,DevOps Engineer,Cloud / DevOps,Pune,Logistics & Mobility,2026-08-05,Terraform
+J098,DevOps Engineer,Cloud / DevOps,Pune,Logistics & Mobility,2026-08-05,PowerShell
+J099,QA Automation Engineer,QA / Test Automation,Nagpur,E-commerce,2026-08-23,Java
+J099,QA Automation Engineer,QA / Test Automation,Nagpur,E-commerce,2026-08-23,Python
+J099,QA Automation Engineer,QA / Test Automation,Nagpur,E-commerce,2026-08-23,SQL
+J099,QA Automation Engineer,QA / Test Automation,Nagpur,E-commerce,2026-08-23,Git
+J099,QA Automation Engineer,QA / Test Automation,Nagpur,E-commerce,2026-08-23,CI/CD
+J099,QA Automation Engineer,QA / Test Automation,Nagpur,E-commerce,2026-08-23,Jenkins
+J099,QA Automation Engineer,QA / Test Automation,Nagpur,E-commerce,2026-08-23,AWS
+J100,Product Manager,Product Management,Nagpur,IT Services,2026-03-25,Excel
+J100,Product Manager,Product Management,Nagpur,IT Services,2026-03-25,SQL
+J100,Product Manager,Product Management,Nagpur,IT Services,2026-03-25,Data Analysis
+J100,Product Manager,Product Management,Nagpur,IT Services,2026-03-25,Data Visualization
+J100,Product Manager,Product Management,Nagpur,IT Services,2026-03-25,Git
+J101,Product Manager,Product Management,Pune,Manufacturing Technology,2026-03-10,Excel
+J101,Product Manager,Product Management,Pune,Manufacturing Technology,2026-03-10,SQL
+J101,Product Manager,Product Management,Pune,Manufacturing Technology,2026-03-10,Data Analysis
+J101,Product Manager,Product Management,Pune,Manufacturing Technology,2026-03-10,Data Visualization
+J101,Product Manager,Product Management,Pune,Manufacturing Technology,2026-03-10,Power BI
+J101,Product Manager,Product Management,Pune,Manufacturing Technology,2026-03-10,Python
+J102,Data Engineer,Data Engineer,Nashik,FinTech,2026-03-10,Python
+J102,Data Engineer,Data Engineer,Nashik,FinTech,2026-03-10,PostgreSQL
+J102,Data Engineer,Data Engineer,Nashik,FinTech,2026-03-10,Pandas
+J102,Data Engineer,Data Engineer,Nashik,FinTech,2026-03-10,Docker
+J103,Data Analyst,Data Analyst,Nagpur,E-commerce,2026-06-07,Python
+J103,Data Analyst,Data Analyst,Nagpur,E-commerce,2026-06-07,SQL
+J103,Data Analyst,Data Analyst,Nagpur,E-commerce,2026-06-07,Excel
+J103,Data Analyst,Data Analyst,Nagpur,E-commerce,2026-06-07,Pandas
+J103,Data Analyst,Data Analyst,Nagpur,E-commerce,2026-06-07,Data Visualization
+J103,Data Analyst,Data Analyst,Nagpur,E-commerce,2026-06-07,Power BI
+J103,Data Analyst,Data Analyst,Nagpur,E-commerce,2026-06-07,Git
+J104,DevOps Engineer,Cloud / DevOps,Pune,FinTech,2026-08-19,Docker
+J104,DevOps Engineer,Cloud / DevOps,Pune,FinTech,2026-08-19,Kubernetes
+J104,DevOps Engineer,Cloud / DevOps,Pune,FinTech,2026-08-19,AWS
+J104,DevOps Engineer,Cloud / DevOps,Pune,FinTech,2026-08-19,Linux
+J104,DevOps Engineer,Cloud / DevOps,Pune,FinTech,2026-08-19,Git
+J104,DevOps Engineer,Cloud / DevOps,Pune,FinTech,2026-08-19,CI/CD
+J104,DevOps Engineer,Cloud / DevOps,Pune,FinTech,2026-08-19,GCP
+J104,DevOps Engineer,Cloud / DevOps,Pune,FinTech,2026-08-19,Azure
+J105,BI Analyst,Data Analyst,Mumbai,HealthTech,2026-04-30,Excel
+J105,BI Analyst,Data Analyst,Mumbai,HealthTech,2026-04-30,Power BI
+J105,BI Analyst,Data Analyst,Mumbai,HealthTech,2026-04-30,Data Visualization
+J105,BI Analyst,Data Analyst,Mumbai,HealthTech,2026-04-30,Git
+J105,BI Analyst,Data Analyst,Mumbai,HealthTech,2026-04-30,Data Analysis
+J105,BI Analyst,Data Analyst,Mumbai,HealthTech,2026-04-30,Pandas
+J106,Data Scientist,Data Scientist,Nashik,Manufacturing Technology,2026-05-16,Python
+J106,Data Scientist,Data Scientist,Nashik,Manufacturing Technology,2026-05-16,Pandas
+J106,Data Scientist,Data Scientist,Nashik,Manufacturing Technology,2026-05-16,NumPy
+J106,Data Scientist,Data Scientist,Nashik,Manufacturing Technology,2026-05-16,Machine Learning
+J106,Data Scientist,Data Scientist,Nashik,Manufacturing Technology,2026-05-16,Data Analysis
+J107,Senior Backend Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-08-30,Java
+J107,Senior Backend Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-08-30,Spring Boot
+J107,Senior Backend Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-08-30,REST API
+J107,Senior Backend Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-08-30,PostgreSQL
+J107,Senior Backend Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-08-30,Docker
+J107,Senior Backend Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-08-30,Kubernetes
+J108,Java Developer,Backend Developer,Nashik,EdTech,2026-08-15,Java
+J108,Java Developer,Backend Developer,Nashik,EdTech,2026-08-15,Spring Boot
+J108,Java Developer,Backend Developer,Nashik,EdTech,2026-08-15,PostgreSQL
+J108,Java Developer,Backend Developer,Nashik,EdTech,2026-08-15,REST API
+J108,Java Developer,Backend Developer,Nashik,EdTech,2026-08-15,AWS
+J108,Java Developer,Backend Developer,Nashik,EdTech,2026-08-15,Jenkins
+J109,Frontend Engineer,Frontend Developer,Nashik,Logistics & Mobility,2026-03-29,React
+J109,Frontend Engineer,Frontend Developer,Nashik,Logistics & Mobility,2026-03-29,TypeScript
+J109,Frontend Engineer,Frontend Developer,Nashik,Logistics & Mobility,2026-03-29,JavaScript
+J109,Frontend Engineer,Frontend Developer,Nashik,Logistics & Mobility,2026-03-29,HTML
+J109,Frontend Engineer,Frontend Developer,Nashik,Logistics & Mobility,2026-03-29,CSS
+J109,Frontend Engineer,Frontend Developer,Nashik,Logistics & Mobility,2026-03-29,Angular
+J110,UI Developer,Frontend Developer,Mumbai,IT Services,2026-07-15,HTML
+J110,UI Developer,Frontend Developer,Mumbai,IT Services,2026-07-15,CSS
+J110,UI Developer,Frontend Developer,Mumbai,IT Services,2026-07-15,JavaScript
+J110,UI Developer,Frontend Developer,Mumbai,IT Services,2026-07-15,React
+J110,UI Developer,Frontend Developer,Mumbai,IT Services,2026-07-15,Tailwind CSS
+J111,Data Engineer,Data Engineer,Nagpur,IT Services,2026-03-29,Python
+J111,Data Engineer,Data Engineer,Nagpur,IT Services,2026-03-29,SQL
+J111,Data Engineer,Data Engineer,Nagpur,IT Services,2026-03-29,PostgreSQL
+J111,Data Engineer,Data Engineer,Nagpur,IT Services,2026-03-29,Pandas
+J111,Data Engineer,Data Engineer,Nagpur,IT Services,2026-03-29,Docker
+J111,Data Engineer,Data Engineer,Nagpur,IT Services,2026-03-29,Git
+J112,Cloud Engineer,Cloud / DevOps,Nashik,SaaS,2026-06-28,AWS
+J112,Cloud Engineer,Cloud / DevOps,Nashik,SaaS,2026-06-28,Linux
+J112,Cloud Engineer,Cloud / DevOps,Nashik,SaaS,2026-06-28,Docker
+J112,Cloud Engineer,Cloud / DevOps,Nashik,SaaS,2026-06-28,Terraform
+J112,Cloud Engineer,Cloud / DevOps,Nashik,SaaS,2026-06-28,Azure
+J112,Cloud Engineer,Cloud / DevOps,Nashik,SaaS,2026-06-28,Git
+J112,Cloud Engineer,Cloud / DevOps,Nashik,SaaS,2026-06-28,CI/CD
+J113,UI Developer,Frontend Developer,Mumbai,FinTech,2026-08-16,HTML
+J113,UI Developer,Frontend Developer,Mumbai,FinTech,2026-08-16,CSS
+J113,UI Developer,Frontend Developer,Mumbai,FinTech,2026-08-16,JavaScript
+J113,UI Developer,Frontend Developer,Mumbai,FinTech,2026-08-16,React
+J113,UI Developer,Frontend Developer,Mumbai,FinTech,2026-08-16,Tailwind CSS
+J113,UI Developer,Frontend Developer,Mumbai,FinTech,2026-08-16,TypeScript
+J113,UI Developer,Frontend Developer,Mumbai,FinTech,2026-08-16,Git
+J114,Data Engineer,Data Engineer,Pune,IT Services,2026-05-07,Python
+J114,Data Engineer,Data Engineer,Pune,IT Services,2026-05-07,PostgreSQL
+J114,Data Engineer,Data Engineer,Pune,IT Services,2026-05-07,Pandas
+J114,Data Engineer,Data Engineer,Pune,IT Services,2026-05-07,Docker
+J114,Data Engineer,Data Engineer,Pune,IT Services,2026-05-07,Linux
+J115,Technical Support Engineer,Technical Support,Nashik,E-commerce,2026-09-14,Linux
+J115,Technical Support Engineer,Technical Support,Nashik,E-commerce,2026-09-14,PowerShell
+J115,Technical Support Engineer,Technical Support,Nashik,E-commerce,2026-09-14,Git
+J115,Technical Support Engineer,Technical Support,Nashik,E-commerce,2026-09-14,AWS
+J115,Technical Support Engineer,Technical Support,Nashik,E-commerce,2026-09-14,PostgreSQL
+J116,Site Reliability Engineer,Cloud / DevOps,Nagpur,SaaS,2026-09-08,Docker
+J116,Site Reliability Engineer,Cloud / DevOps,Nagpur,SaaS,2026-09-08,Kubernetes
+J116,Site Reliability Engineer,Cloud / DevOps,Nagpur,SaaS,2026-09-08,AWS
+J116,Site Reliability Engineer,Cloud / DevOps,Nagpur,SaaS,2026-09-08,Linux
+J116,Site Reliability Engineer,Cloud / DevOps,Nagpur,SaaS,2026-09-08,Git
+J116,Site Reliability Engineer,Cloud / DevOps,Nagpur,SaaS,2026-09-08,CI/CD
+J116,Site Reliability Engineer,Cloud / DevOps,Nagpur,SaaS,2026-09-08,PowerShell
+J117,Data Engineer,Data Engineer,Pune,IT Services,2026-07-18,Python
+J117,Data Engineer,Data Engineer,Pune,IT Services,2026-07-18,SQL
+J117,Data Engineer,Data Engineer,Pune,IT Services,2026-07-18,PostgreSQL
+J117,Data Engineer,Data Engineer,Pune,IT Services,2026-07-18,Pandas
+J117,Data Engineer,Data Engineer,Pune,IT Services,2026-07-18,Docker
+J117,Data Engineer,Data Engineer,Pune,IT Services,2026-07-18,Linux
+J117,Data Engineer,Data Engineer,Pune,IT Services,2026-07-18,Terraform
+J117,Data Engineer,Data Engineer,Pune,IT Services,2026-07-18,Git
+J118,UI Developer,Frontend Developer,Mumbai,Manufacturing Technology,2026-04-21,HTML
+J118,UI Developer,Frontend Developer,Mumbai,Manufacturing Technology,2026-04-21,CSS
+J118,UI Developer,Frontend Developer,Mumbai,Manufacturing Technology,2026-04-21,JavaScript
+J118,UI Developer,Frontend Developer,Mumbai,Manufacturing Technology,2026-04-21,React
+J118,UI Developer,Frontend Developer,Mumbai,Manufacturing Technology,2026-04-21,Tailwind CSS
+J118,UI Developer,Frontend Developer,Mumbai,Manufacturing Technology,2026-04-21,TypeScript
+J118,UI Developer,Frontend Developer,Mumbai,Manufacturing Technology,2026-04-21,Git
+J119,Frontend Engineer,Frontend Developer,Nashik,IT Services,2026-04-02,React
+J119,Frontend Engineer,Frontend Developer,Nashik,IT Services,2026-04-02,TypeScript
+J119,Frontend Engineer,Frontend Developer,Nashik,IT Services,2026-04-02,JavaScript
+J119,Frontend Engineer,Frontend Developer,Nashik,IT Services,2026-04-02,HTML
+J119,Frontend Engineer,Frontend Developer,Nashik,IT Services,2026-04-02,CSS
+J119,Frontend Engineer,Frontend Developer,Nashik,IT Services,2026-04-02,Tailwind CSS
+J119,Frontend Engineer,Frontend Developer,Nashik,IT Services,2026-04-02,Git
+J120,Node.js Developer,Backend Developer,Nagpur,Manufacturing Technology,2026-03-24,Node.js
+J120,Node.js Developer,Backend Developer,Nagpur,Manufacturing Technology,2026-03-24,JavaScript
+J120,Node.js Developer,Backend Developer,Nagpur,Manufacturing Technology,2026-03-24,MongoDB
+J120,Node.js Developer,Backend Developer,Nagpur,Manufacturing Technology,2026-03-24,Express.js
+J120,Node.js Developer,Backend Developer,Nagpur,Manufacturing Technology,2026-03-24,AWS
+J121,React Developer,Frontend Developer,Nashik,Manufacturing Technology,2026-05-22,React
+J121,React Developer,Frontend Developer,Nashik,Manufacturing Technology,2026-05-22,JavaScript
+J121,React Developer,Frontend Developer,Nashik,Manufacturing Technology,2026-05-22,HTML
+J121,React Developer,Frontend Developer,Nashik,Manufacturing Technology,2026-05-22,CSS
+J121,React Developer,Frontend Developer,Nashik,Manufacturing Technology,2026-05-22,Tailwind CSS
+J121,React Developer,Frontend Developer,Nashik,Manufacturing Technology,2026-05-22,Git
+J122,Technical Support Engineer,Technical Support,Mumbai,IT Services,2026-08-14,Linux
+J122,Technical Support Engineer,Technical Support,Mumbai,IT Services,2026-08-14,PowerShell
+J122,Technical Support Engineer,Technical Support,Mumbai,IT Services,2026-08-14,SQL
+J122,Technical Support Engineer,Technical Support,Mumbai,IT Services,2026-08-14,Git
+J122,Technical Support Engineer,Technical Support,Mumbai,IT Services,2026-08-14,Docker
+J123,BI Analyst,Data Analyst,Pune,FinTech,2026-06-16,Excel
+J123,BI Analyst,Data Analyst,Pune,FinTech,2026-06-16,Power BI
+J123,BI Analyst,Data Analyst,Pune,FinTech,2026-06-16,Data Visualization
+J123,BI Analyst,Data Analyst,Pune,FinTech,2026-06-16,Pandas
+J124,Full Stack Engineer,Full Stack Developer,Nashik,E-commerce,2026-05-11,React
+J124,Full Stack Engineer,Full Stack Developer,Nashik,E-commerce,2026-05-11,Node.js
+J124,Full Stack Engineer,Full Stack Developer,Nashik,E-commerce,2026-05-11,JavaScript
+J124,Full Stack Engineer,Full Stack Developer,Nashik,E-commerce,2026-05-11,SQL
+J124,Full Stack Engineer,Full Stack Developer,Nashik,E-commerce,2026-05-11,Git
+J124,Full Stack Engineer,Full Stack Developer,Nashik,E-commerce,2026-05-11,Express.js
+J125,Frontend Developer,Frontend Developer,Mumbai,EdTech,2026-09-11,HTML
+J125,Frontend Developer,Frontend Developer,Mumbai,EdTech,2026-09-11,CSS
+J125,Frontend Developer,Frontend Developer,Mumbai,EdTech,2026-09-11,JavaScript
+J125,Frontend Developer,Frontend Developer,Mumbai,EdTech,2026-09-11,React
+J125,Frontend Developer,Frontend Developer,Mumbai,EdTech,2026-09-11,Git
+J125,Frontend Developer,Frontend Developer,Mumbai,EdTech,2026-09-11,Node.js
+J125,Frontend Developer,Frontend Developer,Mumbai,EdTech,2026-09-11,Tailwind CSS
+J125,Frontend Developer,Frontend Developer,Mumbai,EdTech,2026-09-11,TypeScript
+J126,Backend Developer,Backend Developer,Pune,EdTech,2026-04-16,Java
+J126,Backend Developer,Backend Developer,Pune,EdTech,2026-04-16,Spring Boot
+J126,Backend Developer,Backend Developer,Pune,EdTech,2026-04-16,REST API
+J126,Backend Developer,Backend Developer,Pune,EdTech,2026-04-16,Jenkins
+J127,UI Developer,Frontend Developer,Mumbai,SaaS,2026-07-28,HTML
+J127,UI Developer,Frontend Developer,Mumbai,SaaS,2026-07-28,CSS
+J127,UI Developer,Frontend Developer,Mumbai,SaaS,2026-07-28,JavaScript
+J127,UI Developer,Frontend Developer,Mumbai,SaaS,2026-07-28,React
+J127,UI Developer,Frontend Developer,Mumbai,SaaS,2026-07-28,Tailwind CSS
+J128,Technical Support Engineer,Technical Support,Pune,EdTech,2026-03-25,Linux
+J128,Technical Support Engineer,Technical Support,Pune,EdTech,2026-03-25,PowerShell
+J128,Technical Support Engineer,Technical Support,Pune,EdTech,2026-03-25,Git
+J128,Technical Support Engineer,Technical Support,Pune,EdTech,2026-03-25,AWS
+J129,Node.js Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-05-30,Node.js
+J129,Node.js Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-05-30,JavaScript
+J129,Node.js Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-05-30,REST API
+J129,Node.js Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-05-30,MongoDB
+J129,Node.js Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-05-30,Express.js
+J129,Node.js Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-05-30,TypeScript
+J129,Node.js Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-05-30,GraphQL
+J130,Java Developer,Backend Developer,Nashik,EdTech,2026-09-06,Java
+J130,Java Developer,Backend Developer,Nashik,EdTech,2026-09-06,Spring Boot
+J130,Java Developer,Backend Developer,Nashik,EdTech,2026-09-06,SQL
+J130,Java Developer,Backend Developer,Nashik,EdTech,2026-09-06,PostgreSQL
+J130,Java Developer,Backend Developer,Nashik,EdTech,2026-09-06,REST API
+J130,Java Developer,Backend Developer,Nashik,EdTech,2026-09-06,AWS
+J130,Java Developer,Backend Developer,Nashik,EdTech,2026-09-06,Kubernetes
+J131,Site Reliability Engineer,Cloud / DevOps,Mumbai,HealthTech,2026-04-18,Docker
+J131,Site Reliability Engineer,Cloud / DevOps,Mumbai,HealthTech,2026-04-18,Kubernetes
+J131,Site Reliability Engineer,Cloud / DevOps,Mumbai,HealthTech,2026-04-18,AWS
+J131,Site Reliability Engineer,Cloud / DevOps,Mumbai,HealthTech,2026-04-18,Linux
+J131,Site Reliability Engineer,Cloud / DevOps,Mumbai,HealthTech,2026-04-18,Git
+J131,Site Reliability Engineer,Cloud / DevOps,Mumbai,HealthTech,2026-04-18,Azure
+J132,QA Automation Engineer,QA / Test Automation,Nashik,E-commerce,2026-04-05,Java
+J132,QA Automation Engineer,QA / Test Automation,Nashik,E-commerce,2026-04-05,Python
+J132,QA Automation Engineer,QA / Test Automation,Nashik,E-commerce,2026-04-05,Git
+J132,QA Automation Engineer,QA / Test Automation,Nashik,E-commerce,2026-04-05,CI/CD
+J132,QA Automation Engineer,QA / Test Automation,Nashik,E-commerce,2026-04-05,Docker
+J133,Backend Developer,Backend Developer,Nagpur,Manufacturing Technology,2026-09-07,Java
+J133,Backend Developer,Backend Developer,Nagpur,Manufacturing Technology,2026-09-07,Spring Boot
+J133,Backend Developer,Backend Developer,Nagpur,Manufacturing Technology,2026-09-07,SQL
+J133,Backend Developer,Backend Developer,Nagpur,Manufacturing Technology,2026-09-07,REST API
+J133,Backend Developer,Backend Developer,Nagpur,Manufacturing Technology,2026-09-07,FastAPI
+J133,Backend Developer,Backend Developer,Nagpur,Manufacturing Technology,2026-09-07,AWS
+J133,Backend Developer,Backend Developer,Nagpur,Manufacturing Technology,2026-09-07,Jenkins
+J134,Senior Backend Developer,Backend Developer,Pune,IT Services,2026-06-16,Java
+J134,Senior Backend Developer,Backend Developer,Pune,IT Services,2026-06-16,Spring Boot
+J134,Senior Backend Developer,Backend Developer,Pune,IT Services,2026-06-16,REST API
+J134,Senior Backend Developer,Backend Developer,Pune,IT Services,2026-06-16,PostgreSQL
+J134,Senior Backend Developer,Backend Developer,Pune,IT Services,2026-06-16,Jenkins
+J134,Senior Backend Developer,Backend Developer,Pune,IT Services,2026-06-16,Git
+J135,Cloud Engineer,Cloud / DevOps,Pune,E-commerce,2026-05-08,AWS
+J135,Cloud Engineer,Cloud / DevOps,Pune,E-commerce,2026-05-08,Linux
+J135,Cloud Engineer,Cloud / DevOps,Pune,E-commerce,2026-05-08,Docker
+J135,Cloud Engineer,Cloud / DevOps,Pune,E-commerce,2026-05-08,Terraform
+J135,Cloud Engineer,Cloud / DevOps,Pune,E-commerce,2026-05-08,Azure
+J135,Cloud Engineer,Cloud / DevOps,Pune,E-commerce,2026-05-08,Kubernetes
+J135,Cloud Engineer,Cloud / DevOps,Pune,E-commerce,2026-05-08,Git
+J136,Full Stack Developer,Full Stack Developer,Pune,IT Services,2026-09-13,React
+J136,Full Stack Developer,Full Stack Developer,Pune,IT Services,2026-09-13,JavaScript
+J136,Full Stack Developer,Full Stack Developer,Pune,IT Services,2026-09-13,Node.js
+J136,Full Stack Developer,Full Stack Developer,Pune,IT Services,2026-09-13,REST API
+J136,Full Stack Developer,Full Stack Developer,Pune,IT Services,2026-09-13,SQL
+J136,Full Stack Developer,Full Stack Developer,Pune,IT Services,2026-09-13,Git
+J136,Full Stack Developer,Full Stack Developer,Pune,IT Services,2026-09-13,AWS
+J137,Java Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-05-27,Java
+J137,Java Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-05-27,Spring Boot
+J137,Java Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-05-27,SQL
+J137,Java Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-05-27,PostgreSQL
+J137,Java Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-05-27,AWS
+J137,Java Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-05-27,Docker
+J137,Java Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-05-27,Kubernetes
+J138,Site Reliability Engineer,Cloud / DevOps,Nagpur,Manufacturing Technology,2026-05-21,Docker
+J138,Site Reliability Engineer,Cloud / DevOps,Nagpur,Manufacturing Technology,2026-05-21,Kubernetes
+J138,Site Reliability Engineer,Cloud / DevOps,Nagpur,Manufacturing Technology,2026-05-21,AWS
+J138,Site Reliability Engineer,Cloud / DevOps,Nagpur,Manufacturing Technology,2026-05-21,Linux
+J138,Site Reliability Engineer,Cloud / DevOps,Nagpur,Manufacturing Technology,2026-05-21,Git
+J138,Site Reliability Engineer,Cloud / DevOps,Nagpur,Manufacturing Technology,2026-05-21,CI/CD
+J139,Data Engineer,Data Engineer,Nagpur,HealthTech,2026-03-20,Python
+J139,Data Engineer,Data Engineer,Nagpur,HealthTech,2026-03-20,PostgreSQL
+J139,Data Engineer,Data Engineer,Nagpur,HealthTech,2026-03-20,Pandas
+J139,Data Engineer,Data Engineer,Nagpur,HealthTech,2026-03-20,Docker
+J139,Data Engineer,Data Engineer,Nagpur,HealthTech,2026-03-20,Kubernetes
+J140,Java Developer,Backend Developer,Mumbai,IT Services,2026-03-01,Java
+J140,Java Developer,Backend Developer,Mumbai,IT Services,2026-03-01,Spring Boot
+J140,Java Developer,Backend Developer,Mumbai,IT Services,2026-03-01,SQL
+J140,Java Developer,Backend Developer,Mumbai,IT Services,2026-03-01,PostgreSQL
+J140,Java Developer,Backend Developer,Mumbai,IT Services,2026-03-01,AWS
+J141,Data Analyst,Data Analyst,Nagpur,E-commerce,2026-08-14,Python
+J141,Data Analyst,Data Analyst,Nagpur,E-commerce,2026-08-14,Excel
+J141,Data Analyst,Data Analyst,Nagpur,E-commerce,2026-08-14,Pandas
+J141,Data Analyst,Data Analyst,Nagpur,E-commerce,2026-08-14,Data Visualization
+J142,Senior Backend Developer,Backend Developer,Nagpur,HealthTech,2026-07-10,Java
+J142,Senior Backend Developer,Backend Developer,Nagpur,HealthTech,2026-07-10,Spring Boot
+J142,Senior Backend Developer,Backend Developer,Nagpur,HealthTech,2026-07-10,SQL
+J142,Senior Backend Developer,Backend Developer,Nagpur,HealthTech,2026-07-10,REST API
+J142,Senior Backend Developer,Backend Developer,Nagpur,HealthTech,2026-07-10,PostgreSQL
+J142,Senior Backend Developer,Backend Developer,Nagpur,HealthTech,2026-07-10,GraphQL
+J142,Senior Backend Developer,Backend Developer,Nagpur,HealthTech,2026-07-10,Kubernetes
+J142,Senior Backend Developer,Backend Developer,Nagpur,HealthTech,2026-07-10,Git
+J143,Technical Support Engineer,Technical Support,Nashik,SaaS,2026-09-12,Linux
+J143,Technical Support Engineer,Technical Support,Nashik,SaaS,2026-09-12,PowerShell
+J143,Technical Support Engineer,Technical Support,Nashik,SaaS,2026-09-12,SQL
+J143,Technical Support Engineer,Technical Support,Nashik,SaaS,2026-09-12,Git
+J143,Technical Support Engineer,Technical Support,Nashik,SaaS,2026-09-12,AWS
+J144,Full Stack Engineer,Full Stack Developer,Nashik,Manufacturing Technology,2026-09-19,React
+J144,Full Stack Engineer,Full Stack Developer,Nashik,Manufacturing Technology,2026-09-19,Node.js
+J144,Full Stack Engineer,Full Stack Developer,Nashik,Manufacturing Technology,2026-09-19,JavaScript
+J144,Full Stack Engineer,Full Stack Developer,Nashik,Manufacturing Technology,2026-09-19,REST API
+J144,Full Stack Engineer,Full Stack Developer,Nashik,Manufacturing Technology,2026-09-19,SQL
+J144,Full Stack Engineer,Full Stack Developer,Nashik,Manufacturing Technology,2026-09-19,Docker
+J144,Full Stack Engineer,Full Stack Developer,Nashik,Manufacturing Technology,2026-09-19,AWS
+J145,Frontend Developer,Frontend Developer,Mumbai,EdTech,2026-03-13,HTML
+J145,Frontend Developer,Frontend Developer,Mumbai,EdTech,2026-03-13,CSS
+J145,Frontend Developer,Frontend Developer,Mumbai,EdTech,2026-03-13,JavaScript
+J145,Frontend Developer,Frontend Developer,Mumbai,EdTech,2026-03-13,React
+J145,Frontend Developer,Frontend Developer,Mumbai,EdTech,2026-03-13,Git
+J145,Frontend Developer,Frontend Developer,Mumbai,EdTech,2026-03-13,Node.js
+J146,Data Scientist,Data Scientist,Pune,SaaS,2026-07-04,Python
+J146,Data Scientist,Data Scientist,Pune,SaaS,2026-07-04,Pandas
+J146,Data Scientist,Data Scientist,Pune,SaaS,2026-07-04,NumPy
+J146,Data Scientist,Data Scientist,Pune,SaaS,2026-07-04,Machine Learning
+J146,Data Scientist,Data Scientist,Pune,SaaS,2026-07-04,Data Analysis
+J146,Data Scientist,Data Scientist,Pune,SaaS,2026-07-04,Natural Language Processing
+J147,API Developer,Backend Developer,Nashik,SaaS,2026-06-28,REST API
+J147,API Developer,Backend Developer,Nashik,SaaS,2026-06-28,Java
+J147,API Developer,Backend Developer,Nashik,SaaS,2026-06-28,Spring Boot
+J147,API Developer,Backend Developer,Nashik,SaaS,2026-06-28,Node.js
+J147,API Developer,Backend Developer,Nashik,SaaS,2026-06-28,FastAPI
+J148,Java Developer,Backend Developer,Nagpur,EdTech,2026-09-11,Java
+J148,Java Developer,Backend Developer,Nagpur,EdTech,2026-09-11,Spring Boot
+J148,Java Developer,Backend Developer,Nagpur,EdTech,2026-09-11,PostgreSQL
+J148,Java Developer,Backend Developer,Nagpur,EdTech,2026-09-11,REST API
+J148,Java Developer,Backend Developer,Nagpur,EdTech,2026-09-11,AWS
+J148,Java Developer,Backend Developer,Nagpur,EdTech,2026-09-11,Kubernetes
+J148,Java Developer,Backend Developer,Nagpur,EdTech,2026-09-11,Jenkins
+J149,Site Reliability Engineer,Cloud / DevOps,Pune,IT Services,2026-09-18,Docker
+J149,Site Reliability Engineer,Cloud / DevOps,Pune,IT Services,2026-09-18,Kubernetes
+J149,Site Reliability Engineer,Cloud / DevOps,Pune,IT Services,2026-09-18,AWS
+J149,Site Reliability Engineer,Cloud / DevOps,Pune,IT Services,2026-09-18,Linux
+J149,Site Reliability Engineer,Cloud / DevOps,Pune,IT Services,2026-09-18,Git
+J149,Site Reliability Engineer,Cloud / DevOps,Pune,IT Services,2026-09-18,Azure
+J149,Site Reliability Engineer,Cloud / DevOps,Pune,IT Services,2026-09-18,CI/CD
+J150,Cloud Engineer,Cloud / DevOps,Mumbai,E-commerce,2026-06-23,AWS
+J150,Cloud Engineer,Cloud / DevOps,Mumbai,E-commerce,2026-06-23,Linux
+J150,Cloud Engineer,Cloud / DevOps,Mumbai,E-commerce,2026-06-23,Docker
+J150,Cloud Engineer,Cloud / DevOps,Mumbai,E-commerce,2026-06-23,CI/CD
+J150,Cloud Engineer,Cloud / DevOps,Mumbai,E-commerce,2026-06-23,Azure
+J151,Backend Engineer,Backend Developer,Nagpur,EdTech,2026-03-23,Java
+J151,Backend Engineer,Backend Developer,Nagpur,EdTech,2026-03-23,Spring Boot
+J151,Backend Engineer,Backend Developer,Nagpur,EdTech,2026-03-23,SQL
+J151,Backend Engineer,Backend Developer,Nagpur,EdTech,2026-03-23,Node.js
+J151,Backend Engineer,Backend Developer,Nagpur,EdTech,2026-03-23,PostgreSQL
+J151,Backend Engineer,Backend Developer,Nagpur,EdTech,2026-03-23,Git
+J151,Backend Engineer,Backend Developer,Nagpur,EdTech,2026-03-23,GraphQL
+J152,Backend Engineer,Backend Developer,Nashik,SaaS,2026-05-21,Java
+J152,Backend Engineer,Backend Developer,Nashik,SaaS,2026-05-21,Spring Boot
+J152,Backend Engineer,Backend Developer,Nashik,SaaS,2026-05-21,Docker
+J152,Backend Engineer,Backend Developer,Nashik,SaaS,2026-05-21,GraphQL
+J152,Backend Engineer,Backend Developer,Nashik,SaaS,2026-05-21,PostgreSQL
+J153,Full Stack Developer,Full Stack Developer,Nashik,SaaS,2026-09-16,React
+J153,Full Stack Developer,Full Stack Developer,Nashik,SaaS,2026-09-16,JavaScript
+J153,Full Stack Developer,Full Stack Developer,Nashik,SaaS,2026-09-16,Node.js
+J153,Full Stack Developer,Full Stack Developer,Nashik,SaaS,2026-09-16,REST API
+J153,Full Stack Developer,Full Stack Developer,Nashik,SaaS,2026-09-16,SQL
+J153,Full Stack Developer,Full Stack Developer,Nashik,SaaS,2026-09-16,Docker
+J153,Full Stack Developer,Full Stack Developer,Nashik,SaaS,2026-09-16,TypeScript
+J153,Full Stack Developer,Full Stack Developer,Nashik,SaaS,2026-09-16,AWS
+J154,Data Engineer,Data Engineer,Mumbai,IT Services,2026-08-21,Python
+J154,Data Engineer,Data Engineer,Mumbai,IT Services,2026-08-21,PostgreSQL
+J154,Data Engineer,Data Engineer,Mumbai,IT Services,2026-08-21,Pandas
+J154,Data Engineer,Data Engineer,Mumbai,IT Services,2026-08-21,Docker
+J154,Data Engineer,Data Engineer,Mumbai,IT Services,2026-08-21,Kubernetes
+J155,BI Analyst,Data Analyst,Mumbai,FinTech,2026-06-11,Excel
+J155,BI Analyst,Data Analyst,Mumbai,FinTech,2026-06-11,Power BI
+J155,BI Analyst,Data Analyst,Mumbai,FinTech,2026-06-11,Data Visualization
+J155,BI Analyst,Data Analyst,Mumbai,FinTech,2026-06-11,Pandas
+J156,BI Analyst,Data Analyst,Mumbai,Manufacturing Technology,2026-06-30,Excel
+J156,BI Analyst,Data Analyst,Mumbai,Manufacturing Technology,2026-06-30,Power BI
+J156,BI Analyst,Data Analyst,Mumbai,Manufacturing Technology,2026-06-30,SQL
+J156,BI Analyst,Data Analyst,Mumbai,Manufacturing Technology,2026-06-30,Data Visualization
+J156,BI Analyst,Data Analyst,Mumbai,Manufacturing Technology,2026-06-30,Git
+J157,Product Manager,Product Management,Mumbai,HealthTech,2026-06-13,Excel
+J157,Product Manager,Product Management,Mumbai,HealthTech,2026-06-13,Data Analysis
+J157,Product Manager,Product Management,Mumbai,HealthTech,2026-06-13,Data Visualization
+J157,Product Manager,Product Management,Mumbai,HealthTech,2026-06-13,Python
+J157,Product Manager,Product Management,Mumbai,HealthTech,2026-06-13,Git
+J158,Java Developer,Backend Developer,Nagpur,Logistics & Mobility,2026-08-27,Java
+J158,Java Developer,Backend Developer,Nagpur,Logistics & Mobility,2026-08-27,Spring Boot
+J158,Java Developer,Backend Developer,Nagpur,Logistics & Mobility,2026-08-27,PostgreSQL
+J158,Java Developer,Backend Developer,Nagpur,Logistics & Mobility,2026-08-27,REST API
+J158,Java Developer,Backend Developer,Nagpur,Logistics & Mobility,2026-08-27,Kubernetes
+J158,Java Developer,Backend Developer,Nagpur,Logistics & Mobility,2026-08-27,Jenkins
+J159,React Developer,Frontend Developer,Pune,Manufacturing Technology,2026-09-17,React
+J159,React Developer,Frontend Developer,Pune,Manufacturing Technology,2026-09-17,JavaScript
+J159,React Developer,Frontend Developer,Pune,Manufacturing Technology,2026-09-17,HTML
+J159,React Developer,Frontend Developer,Pune,Manufacturing Technology,2026-09-17,CSS
+J159,React Developer,Frontend Developer,Pune,Manufacturing Technology,2026-09-17,TypeScript
+J160,Backend Engineer,Backend Developer,Nashik,E-commerce,2026-06-28,Java
+J160,Backend Engineer,Backend Developer,Nashik,E-commerce,2026-06-28,Spring Boot
+J160,Backend Engineer,Backend Developer,Nashik,E-commerce,2026-06-28,SQL
+J160,Backend Engineer,Backend Developer,Nashik,E-commerce,2026-06-28,PostgreSQL
+J161,Data Analyst,Data Analyst,Nagpur,Manufacturing Technology,2026-04-22,Python
+J161,Data Analyst,Data Analyst,Nagpur,Manufacturing Technology,2026-04-22,Excel
+J161,Data Analyst,Data Analyst,Nagpur,Manufacturing Technology,2026-04-22,Pandas
+J161,Data Analyst,Data Analyst,Nagpur,Manufacturing Technology,2026-04-22,Data Visualization
+J161,Data Analyst,Data Analyst,Nagpur,Manufacturing Technology,2026-04-22,NumPy
+J162,Technical Support Engineer,Technical Support,Nashik,IT Services,2026-05-23,Linux
+J162,Technical Support Engineer,Technical Support,Nashik,IT Services,2026-05-23,PowerShell
+J162,Technical Support Engineer,Technical Support,Nashik,IT Services,2026-05-23,SQL
+J162,Technical Support Engineer,Technical Support,Nashik,IT Services,2026-05-23,Git
+J162,Technical Support Engineer,Technical Support,Nashik,IT Services,2026-05-23,Python
+J163,Cloud Engineer,Cloud / DevOps,Nashik,HealthTech,2026-08-29,AWS
+J163,Cloud Engineer,Cloud / DevOps,Nashik,HealthTech,2026-08-29,Linux
+J163,Cloud Engineer,Cloud / DevOps,Nashik,HealthTech,2026-08-29,Terraform
+J163,Cloud Engineer,Cloud / DevOps,Nashik,HealthTech,2026-08-29,Azure
+J164,Product Manager,Product Management,Nashik,Manufacturing Technology,2026-04-15,Excel
+J164,Product Manager,Product Management,Nashik,Manufacturing Technology,2026-04-15,SQL
+J164,Product Manager,Product Management,Nashik,Manufacturing Technology,2026-04-15,Data Analysis
+J164,Product Manager,Product Management,Nashik,Manufacturing Technology,2026-04-15,Data Visualization
+J164,Product Manager,Product Management,Nashik,Manufacturing Technology,2026-04-15,Power BI
+J164,Product Manager,Product Management,Nashik,Manufacturing Technology,2026-04-15,Git
+J165,DevOps Engineer,Cloud / DevOps,Pune,SaaS,2026-05-09,Docker
+J165,DevOps Engineer,Cloud / DevOps,Pune,SaaS,2026-05-09,Kubernetes
+J165,DevOps Engineer,Cloud / DevOps,Pune,SaaS,2026-05-09,AWS
+J165,DevOps Engineer,Cloud / DevOps,Pune,SaaS,2026-05-09,Linux
+J165,DevOps Engineer,Cloud / DevOps,Pune,SaaS,2026-05-09,Git
+J165,DevOps Engineer,Cloud / DevOps,Pune,SaaS,2026-05-09,Jenkins
+J165,DevOps Engineer,Cloud / DevOps,Pune,SaaS,2026-05-09,GCP
+J165,DevOps Engineer,Cloud / DevOps,Pune,SaaS,2026-05-09,Azure
+J166,Data Engineer,Data Engineer,Mumbai,IT Services,2026-04-07,Python
+J166,Data Engineer,Data Engineer,Mumbai,IT Services,2026-04-07,SQL
+J166,Data Engineer,Data Engineer,Mumbai,IT Services,2026-04-07,PostgreSQL
+J166,Data Engineer,Data Engineer,Mumbai,IT Services,2026-04-07,Pandas
+J166,Data Engineer,Data Engineer,Mumbai,IT Services,2026-04-07,Docker
+J166,Data Engineer,Data Engineer,Mumbai,IT Services,2026-04-07,Linux
+J166,Data Engineer,Data Engineer,Mumbai,IT Services,2026-04-07,Kubernetes
+J167,QA Automation Engineer,QA / Test Automation,Mumbai,FinTech,2026-05-22,Java
+J167,QA Automation Engineer,QA / Test Automation,Mumbai,FinTech,2026-05-22,Python
+J167,QA Automation Engineer,QA / Test Automation,Mumbai,FinTech,2026-05-22,SQL
+J167,QA Automation Engineer,QA / Test Automation,Mumbai,FinTech,2026-05-22,Git
+J167,QA Automation Engineer,QA / Test Automation,Mumbai,FinTech,2026-05-22,CI/CD
+J167,QA Automation Engineer,QA / Test Automation,Mumbai,FinTech,2026-05-22,Docker
+J168,QA Automation Engineer,QA / Test Automation,Mumbai,HealthTech,2026-04-09,Java
+J168,QA Automation Engineer,QA / Test Automation,Mumbai,HealthTech,2026-04-09,Python
+J168,QA Automation Engineer,QA / Test Automation,Mumbai,HealthTech,2026-04-09,SQL
+J168,QA Automation Engineer,QA / Test Automation,Mumbai,HealthTech,2026-04-09,Git
+J168,QA Automation Engineer,QA / Test Automation,Mumbai,HealthTech,2026-04-09,CI/CD
+J168,QA Automation Engineer,QA / Test Automation,Mumbai,HealthTech,2026-04-09,PostgreSQL
+J169,Node.js Developer,Backend Developer,Mumbai,FinTech,2026-05-21,Node.js
+J169,Node.js Developer,Backend Developer,Mumbai,FinTech,2026-05-21,JavaScript
+J169,Node.js Developer,Backend Developer,Mumbai,FinTech,2026-05-21,REST API
+J169,Node.js Developer,Backend Developer,Mumbai,FinTech,2026-05-21,MongoDB
+J169,Node.js Developer,Backend Developer,Mumbai,FinTech,2026-05-21,Express.js
+J169,Node.js Developer,Backend Developer,Mumbai,FinTech,2026-05-21,AWS
+J170,Backend Developer,Backend Developer,Nagpur,FinTech,2026-09-05,Java
+J170,Backend Developer,Backend Developer,Nagpur,FinTech,2026-09-05,Spring Boot
+J170,Backend Developer,Backend Developer,Nagpur,FinTech,2026-09-05,SQL
+J170,Backend Developer,Backend Developer,Nagpur,FinTech,2026-09-05,AWS
+J171,React Developer,Frontend Developer,Nashik,E-commerce,2026-08-07,React
+J171,React Developer,Frontend Developer,Nashik,E-commerce,2026-08-07,JavaScript
+J171,React Developer,Frontend Developer,Nashik,E-commerce,2026-08-07,HTML
+J171,React Developer,Frontend Developer,Nashik,E-commerce,2026-08-07,CSS
+J171,React Developer,Frontend Developer,Nashik,E-commerce,2026-08-07,Git
+J171,React Developer,Frontend Developer,Nashik,E-commerce,2026-08-07,TypeScript
+J172,Backend Engineer,Backend Developer,Pune,FinTech,2026-04-17,Java
+J172,Backend Engineer,Backend Developer,Pune,FinTech,2026-04-17,Spring Boot
+J172,Backend Engineer,Backend Developer,Pune,FinTech,2026-04-17,REST API
+J172,Backend Engineer,Backend Developer,Pune,FinTech,2026-04-17,Jenkins
+J172,Backend Engineer,Backend Developer,Pune,FinTech,2026-04-17,GraphQL
+J173,Data Analyst,Data Analyst,Pune,IT Services,2026-08-09,Python
+J173,Data Analyst,Data Analyst,Pune,IT Services,2026-08-09,SQL
+J173,Data Analyst,Data Analyst,Pune,IT Services,2026-08-09,Excel
+J173,Data Analyst,Data Analyst,Pune,IT Services,2026-08-09,Pandas
+J173,Data Analyst,Data Analyst,Pune,IT Services,2026-08-09,Data Visualization
+J173,Data Analyst,Data Analyst,Pune,IT Services,2026-08-09,Data Analysis
+J174,API Developer,Backend Developer,Pune,Logistics & Mobility,2026-09-07,REST API
+J174,API Developer,Backend Developer,Pune,Logistics & Mobility,2026-09-07,Java
+J174,API Developer,Backend Developer,Pune,Logistics & Mobility,2026-09-07,Spring Boot
+J174,API Developer,Backend Developer,Pune,Logistics & Mobility,2026-09-07,PostgreSQL
+J175,Product Manager,Product Management,Nagpur,EdTech,2026-09-05,Excel
+J175,Product Manager,Product Management,Nagpur,EdTech,2026-09-05,Data Analysis
+J175,Product Manager,Product Management,Nagpur,EdTech,2026-09-05,Data Visualization
+J175,Product Manager,Product Management,Nagpur,EdTech,2026-09-05,Power BI
+J175,Product Manager,Product Management,Nagpur,EdTech,2026-09-05,PostgreSQL
+J176,Frontend Engineer,Frontend Developer,Pune,E-commerce,2026-03-23,React
+J176,Frontend Engineer,Frontend Developer,Pune,E-commerce,2026-03-23,TypeScript
+J176,Frontend Engineer,Frontend Developer,Pune,E-commerce,2026-03-23,JavaScript
+J176,Frontend Engineer,Frontend Developer,Pune,E-commerce,2026-03-23,HTML
+J176,Frontend Engineer,Frontend Developer,Pune,E-commerce,2026-03-23,CSS
+J176,Frontend Engineer,Frontend Developer,Pune,E-commerce,2026-03-23,Git
+J176,Frontend Engineer,Frontend Developer,Pune,E-commerce,2026-03-23,Node.js
+J176,Frontend Engineer,Frontend Developer,Pune,E-commerce,2026-03-23,Angular
+J177,Data Scientist,Data Scientist,Nagpur,FinTech,2026-09-07,Python
+J177,Data Scientist,Data Scientist,Nagpur,FinTech,2026-09-07,Pandas
+J177,Data Scientist,Data Scientist,Nagpur,FinTech,2026-09-07,NumPy
+J177,Data Scientist,Data Scientist,Nagpur,FinTech,2026-09-07,Machine Learning
+J177,Data Scientist,Data Scientist,Nagpur,FinTech,2026-09-07,Natural Language Processing
+J177,Data Scientist,Data Scientist,Nagpur,FinTech,2026-09-07,Data Analysis
+J178,Cloud Engineer,Cloud / DevOps,Nashik,HealthTech,2026-04-27,AWS
+J178,Cloud Engineer,Cloud / DevOps,Nashik,HealthTech,2026-04-27,Linux
+J178,Cloud Engineer,Cloud / DevOps,Nashik,HealthTech,2026-04-27,Docker
+J178,Cloud Engineer,Cloud / DevOps,Nashik,HealthTech,2026-04-27,Terraform
+J178,Cloud Engineer,Cloud / DevOps,Nashik,HealthTech,2026-04-27,Azure
+J179,Data Scientist,Data Scientist,Mumbai,FinTech,2026-03-02,Python
+J179,Data Scientist,Data Scientist,Mumbai,FinTech,2026-03-02,Pandas
+J179,Data Scientist,Data Scientist,Mumbai,FinTech,2026-03-02,NumPy
+J179,Data Scientist,Data Scientist,Mumbai,FinTech,2026-03-02,Machine Learning
+J179,Data Scientist,Data Scientist,Mumbai,FinTech,2026-03-02,Natural Language Processing
+J179,Data Scientist,Data Scientist,Mumbai,FinTech,2026-03-02,Deep Learning
+J180,Technical Support Engineer,Technical Support,Nagpur,IT Services,2026-08-23,Linux
+J180,Technical Support Engineer,Technical Support,Nagpur,IT Services,2026-08-23,PowerShell
+J180,Technical Support Engineer,Technical Support,Nagpur,IT Services,2026-08-23,SQL
+J180,Technical Support Engineer,Technical Support,Nagpur,IT Services,2026-08-23,Git
+J180,Technical Support Engineer,Technical Support,Nagpur,IT Services,2026-08-23,AWS
+J180,Technical Support Engineer,Technical Support,Nagpur,IT Services,2026-08-23,Docker
+J181,Full Stack Engineer,Full Stack Developer,Nashik,IT Services,2026-09-05,React
+J181,Full Stack Engineer,Full Stack Developer,Nashik,IT Services,2026-09-05,Node.js
+J181,Full Stack Engineer,Full Stack Developer,Nashik,IT Services,2026-09-05,JavaScript
+J181,Full Stack Engineer,Full Stack Developer,Nashik,IT Services,2026-09-05,REST API
+J181,Full Stack Engineer,Full Stack Developer,Nashik,IT Services,2026-09-05,SQL
+J181,Full Stack Engineer,Full Stack Developer,Nashik,IT Services,2026-09-05,Git
+J181,Full Stack Engineer,Full Stack Developer,Nashik,IT Services,2026-09-05,AWS
+J182,Full Stack Engineer,Full Stack Developer,Nagpur,EdTech,2026-03-10,React
+J182,Full Stack Engineer,Full Stack Developer,Nagpur,EdTech,2026-03-10,Node.js
+J182,Full Stack Engineer,Full Stack Developer,Nagpur,EdTech,2026-03-10,JavaScript
+J182,Full Stack Engineer,Full Stack Developer,Nagpur,EdTech,2026-03-10,SQL
+J182,Full Stack Engineer,Full Stack Developer,Nagpur,EdTech,2026-03-10,Express.js
+J182,Full Stack Engineer,Full Stack Developer,Nagpur,EdTech,2026-03-10,PostgreSQL
+J182,Full Stack Engineer,Full Stack Developer,Nagpur,EdTech,2026-03-10,Git
+J183,Frontend Developer,Frontend Developer,Nagpur,EdTech,2026-05-07,HTML
+J183,Frontend Developer,Frontend Developer,Nagpur,EdTech,2026-05-07,CSS
+J183,Frontend Developer,Frontend Developer,Nagpur,EdTech,2026-05-07,JavaScript
+J183,Frontend Developer,Frontend Developer,Nagpur,EdTech,2026-05-07,React
+J183,Frontend Developer,Frontend Developer,Nagpur,EdTech,2026-05-07,Git
+J183,Frontend Developer,Frontend Developer,Nagpur,EdTech,2026-05-07,TypeScript
+J184,Data Analyst,Data Analyst,Nagpur,SaaS,2026-03-25,Python
+J184,Data Analyst,Data Analyst,Nagpur,SaaS,2026-03-25,SQL
+J184,Data Analyst,Data Analyst,Nagpur,SaaS,2026-03-25,Excel
+J184,Data Analyst,Data Analyst,Nagpur,SaaS,2026-03-25,Pandas
+J184,Data Analyst,Data Analyst,Nagpur,SaaS,2026-03-25,Data Visualization
+J184,Data Analyst,Data Analyst,Nagpur,SaaS,2026-03-25,Git
+J184,Data Analyst,Data Analyst,Nagpur,SaaS,2026-03-25,Data Analysis
+J184,Data Analyst,Data Analyst,Nagpur,SaaS,2026-03-25,NumPy
+J185,Backend Developer,Backend Developer,Nagpur,SaaS,2026-09-08,Java
+J185,Backend Developer,Backend Developer,Nagpur,SaaS,2026-09-08,Spring Boot
+J185,Backend Developer,Backend Developer,Nagpur,SaaS,2026-09-08,SQL
+J185,Backend Developer,Backend Developer,Nagpur,SaaS,2026-09-08,REST API
+J185,Backend Developer,Backend Developer,Nagpur,SaaS,2026-09-08,AWS
+J185,Backend Developer,Backend Developer,Nagpur,SaaS,2026-09-08,PostgreSQL
+J185,Backend Developer,Backend Developer,Nagpur,SaaS,2026-09-08,Node.js
+J185,Backend Developer,Backend Developer,Nagpur,SaaS,2026-09-08,Jenkins
+J186,Product Manager,Product Management,Pune,IT Services,2026-08-02,Excel
+J186,Product Manager,Product Management,Pune,IT Services,2026-08-02,Data Analysis
+J186,Product Manager,Product Management,Pune,IT Services,2026-08-02,Data Visualization
+J186,Product Manager,Product Management,Pune,IT Services,2026-08-02,Power BI
+J186,Product Manager,Product Management,Pune,IT Services,2026-08-02,Python
+J187,Backend Engineer,Backend Developer,Mumbai,EdTech,2026-03-13,Java
+J187,Backend Engineer,Backend Developer,Mumbai,EdTech,2026-03-13,Spring Boot
+J187,Backend Engineer,Backend Developer,Mumbai,EdTech,2026-03-13,SQL
+J187,Backend Engineer,Backend Developer,Mumbai,EdTech,2026-03-13,Jenkins
+J187,Backend Engineer,Backend Developer,Mumbai,EdTech,2026-03-13,PostgreSQL
+J187,Backend Engineer,Backend Developer,Mumbai,EdTech,2026-03-13,Node.js
+J187,Backend Engineer,Backend Developer,Mumbai,EdTech,2026-03-13,Docker
+J188,Backend Developer,Backend Developer,Nashik,SaaS,2026-06-18,Java
+J188,Backend Developer,Backend Developer,Nashik,SaaS,2026-06-18,Spring Boot
+J188,Backend Developer,Backend Developer,Nashik,SaaS,2026-06-18,SQL
+J188,Backend Developer,Backend Developer,Nashik,SaaS,2026-06-18,REST API
+J188,Backend Developer,Backend Developer,Nashik,SaaS,2026-06-18,FastAPI
+J188,Backend Developer,Backend Developer,Nashik,SaaS,2026-06-18,AWS
+J188,Backend Developer,Backend Developer,Nashik,SaaS,2026-06-18,PostgreSQL
+J188,Backend Developer,Backend Developer,Nashik,SaaS,2026-06-18,GraphQL
+J189,DevOps Engineer,Cloud / DevOps,Mumbai,Manufacturing Technology,2026-07-14,Docker
+J189,DevOps Engineer,Cloud / DevOps,Mumbai,Manufacturing Technology,2026-07-14,Kubernetes
+J189,DevOps Engineer,Cloud / DevOps,Mumbai,Manufacturing Technology,2026-07-14,AWS
+J189,DevOps Engineer,Cloud / DevOps,Mumbai,Manufacturing Technology,2026-07-14,Linux
+J189,DevOps Engineer,Cloud / DevOps,Mumbai,Manufacturing Technology,2026-07-14,Git
+J189,DevOps Engineer,Cloud / DevOps,Mumbai,Manufacturing Technology,2026-07-14,CI/CD
+J189,DevOps Engineer,Cloud / DevOps,Mumbai,Manufacturing Technology,2026-07-14,GCP
+J190,Site Reliability Engineer,Cloud / DevOps,Pune,Logistics & Mobility,2026-03-11,Kubernetes
+J190,Site Reliability Engineer,Cloud / DevOps,Pune,Logistics & Mobility,2026-03-11,AWS
+J190,Site Reliability Engineer,Cloud / DevOps,Pune,Logistics & Mobility,2026-03-11,Linux
+J190,Site Reliability Engineer,Cloud / DevOps,Pune,Logistics & Mobility,2026-03-11,Git
+J190,Site Reliability Engineer,Cloud / DevOps,Pune,Logistics & Mobility,2026-03-11,Jenkins
+J191,DevOps Engineer,Cloud / DevOps,Nashik,FinTech,2026-03-20,Kubernetes
+J191,DevOps Engineer,Cloud / DevOps,Nashik,FinTech,2026-03-20,AWS
+J191,DevOps Engineer,Cloud / DevOps,Nashik,FinTech,2026-03-20,Linux
+J191,DevOps Engineer,Cloud / DevOps,Nashik,FinTech,2026-03-20,Git
+J191,DevOps Engineer,Cloud / DevOps,Nashik,FinTech,2026-03-20,CI/CD
+J191,DevOps Engineer,Cloud / DevOps,Nashik,FinTech,2026-03-20,Azure
+J191,DevOps Engineer,Cloud / DevOps,Nashik,FinTech,2026-03-20,GCP
+J192,Senior Backend Developer,Backend Developer,Mumbai,SaaS,2026-08-19,Java
+J192,Senior Backend Developer,Backend Developer,Mumbai,SaaS,2026-08-19,Spring Boot
+J192,Senior Backend Developer,Backend Developer,Mumbai,SaaS,2026-08-19,REST API
+J192,Senior Backend Developer,Backend Developer,Mumbai,SaaS,2026-08-19,PostgreSQL
+J192,Senior Backend Developer,Backend Developer,Mumbai,SaaS,2026-08-19,AWS
+J192,Senior Backend Developer,Backend Developer,Mumbai,SaaS,2026-08-19,Docker
+J193,Frontend Developer,Frontend Developer,Mumbai,Logistics & Mobility,2026-08-17,HTML
+J193,Frontend Developer,Frontend Developer,Mumbai,Logistics & Mobility,2026-08-17,CSS
+J193,Frontend Developer,Frontend Developer,Mumbai,Logistics & Mobility,2026-08-17,JavaScript
+J193,Frontend Developer,Frontend Developer,Mumbai,Logistics & Mobility,2026-08-17,React
+J193,Frontend Developer,Frontend Developer,Mumbai,Logistics & Mobility,2026-08-17,Git
+J193,Frontend Developer,Frontend Developer,Mumbai,Logistics & Mobility,2026-08-17,Node.js
+J193,Frontend Developer,Frontend Developer,Mumbai,Logistics & Mobility,2026-08-17,TypeScript
+J194,QA Automation Engineer,QA / Test Automation,Mumbai,SaaS,2026-03-05,Java
+J194,QA Automation Engineer,QA / Test Automation,Mumbai,SaaS,2026-03-05,Python
+J194,QA Automation Engineer,QA / Test Automation,Mumbai,SaaS,2026-03-05,Git
+J194,QA Automation Engineer,QA / Test Automation,Mumbai,SaaS,2026-03-05,CI/CD
+J194,QA Automation Engineer,QA / Test Automation,Mumbai,SaaS,2026-03-05,Jenkins
+J194,QA Automation Engineer,QA / Test Automation,Mumbai,SaaS,2026-03-05,AWS
+J195,React Developer,Frontend Developer,Nagpur,Manufacturing Technology,2026-09-19,React
+J195,React Developer,Frontend Developer,Nagpur,Manufacturing Technology,2026-09-19,JavaScript
+J195,React Developer,Frontend Developer,Nagpur,Manufacturing Technology,2026-09-19,HTML
+J195,React Developer,Frontend Developer,Nagpur,Manufacturing Technology,2026-09-19,CSS
+J195,React Developer,Frontend Developer,Nagpur,Manufacturing Technology,2026-09-19,Git
+J196,QA Automation Engineer,QA / Test Automation,Nashik,SaaS,2026-07-18,Java
+J196,QA Automation Engineer,QA / Test Automation,Nashik,SaaS,2026-07-18,Python
+J196,QA Automation Engineer,QA / Test Automation,Nashik,SaaS,2026-07-18,SQL
+J196,QA Automation Engineer,QA / Test Automation,Nashik,SaaS,2026-07-18,Git
+J196,QA Automation Engineer,QA / Test Automation,Nashik,SaaS,2026-07-18,CI/CD
+J196,QA Automation Engineer,QA / Test Automation,Nashik,SaaS,2026-07-18,AWS
+J197,Node.js Developer,Backend Developer,Pune,E-commerce,2026-04-03,Node.js
+J197,Node.js Developer,Backend Developer,Pune,E-commerce,2026-04-03,JavaScript
+J197,Node.js Developer,Backend Developer,Pune,E-commerce,2026-04-03,MongoDB
+J197,Node.js Developer,Backend Developer,Pune,E-commerce,2026-04-03,Express.js
+J198,Node.js Developer,Backend Developer,Pune,FinTech,2026-08-07,Node.js
+J198,Node.js Developer,Backend Developer,Pune,FinTech,2026-08-07,JavaScript
+J198,Node.js Developer,Backend Developer,Pune,FinTech,2026-08-07,MongoDB
+J198,Node.js Developer,Backend Developer,Pune,FinTech,2026-08-07,Express.js
+J198,Node.js Developer,Backend Developer,Pune,FinTech,2026-08-07,Git
+J199,Frontend Developer,Frontend Developer,Pune,HealthTech,2026-03-08,HTML
+J199,Frontend Developer,Frontend Developer,Pune,HealthTech,2026-03-08,CSS
+J199,Frontend Developer,Frontend Developer,Pune,HealthTech,2026-03-08,JavaScript
+J199,Frontend Developer,Frontend Developer,Pune,HealthTech,2026-03-08,React
+J199,Frontend Developer,Frontend Developer,Pune,HealthTech,2026-03-08,Git
+J199,Frontend Developer,Frontend Developer,Pune,HealthTech,2026-03-08,Angular
+J200,React Developer,Frontend Developer,Nagpur,Logistics & Mobility,2026-03-05,React
+J200,React Developer,Frontend Developer,Nagpur,Logistics & Mobility,2026-03-05,JavaScript
+J200,React Developer,Frontend Developer,Nagpur,Logistics & Mobility,2026-03-05,HTML
+J200,React Developer,Frontend Developer,Nagpur,Logistics & Mobility,2026-03-05,CSS
+J200,React Developer,Frontend Developer,Nagpur,Logistics & Mobility,2026-03-05,TypeScript
+J200,React Developer,Frontend Developer,Nagpur,Logistics & Mobility,2026-03-05,Git
+J200,React Developer,Frontend Developer,Nagpur,Logistics & Mobility,2026-03-05,Tailwind CSS
+J201,Backend Engineer,Backend Developer,Mumbai,Manufacturing Technology,2026-06-18,Java
+J201,Backend Engineer,Backend Developer,Mumbai,Manufacturing Technology,2026-06-18,Spring Boot
+J201,Backend Engineer,Backend Developer,Mumbai,Manufacturing Technology,2026-06-18,GraphQL
+J201,Backend Engineer,Backend Developer,Mumbai,Manufacturing Technology,2026-06-18,AWS
+J202,Data Engineer,Data Engineer,Nashik,Logistics & Mobility,2026-06-22,Python
+J202,Data Engineer,Data Engineer,Nashik,Logistics & Mobility,2026-06-22,PostgreSQL
+J202,Data Engineer,Data Engineer,Nashik,Logistics & Mobility,2026-06-22,Pandas
+J202,Data Engineer,Data Engineer,Nashik,Logistics & Mobility,2026-06-22,Docker
+J202,Data Engineer,Data Engineer,Nashik,Logistics & Mobility,2026-06-22,Kubernetes
+J203,BI Analyst,Data Analyst,Nagpur,HealthTech,2026-04-18,Excel
+J203,BI Analyst,Data Analyst,Nagpur,HealthTech,2026-04-18,Power BI
+J203,BI Analyst,Data Analyst,Nagpur,HealthTech,2026-04-18,Data Visualization
+J203,BI Analyst,Data Analyst,Nagpur,HealthTech,2026-04-18,Python
+J204,Data Scientist,Data Scientist,Nashik,HealthTech,2026-09-19,Python
+J204,Data Scientist,Data Scientist,Nashik,HealthTech,2026-09-19,Pandas
+J204,Data Scientist,Data Scientist,Nashik,HealthTech,2026-09-19,NumPy
+J204,Data Scientist,Data Scientist,Nashik,HealthTech,2026-09-19,Machine Learning
+J204,Data Scientist,Data Scientist,Nashik,HealthTech,2026-09-19,Deep Learning
+J204,Data Scientist,Data Scientist,Nashik,HealthTech,2026-09-19,Natural Language Processing
+J204,Data Scientist,Data Scientist,Nashik,HealthTech,2026-09-19,Docker
+J205,Full Stack Engineer,Full Stack Developer,Mumbai,HealthTech,2026-07-19,React
+J205,Full Stack Engineer,Full Stack Developer,Mumbai,HealthTech,2026-07-19,Node.js
+J205,Full Stack Engineer,Full Stack Developer,Mumbai,HealthTech,2026-07-19,JavaScript
+J205,Full Stack Engineer,Full Stack Developer,Mumbai,HealthTech,2026-07-19,SQL
+J205,Full Stack Engineer,Full Stack Developer,Mumbai,HealthTech,2026-07-19,Docker
+J205,Full Stack Engineer,Full Stack Developer,Mumbai,HealthTech,2026-07-19,AWS
+J206,Site Reliability Engineer,Cloud / DevOps,Pune,FinTech,2026-09-01,Docker
+J206,Site Reliability Engineer,Cloud / DevOps,Pune,FinTech,2026-09-01,Kubernetes
+J206,Site Reliability Engineer,Cloud / DevOps,Pune,FinTech,2026-09-01,AWS
+J206,Site Reliability Engineer,Cloud / DevOps,Pune,FinTech,2026-09-01,Linux
+J206,Site Reliability Engineer,Cloud / DevOps,Pune,FinTech,2026-09-01,Git
+J206,Site Reliability Engineer,Cloud / DevOps,Pune,FinTech,2026-09-01,Jenkins
+J206,Site Reliability Engineer,Cloud / DevOps,Pune,FinTech,2026-09-01,PowerShell
+J207,Java Developer,Backend Developer,Nashik,SaaS,2026-05-12,Java
+J207,Java Developer,Backend Developer,Nashik,SaaS,2026-05-12,Spring Boot
+J207,Java Developer,Backend Developer,Nashik,SaaS,2026-05-12,PostgreSQL
+J207,Java Developer,Backend Developer,Nashik,SaaS,2026-05-12,REST API
+J208,Backend Developer,Backend Developer,Pune,HealthTech,2026-09-09,Java
+J208,Backend Developer,Backend Developer,Pune,HealthTech,2026-09-09,Spring Boot
+J208,Backend Developer,Backend Developer,Pune,HealthTech,2026-09-09,SQL
+J209,API Developer,Backend Developer,Nagpur,HealthTech,2026-07-17,REST API
+J209,API Developer,Backend Developer,Nagpur,HealthTech,2026-07-17,Java
+J209,API Developer,Backend Developer,Nagpur,HealthTech,2026-07-17,Spring Boot
+J209,API Developer,Backend Developer,Nagpur,HealthTech,2026-07-17,SQL
+J209,API Developer,Backend Developer,Nagpur,HealthTech,2026-07-17,FastAPI
+J209,API Developer,Backend Developer,Nagpur,HealthTech,2026-07-17,Git
+J209,API Developer,Backend Developer,Nagpur,HealthTech,2026-07-17,GraphQL
+J210,Data Engineer,Data Engineer,Pune,E-commerce,2026-06-30,Python
+J210,Data Engineer,Data Engineer,Pune,E-commerce,2026-06-30,PostgreSQL
+J210,Data Engineer,Data Engineer,Pune,E-commerce,2026-06-30,Pandas
+J211,Full Stack Developer,Full Stack Developer,Nagpur,SaaS,2026-05-10,React
+J211,Full Stack Developer,Full Stack Developer,Nagpur,SaaS,2026-05-10,JavaScript
+J211,Full Stack Developer,Full Stack Developer,Nagpur,SaaS,2026-05-10,Node.js
+J211,Full Stack Developer,Full Stack Developer,Nagpur,SaaS,2026-05-10,SQL
+J211,Full Stack Developer,Full Stack Developer,Nagpur,SaaS,2026-05-10,Docker
+J211,Full Stack Developer,Full Stack Developer,Nagpur,SaaS,2026-05-10,AWS
+J212,Data Scientist,Data Scientist,Nagpur,EdTech,2026-04-07,Python
+J212,Data Scientist,Data Scientist,Nagpur,EdTech,2026-04-07,Pandas
+J212,Data Scientist,Data Scientist,Nagpur,EdTech,2026-04-07,NumPy
+J212,Data Scientist,Data Scientist,Nagpur,EdTech,2026-04-07,Machine Learning
+J212,Data Scientist,Data Scientist,Nagpur,EdTech,2026-04-07,Data Analysis
+J213,API Developer,Backend Developer,Nagpur,Logistics & Mobility,2026-07-17,REST API
+J213,API Developer,Backend Developer,Nagpur,Logistics & Mobility,2026-07-17,Java
+J213,API Developer,Backend Developer,Nagpur,Logistics & Mobility,2026-07-17,Spring Boot
+J213,API Developer,Backend Developer,Nagpur,Logistics & Mobility,2026-07-17,GraphQL
+J213,API Developer,Backend Developer,Nagpur,Logistics & Mobility,2026-07-17,FastAPI
+J214,Full Stack Engineer,Full Stack Developer,Nashik,IT Services,2026-06-19,React
+J214,Full Stack Engineer,Full Stack Developer,Nashik,IT Services,2026-06-19,Node.js
+J214,Full Stack Engineer,Full Stack Developer,Nashik,IT Services,2026-06-19,JavaScript
+J214,Full Stack Engineer,Full Stack Developer,Nashik,IT Services,2026-06-19,Git
+J214,Full Stack Engineer,Full Stack Developer,Nashik,IT Services,2026-06-19,Docker
+J214,Full Stack Engineer,Full Stack Developer,Nashik,IT Services,2026-06-19,AWS
+J215,Frontend Engineer,Frontend Developer,Mumbai,HealthTech,2026-06-17,React
+J215,Frontend Engineer,Frontend Developer,Mumbai,HealthTech,2026-06-17,TypeScript
+J215,Frontend Engineer,Frontend Developer,Mumbai,HealthTech,2026-06-17,JavaScript
+J215,Frontend Engineer,Frontend Developer,Mumbai,HealthTech,2026-06-17,HTML
+J215,Frontend Engineer,Frontend Developer,Mumbai,HealthTech,2026-06-17,CSS
+J215,Frontend Engineer,Frontend Developer,Mumbai,HealthTech,2026-06-17,Tailwind CSS
+J215,Frontend Engineer,Frontend Developer,Mumbai,HealthTech,2026-06-17,Angular
+J216,Data Analyst,Data Analyst,Nashik,E-commerce,2026-08-03,Python
+J216,Data Analyst,Data Analyst,Nashik,E-commerce,2026-08-03,Excel
+J216,Data Analyst,Data Analyst,Nashik,E-commerce,2026-08-03,Pandas
+J216,Data Analyst,Data Analyst,Nashik,E-commerce,2026-08-03,Data Visualization
+J216,Data Analyst,Data Analyst,Nashik,E-commerce,2026-08-03,Power BI
+J216,Data Analyst,Data Analyst,Nashik,E-commerce,2026-08-03,NumPy
+J217,BI Analyst,Data Analyst,Nagpur,SaaS,2026-07-26,Excel
+J217,BI Analyst,Data Analyst,Nagpur,SaaS,2026-07-26,Power BI
+J217,BI Analyst,Data Analyst,Nagpur,SaaS,2026-07-26,Data Visualization
+J217,BI Analyst,Data Analyst,Nagpur,SaaS,2026-07-26,Data Analysis
+J217,BI Analyst,Data Analyst,Nagpur,SaaS,2026-07-26,Python
+J218,DevOps Engineer,Cloud / DevOps,Nagpur,Logistics & Mobility,2026-07-14,Kubernetes
+J218,DevOps Engineer,Cloud / DevOps,Nagpur,Logistics & Mobility,2026-07-14,AWS
+J218,DevOps Engineer,Cloud / DevOps,Nagpur,Logistics & Mobility,2026-07-14,Linux
+J218,DevOps Engineer,Cloud / DevOps,Nagpur,Logistics & Mobility,2026-07-14,Git
+J218,DevOps Engineer,Cloud / DevOps,Nagpur,Logistics & Mobility,2026-07-14,GCP
+J218,DevOps Engineer,Cloud / DevOps,Nagpur,Logistics & Mobility,2026-07-14,Azure
+J219,Cloud Engineer,Cloud / DevOps,Pune,IT Services,2026-05-13,AWS
+J219,Cloud Engineer,Cloud / DevOps,Pune,IT Services,2026-05-13,Linux
+J219,Cloud Engineer,Cloud / DevOps,Pune,IT Services,2026-05-13,Docker
+J219,Cloud Engineer,Cloud / DevOps,Pune,IT Services,2026-05-13,Terraform
+J219,Cloud Engineer,Cloud / DevOps,Pune,IT Services,2026-05-13,Azure
+J219,Cloud Engineer,Cloud / DevOps,Pune,IT Services,2026-05-13,Kubernetes
+J220,UI Developer,Frontend Developer,Mumbai,Manufacturing Technology,2026-07-22,HTML
+J220,UI Developer,Frontend Developer,Mumbai,Manufacturing Technology,2026-07-22,CSS
+J220,UI Developer,Frontend Developer,Mumbai,Manufacturing Technology,2026-07-22,JavaScript
+J220,UI Developer,Frontend Developer,Mumbai,Manufacturing Technology,2026-07-22,React
+J220,UI Developer,Frontend Developer,Mumbai,Manufacturing Technology,2026-07-22,Tailwind CSS
+J221,API Developer,Backend Developer,Mumbai,EdTech,2026-03-06,REST API
+J221,API Developer,Backend Developer,Mumbai,EdTech,2026-03-06,Java
+J221,API Developer,Backend Developer,Mumbai,EdTech,2026-03-06,Spring Boot
+J221,API Developer,Backend Developer,Mumbai,EdTech,2026-03-06,SQL
+J221,API Developer,Backend Developer,Mumbai,EdTech,2026-03-06,AWS
+J221,API Developer,Backend Developer,Mumbai,EdTech,2026-03-06,Docker
+J222,Data Scientist,Data Scientist,Pune,Manufacturing Technology,2026-04-02,Python
+J222,Data Scientist,Data Scientist,Pune,Manufacturing Technology,2026-04-02,Pandas
+J222,Data Scientist,Data Scientist,Pune,Manufacturing Technology,2026-04-02,NumPy
+J222,Data Scientist,Data Scientist,Pune,Manufacturing Technology,2026-04-02,Machine Learning
+J222,Data Scientist,Data Scientist,Pune,Manufacturing Technology,2026-04-02,Data Analysis
+J222,Data Scientist,Data Scientist,Pune,Manufacturing Technology,2026-04-02,Natural Language Processing
+J223,Data Analyst,Data Analyst,Pune,Logistics & Mobility,2026-05-17,Python
+J223,Data Analyst,Data Analyst,Pune,Logistics & Mobility,2026-05-17,SQL
+J223,Data Analyst,Data Analyst,Pune,Logistics & Mobility,2026-05-17,Excel
+J223,Data Analyst,Data Analyst,Pune,Logistics & Mobility,2026-05-17,Pandas
+J223,Data Analyst,Data Analyst,Pune,Logistics & Mobility,2026-05-17,Data Visualization
+J223,Data Analyst,Data Analyst,Pune,Logistics & Mobility,2026-05-17,Data Analysis
+J224,Data Analyst,Data Analyst,Nashik,HealthTech,2026-04-17,Python
+J224,Data Analyst,Data Analyst,Nashik,HealthTech,2026-04-17,Excel
+J224,Data Analyst,Data Analyst,Nashik,HealthTech,2026-04-17,Pandas
+J224,Data Analyst,Data Analyst,Nashik,HealthTech,2026-04-17,Data Visualization
+J224,Data Analyst,Data Analyst,Nashik,HealthTech,2026-04-17,Git
+J225,Frontend Engineer,Frontend Developer,Mumbai,Manufacturing Technology,2026-04-24,React
+J225,Frontend Engineer,Frontend Developer,Mumbai,Manufacturing Technology,2026-04-24,TypeScript
+J225,Frontend Engineer,Frontend Developer,Mumbai,Manufacturing Technology,2026-04-24,JavaScript
+J225,Frontend Engineer,Frontend Developer,Mumbai,Manufacturing Technology,2026-04-24,HTML
+J225,Frontend Engineer,Frontend Developer,Mumbai,Manufacturing Technology,2026-04-24,CSS
+J225,Frontend Engineer,Frontend Developer,Mumbai,Manufacturing Technology,2026-04-24,Tailwind CSS
+J226,Node.js Developer,Backend Developer,Nashik,HealthTech,2026-09-17,Node.js
+J226,Node.js Developer,Backend Developer,Nashik,HealthTech,2026-09-17,JavaScript
+J226,Node.js Developer,Backend Developer,Nashik,HealthTech,2026-09-17,MongoDB
+J226,Node.js Developer,Backend Developer,Nashik,HealthTech,2026-09-17,Express.js
+J226,Node.js Developer,Backend Developer,Nashik,HealthTech,2026-09-17,AWS
+J226,Node.js Developer,Backend Developer,Nashik,HealthTech,2026-09-17,Git
+J227,Full Stack Developer,Full Stack Developer,Pune,FinTech,2026-09-19,React
+J227,Full Stack Developer,Full Stack Developer,Pune,FinTech,2026-09-19,JavaScript
+J227,Full Stack Developer,Full Stack Developer,Pune,FinTech,2026-09-19,Node.js
+J227,Full Stack Developer,Full Stack Developer,Pune,FinTech,2026-09-19,REST API
+J227,Full Stack Developer,Full Stack Developer,Pune,FinTech,2026-09-19,SQL
+J227,Full Stack Developer,Full Stack Developer,Pune,FinTech,2026-09-19,Express.js
+J227,Full Stack Developer,Full Stack Developer,Pune,FinTech,2026-09-19,Git
+J228,Frontend Developer,Frontend Developer,Nagpur,E-commerce,2026-04-09,HTML
+J228,Frontend Developer,Frontend Developer,Nagpur,E-commerce,2026-04-09,CSS
+J228,Frontend Developer,Frontend Developer,Nagpur,E-commerce,2026-04-09,JavaScript
+J228,Frontend Developer,Frontend Developer,Nagpur,E-commerce,2026-04-09,React
+J228,Frontend Developer,Frontend Developer,Nagpur,E-commerce,2026-04-09,Git
+J228,Frontend Developer,Frontend Developer,Nagpur,E-commerce,2026-04-09,Tailwind CSS
+J228,Frontend Developer,Frontend Developer,Nagpur,E-commerce,2026-04-09,Node.js
+J229,Node.js Developer,Backend Developer,Nashik,E-commerce,2026-06-15,Node.js
+J229,Node.js Developer,Backend Developer,Nashik,E-commerce,2026-06-15,JavaScript
+J229,Node.js Developer,Backend Developer,Nashik,E-commerce,2026-06-15,REST API
+J229,Node.js Developer,Backend Developer,Nashik,E-commerce,2026-06-15,MongoDB
+J229,Node.js Developer,Backend Developer,Nashik,E-commerce,2026-06-15,Express.js
+J229,Node.js Developer,Backend Developer,Nashik,E-commerce,2026-06-15,Docker
+J229,Node.js Developer,Backend Developer,Nashik,E-commerce,2026-06-15,TypeScript
+J229,Node.js Developer,Backend Developer,Nashik,E-commerce,2026-06-15,Git
+J230,Backend Engineer,Backend Developer,Pune,Logistics & Mobility,2026-09-14,Java
+J230,Backend Engineer,Backend Developer,Pune,Logistics & Mobility,2026-09-14,Spring Boot
+J230,Backend Engineer,Backend Developer,Pune,Logistics & Mobility,2026-09-14,SQL
+J230,Backend Engineer,Backend Developer,Pune,Logistics & Mobility,2026-09-14,REST API
+J230,Backend Engineer,Backend Developer,Pune,Logistics & Mobility,2026-09-14,Jenkins
+J231,Java Developer,Backend Developer,Mumbai,EdTech,2026-06-16,Java
+J231,Java Developer,Backend Developer,Mumbai,EdTech,2026-06-16,Spring Boot
+J231,Java Developer,Backend Developer,Mumbai,EdTech,2026-06-16,SQL
+J231,Java Developer,Backend Developer,Mumbai,EdTech,2026-06-16,PostgreSQL
+J231,Java Developer,Backend Developer,Mumbai,EdTech,2026-06-16,REST API
+J231,Java Developer,Backend Developer,Mumbai,EdTech,2026-06-16,Git
+J231,Java Developer,Backend Developer,Mumbai,EdTech,2026-06-16,Jenkins
+J232,Full Stack Developer,Full Stack Developer,Nagpur,SaaS,2026-09-13,React
+J232,Full Stack Developer,Full Stack Developer,Nagpur,SaaS,2026-09-13,JavaScript
+J232,Full Stack Developer,Full Stack Developer,Nagpur,SaaS,2026-09-13,Node.js
+J232,Full Stack Developer,Full Stack Developer,Nagpur,SaaS,2026-09-13,REST API
+J232,Full Stack Developer,Full Stack Developer,Nagpur,SaaS,2026-09-13,AWS
+J232,Full Stack Developer,Full Stack Developer,Nagpur,SaaS,2026-09-13,Express.js
+J233,Data Analyst,Data Analyst,Pune,E-commerce,2026-05-08,Python
+J233,Data Analyst,Data Analyst,Pune,E-commerce,2026-05-08,Excel
+J233,Data Analyst,Data Analyst,Pune,E-commerce,2026-05-08,Pandas
+J233,Data Analyst,Data Analyst,Pune,E-commerce,2026-05-08,Data Visualization
+J233,Data Analyst,Data Analyst,Pune,E-commerce,2026-05-08,Data Analysis
+J234,BI Analyst,Data Analyst,Mumbai,HealthTech,2026-07-23,Excel
+J234,BI Analyst,Data Analyst,Mumbai,HealthTech,2026-07-23,Power BI
+J234,BI Analyst,Data Analyst,Mumbai,HealthTech,2026-07-23,SQL
+J234,BI Analyst,Data Analyst,Mumbai,HealthTech,2026-07-23,Data Visualization
+J234,BI Analyst,Data Analyst,Mumbai,HealthTech,2026-07-23,Git
+J235,React Developer,Frontend Developer,Mumbai,Logistics & Mobility,2026-06-25,React
+J235,React Developer,Frontend Developer,Mumbai,Logistics & Mobility,2026-06-25,JavaScript
+J235,React Developer,Frontend Developer,Mumbai,Logistics & Mobility,2026-06-25,HTML
+J235,React Developer,Frontend Developer,Mumbai,Logistics & Mobility,2026-06-25,CSS
+J235,React Developer,Frontend Developer,Mumbai,Logistics & Mobility,2026-06-25,TypeScript
+J236,Site Reliability Engineer,Cloud / DevOps,Nashik,Logistics & Mobility,2026-03-22,Docker
+J236,Site Reliability Engineer,Cloud / DevOps,Nashik,Logistics & Mobility,2026-03-22,Kubernetes
+J236,Site Reliability Engineer,Cloud / DevOps,Nashik,Logistics & Mobility,2026-03-22,AWS
+J236,Site Reliability Engineer,Cloud / DevOps,Nashik,Logistics & Mobility,2026-03-22,Linux
+J236,Site Reliability Engineer,Cloud / DevOps,Nashik,Logistics & Mobility,2026-03-22,Git
+J236,Site Reliability Engineer,Cloud / DevOps,Nashik,Logistics & Mobility,2026-03-22,Jenkins
+J236,Site Reliability Engineer,Cloud / DevOps,Nashik,Logistics & Mobility,2026-03-22,Azure
+J237,Technical Support Engineer,Technical Support,Pune,E-commerce,2026-08-13,Linux
+J237,Technical Support Engineer,Technical Support,Pune,E-commerce,2026-08-13,PowerShell
+J237,Technical Support Engineer,Technical Support,Pune,E-commerce,2026-08-13,Git
+J237,Technical Support Engineer,Technical Support,Pune,E-commerce,2026-08-13,AWS
+J238,Backend Developer,Backend Developer,Nashik,Manufacturing Technology,2026-06-18,Java
+J238,Backend Developer,Backend Developer,Nashik,Manufacturing Technology,2026-06-18,Spring Boot
+J238,Backend Developer,Backend Developer,Nashik,Manufacturing Technology,2026-06-18,SQL
+J238,Backend Developer,Backend Developer,Nashik,Manufacturing Technology,2026-06-18,REST API
+J238,Backend Developer,Backend Developer,Nashik,Manufacturing Technology,2026-06-18,Git
+J238,Backend Developer,Backend Developer,Nashik,Manufacturing Technology,2026-06-18,Docker
+J238,Backend Developer,Backend Developer,Nashik,Manufacturing Technology,2026-06-18,AWS
+J239,Technical Support Engineer,Technical Support,Nashik,SaaS,2026-03-04,Linux
+J239,Technical Support Engineer,Technical Support,Nashik,SaaS,2026-03-04,PowerShell
+J239,Technical Support Engineer,Technical Support,Nashik,SaaS,2026-03-04,Git
+J239,Technical Support Engineer,Technical Support,Nashik,SaaS,2026-03-04,Python
+J240,Full Stack Engineer,Full Stack Developer,Nashik,E-commerce,2026-09-05,React
+J240,Full Stack Engineer,Full Stack Developer,Nashik,E-commerce,2026-09-05,Node.js
+J240,Full Stack Engineer,Full Stack Developer,Nashik,E-commerce,2026-09-05,JavaScript
+J240,Full Stack Engineer,Full Stack Developer,Nashik,E-commerce,2026-09-05,REST API
+J240,Full Stack Engineer,Full Stack Developer,Nashik,E-commerce,2026-09-05,SQL
+J240,Full Stack Engineer,Full Stack Developer,Nashik,E-commerce,2026-09-05,Git
+J240,Full Stack Engineer,Full Stack Developer,Nashik,E-commerce,2026-09-05,TypeScript
+J240,Full Stack Engineer,Full Stack Developer,Nashik,E-commerce,2026-09-05,PostgreSQL
+J241,Frontend Developer,Frontend Developer,Pune,IT Services,2026-04-14,HTML
+J241,Frontend Developer,Frontend Developer,Pune,IT Services,2026-04-14,CSS
+J241,Frontend Developer,Frontend Developer,Pune,IT Services,2026-04-14,JavaScript
+J241,Frontend Developer,Frontend Developer,Pune,IT Services,2026-04-14,React
+J241,Frontend Developer,Frontend Developer,Pune,IT Services,2026-04-14,Git
+J242,UI Developer,Frontend Developer,Mumbai,FinTech,2026-05-21,HTML
+J242,UI Developer,Frontend Developer,Mumbai,FinTech,2026-05-21,CSS
+J242,UI Developer,Frontend Developer,Mumbai,FinTech,2026-05-21,JavaScript
+J242,UI Developer,Frontend Developer,Mumbai,FinTech,2026-05-21,React
+J242,UI Developer,Frontend Developer,Mumbai,FinTech,2026-05-21,Tailwind CSS
+J242,UI Developer,Frontend Developer,Mumbai,FinTech,2026-05-21,Angular
+J243,Full Stack Developer,Full Stack Developer,Nashik,HealthTech,2026-05-27,React
+J243,Full Stack Developer,Full Stack Developer,Nashik,HealthTech,2026-05-27,JavaScript
+J243,Full Stack Developer,Full Stack Developer,Nashik,HealthTech,2026-05-27,Node.js
+J243,Full Stack Developer,Full Stack Developer,Nashik,HealthTech,2026-05-27,SQL
+J243,Full Stack Developer,Full Stack Developer,Nashik,HealthTech,2026-05-27,AWS
+J243,Full Stack Developer,Full Stack Developer,Nashik,HealthTech,2026-05-27,Git
+J244,Product Manager,Product Management,Nagpur,EdTech,2026-07-01,Excel
+J244,Product Manager,Product Management,Nagpur,EdTech,2026-07-01,Data Analysis
+J244,Product Manager,Product Management,Nagpur,EdTech,2026-07-01,Data Visualization
+J244,Product Manager,Product Management,Nagpur,EdTech,2026-07-01,Python
+J245,Full Stack Engineer,Full Stack Developer,Pune,SaaS,2026-06-08,React
+J245,Full Stack Engineer,Full Stack Developer,Pune,SaaS,2026-06-08,Node.js
+J245,Full Stack Engineer,Full Stack Developer,Pune,SaaS,2026-06-08,JavaScript
+J245,Full Stack Engineer,Full Stack Developer,Pune,SaaS,2026-06-08,REST API
+J245,Full Stack Engineer,Full Stack Developer,Pune,SaaS,2026-06-08,SQL
+J245,Full Stack Engineer,Full Stack Developer,Pune,SaaS,2026-06-08,AWS
+J245,Full Stack Engineer,Full Stack Developer,Pune,SaaS,2026-06-08,PostgreSQL
+J246,Java Developer,Backend Developer,Mumbai,Manufacturing Technology,2026-04-10,Java
+J246,Java Developer,Backend Developer,Mumbai,Manufacturing Technology,2026-04-10,Spring Boot
+J246,Java Developer,Backend Developer,Mumbai,Manufacturing Technology,2026-04-10,SQL
+J246,Java Developer,Backend Developer,Mumbai,Manufacturing Technology,2026-04-10,PostgreSQL
+J246,Java Developer,Backend Developer,Mumbai,Manufacturing Technology,2026-04-10,REST API
+J246,Java Developer,Backend Developer,Mumbai,Manufacturing Technology,2026-04-10,AWS
+J246,Java Developer,Backend Developer,Mumbai,Manufacturing Technology,2026-04-10,Kubernetes
+J247,React Developer,Frontend Developer,Mumbai,IT Services,2026-06-24,React
+J247,React Developer,Frontend Developer,Mumbai,IT Services,2026-06-24,JavaScript
+J247,React Developer,Frontend Developer,Mumbai,IT Services,2026-06-24,HTML
+J247,React Developer,Frontend Developer,Mumbai,IT Services,2026-06-24,CSS
+J247,React Developer,Frontend Developer,Mumbai,IT Services,2026-06-24,Git
+J248,Site Reliability Engineer,Cloud / DevOps,Nashik,IT Services,2026-07-04,Kubernetes
+J248,Site Reliability Engineer,Cloud / DevOps,Nashik,IT Services,2026-07-04,AWS
+J248,Site Reliability Engineer,Cloud / DevOps,Nashik,IT Services,2026-07-04,Linux
+J248,Site Reliability Engineer,Cloud / DevOps,Nashik,IT Services,2026-07-04,Git
+J248,Site Reliability Engineer,Cloud / DevOps,Nashik,IT Services,2026-07-04,PowerShell
+J249,DevOps Engineer,Cloud / DevOps,Nashik,SaaS,2026-09-05,Docker
+J249,DevOps Engineer,Cloud / DevOps,Nashik,SaaS,2026-09-05,Kubernetes
+J249,DevOps Engineer,Cloud / DevOps,Nashik,SaaS,2026-09-05,AWS
+J249,DevOps Engineer,Cloud / DevOps,Nashik,SaaS,2026-09-05,Linux
+J249,DevOps Engineer,Cloud / DevOps,Nashik,SaaS,2026-09-05,Git
+J249,DevOps Engineer,Cloud / DevOps,Nashik,SaaS,2026-09-05,CI/CD
+J249,DevOps Engineer,Cloud / DevOps,Nashik,SaaS,2026-09-05,Jenkins
+J250,Data Engineer,Data Engineer,Nashik,EdTech,2026-07-12,Python
+J250,Data Engineer,Data Engineer,Nashik,EdTech,2026-07-12,PostgreSQL
+J250,Data Engineer,Data Engineer,Nashik,EdTech,2026-07-12,Pandas
+J250,Data Engineer,Data Engineer,Nashik,EdTech,2026-07-12,Docker
+J250,Data Engineer,Data Engineer,Nashik,EdTech,2026-07-12,Linux
+J250,Data Engineer,Data Engineer,Nashik,EdTech,2026-07-12,AWS

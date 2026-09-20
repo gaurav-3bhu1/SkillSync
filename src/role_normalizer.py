@@ -19,6 +19,7 @@ ROLE_RULES = [
             "node.js developer",
             "node developer",
             "api developer",
+            "software engineer",
         ],
     ),
     (

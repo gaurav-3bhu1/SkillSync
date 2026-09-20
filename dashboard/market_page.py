@@ -1,31 +1,10 @@
 import streamlit as st
 import pandas as pd
 
-from src.data_loader import load_jobs, load_skills
-from src.hybrid_skill_extractor import HybridSkillExtractor
-from src.job_skill_mapper import build_job_skill_mapping
+from dashboard.data_service import (
+    get_hybrid_job_skill_mapping,
+)
 from src.demand_engine import calculate_filtered_demand
-
-
-@st.cache_data
-def load_job_skill_data() -> pd.DataFrame:
-    """
-    Load raw job data and convert it into the
-    normalized job-skill mapping used by SkillSync.
-    """
-
-    jobs = load_jobs()
-    skills = load_skills()
-
-    extractor = HybridSkillExtractor(
-    skills,
-    )
-
-    return build_job_skill_mapping(
-        jobs,
-        extractor,
-    )
-
 
 def render():
     st.title("Market Intelligence")
@@ -34,7 +13,9 @@ def render():
         "Explore skill demand across job roles and locations."
     )
 
-    job_skill_mapping = load_job_skill_data()
+    job_skill_mapping = (
+        get_hybrid_job_skill_mapping()
+    )
 
     if job_skill_mapping.empty:
         st.warning("No job-skill data available.")
@@ -176,6 +157,6 @@ def render():
     )
 
     st.caption(
-        "Prototype data is curated/simulated and is "
-        "not representative of the Maharashtra labour market."
+        "Current prototype scope: 250 curated/simulated "
+        "job postings across 4 locations."
     )

@@ -16,10 +16,10 @@ J004,Backend Developer,Backend Developer,Pune,IT,2026-01-15,Java,exact,1.0
 J004,Backend Developer,Backend Developer,Pune,IT,2026-01-15,Spring Boot,exact,1.0
 J004,Backend Developer,Backend Developer,Pune,IT,2026-01-15,PostgreSQL,exact,1.0
 J004,Backend Developer,Backend Developer,Pune,IT,2026-01-15,REST API,exact,1.0
-J005,Software Engineer,Other,Pune,IT,2026-01-20,Java,exact,1.0
-J005,Software Engineer,Other,Pune,IT,2026-01-20,SQL,exact,1.0
-J005,Software Engineer,Other,Pune,IT,2026-01-20,Spring Boot,exact,1.0
-J005,Software Engineer,Other,Pune,IT,2026-01-20,AWS,exact,1.0
+J005,Software Engineer,Backend Developer,Pune,IT,2026-01-20,Java,exact,1.0
+J005,Software Engineer,Backend Developer,Pune,IT,2026-01-20,SQL,exact,1.0
+J005,Software Engineer,Backend Developer,Pune,IT,2026-01-20,Spring Boot,exact,1.0
+J005,Software Engineer,Backend Developer,Pune,IT,2026-01-20,AWS,exact,1.0
 J006,Backend Developer,Backend Developer,Mumbai,IT,2026-01-23,Java,exact,1.0
 J006,Backend Developer,Backend Developer,Mumbai,IT,2026-01-23,Spring Boot,exact,1.0
 J006,Backend Developer,Backend Developer,Mumbai,IT,2026-01-23,SQL,exact,1.0
@@ -114,3 +114,1278 @@ J030,Full Stack Engineer,Full Stack Developer,Mumbai,IT,2026-03-20,Java,exact,1.
 J030,Full Stack Engineer,Full Stack Developer,Mumbai,IT,2026-03-20,Spring Boot,exact,1.0
 J030,Full Stack Engineer,Full Stack Developer,Mumbai,IT,2026-03-20,React,exact,1.0
 J030,Full Stack Engineer,Full Stack Developer,Mumbai,IT,2026-03-20,PostgreSQL,exact,1.0
+J031,Senior Backend Developer,Backend Developer,Nashik,E-commerce,2026-06-17,Java,exact,1.0
+J031,Senior Backend Developer,Backend Developer,Nashik,E-commerce,2026-06-17,Spring Boot,exact,1.0
+J031,Senior Backend Developer,Backend Developer,Nashik,E-commerce,2026-06-17,SQL,exact,1.0
+J031,Senior Backend Developer,Backend Developer,Nashik,E-commerce,2026-06-17,REST API,exact,1.0
+J031,Senior Backend Developer,Backend Developer,Nashik,E-commerce,2026-06-17,PostgreSQL,exact,1.0
+J031,Senior Backend Developer,Backend Developer,Nashik,E-commerce,2026-06-17,GraphQL,exact,1.0
+J031,Senior Backend Developer,Backend Developer,Nashik,E-commerce,2026-06-17,Jenkins,exact,1.0
+J032,Backend Developer,Backend Developer,Nagpur,Logistics & Mobility,2026-09-13,Java,exact,1.0
+J032,Backend Developer,Backend Developer,Nagpur,Logistics & Mobility,2026-09-13,Spring Boot,exact,1.0
+J032,Backend Developer,Backend Developer,Nagpur,Logistics & Mobility,2026-09-13,REST API,exact,1.0
+J032,Backend Developer,Backend Developer,Nagpur,Logistics & Mobility,2026-09-13,Git,exact,1.0
+J032,Backend Developer,Backend Developer,Nagpur,Logistics & Mobility,2026-09-13,Jenkins,exact,1.0
+J032,Backend Developer,Backend Developer,Nagpur,Logistics & Mobility,2026-09-13,FastAPI,exact,1.0
+J033,Senior Backend Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-08-08,Java,exact,1.0
+J033,Senior Backend Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-08-08,Spring Boot,exact,1.0
+J033,Senior Backend Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-08-08,SQL,exact,1.0
+J033,Senior Backend Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-08-08,REST API,exact,1.0
+J033,Senior Backend Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-08-08,PostgreSQL,exact,1.0
+J033,Senior Backend Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-08-08,Jenkins,exact,1.0
+J033,Senior Backend Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-08-08,AWS,exact,1.0
+J033,Senior Backend Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-08-08,GraphQL,exact,1.0
+J034,Full Stack Engineer,Full Stack Developer,Pune,Manufacturing Technology,2026-06-24,React,exact,1.0
+J034,Full Stack Engineer,Full Stack Developer,Pune,Manufacturing Technology,2026-06-24,Node.js,exact,1.0
+J034,Full Stack Engineer,Full Stack Developer,Pune,Manufacturing Technology,2026-06-24,JavaScript,exact,1.0
+J034,Full Stack Engineer,Full Stack Developer,Pune,Manufacturing Technology,2026-06-24,REST API,exact,1.0
+J034,Full Stack Engineer,Full Stack Developer,Pune,Manufacturing Technology,2026-06-24,SQL,exact,1.0
+J034,Full Stack Engineer,Full Stack Developer,Pune,Manufacturing Technology,2026-06-24,PostgreSQL,exact,1.0
+J034,Full Stack Engineer,Full Stack Developer,Pune,Manufacturing Technology,2026-06-24,AWS,exact,1.0
+J035,Senior Backend Developer,Backend Developer,Nagpur,EdTech,2026-05-16,Java,exact,1.0
+J035,Senior Backend Developer,Backend Developer,Nagpur,EdTech,2026-05-16,Spring Boot,exact,1.0
+J035,Senior Backend Developer,Backend Developer,Nagpur,EdTech,2026-05-16,PostgreSQL,exact,1.0
+J035,Senior Backend Developer,Backend Developer,Nagpur,EdTech,2026-05-16,GraphQL,exact,1.0
+J036,API Developer,Backend Developer,Nagpur,IT Services,2026-07-06,REST API,exact,1.0
+J036,API Developer,Backend Developer,Nagpur,IT Services,2026-07-06,Java,exact,1.0
+J036,API Developer,Backend Developer,Nagpur,IT Services,2026-07-06,Spring Boot,exact,1.0
+J036,API Developer,Backend Developer,Nagpur,IT Services,2026-07-06,AWS,exact,1.0
+J036,API Developer,Backend Developer,Nagpur,IT Services,2026-07-06,GraphQL,exact,1.0
+J037,Senior Backend Developer,Backend Developer,Pune,SaaS,2026-08-20,Java,exact,1.0
+J037,Senior Backend Developer,Backend Developer,Pune,SaaS,2026-08-20,Spring Boot,exact,1.0
+J037,Senior Backend Developer,Backend Developer,Pune,SaaS,2026-08-20,PostgreSQL,exact,1.0
+J037,Senior Backend Developer,Backend Developer,Pune,SaaS,2026-08-20,AWS,exact,1.0
+J037,Senior Backend Developer,Backend Developer,Pune,SaaS,2026-08-20,Kubernetes,exact,1.0
+J038,API Developer,Backend Developer,Pune,SaaS,2026-05-18,REST API,exact,1.0
+J038,API Developer,Backend Developer,Pune,SaaS,2026-05-18,Java,exact,1.0
+J038,API Developer,Backend Developer,Pune,SaaS,2026-05-18,Spring Boot,exact,1.0
+J038,API Developer,Backend Developer,Pune,SaaS,2026-05-18,PostgreSQL,exact,1.0
+J038,API Developer,Backend Developer,Pune,SaaS,2026-05-18,GraphQL,exact,1.0
+J038,API Developer,Backend Developer,Pune,SaaS,2026-05-18,Node.js,exact,1.0
+J039,UI Developer,Frontend Developer,Pune,FinTech,2026-07-03,HTML,exact,1.0
+J039,UI Developer,Frontend Developer,Pune,FinTech,2026-07-03,CSS,exact,1.0
+J039,UI Developer,Frontend Developer,Pune,FinTech,2026-07-03,JavaScript,exact,1.0
+J039,UI Developer,Frontend Developer,Pune,FinTech,2026-07-03,React,exact,1.0
+J039,UI Developer,Frontend Developer,Pune,FinTech,2026-07-03,Tailwind CSS,exact,1.0
+J039,UI Developer,Frontend Developer,Pune,FinTech,2026-07-03,Git,exact,1.0
+J039,UI Developer,Frontend Developer,Pune,FinTech,2026-07-03,TypeScript,exact,1.0
+J040,React Developer,Frontend Developer,Mumbai,Logistics & Mobility,2026-07-17,React,exact,1.0
+J040,React Developer,Frontend Developer,Mumbai,Logistics & Mobility,2026-07-17,JavaScript,exact,1.0
+J040,React Developer,Frontend Developer,Mumbai,Logistics & Mobility,2026-07-17,HTML,exact,1.0
+J040,React Developer,Frontend Developer,Mumbai,Logistics & Mobility,2026-07-17,CSS,exact,1.0
+J040,React Developer,Frontend Developer,Mumbai,Logistics & Mobility,2026-07-17,Tailwind CSS,exact,1.0
+J041,Senior Backend Developer,Backend Developer,Nagpur,FinTech,2026-09-12,Java,exact,1.0
+J041,Senior Backend Developer,Backend Developer,Nagpur,FinTech,2026-09-12,Spring Boot,exact,1.0
+J041,Senior Backend Developer,Backend Developer,Nagpur,FinTech,2026-09-12,PostgreSQL,exact,1.0
+J041,Senior Backend Developer,Backend Developer,Nagpur,FinTech,2026-09-12,Git,exact,1.0
+J041,Senior Backend Developer,Backend Developer,Nagpur,FinTech,2026-09-12,AWS,exact,1.0
+J042,API Developer,Backend Developer,Nashik,FinTech,2026-04-20,Java,exact,1.0
+J042,API Developer,Backend Developer,Nashik,FinTech,2026-04-20,Spring Boot,exact,1.0
+J042,API Developer,Backend Developer,Nashik,FinTech,2026-04-20,SQL,exact,1.0
+J042,API Developer,Backend Developer,Nashik,FinTech,2026-04-20,AWS,exact,1.0
+J043,Data Analyst,Data Analyst,Nagpur,FinTech,2026-04-16,Python,exact,1.0
+J043,Data Analyst,Data Analyst,Nagpur,FinTech,2026-04-16,SQL,exact,1.0
+J043,Data Analyst,Data Analyst,Nagpur,FinTech,2026-04-16,Excel,exact,1.0
+J043,Data Analyst,Data Analyst,Nagpur,FinTech,2026-04-16,Pandas,exact,1.0
+J043,Data Analyst,Data Analyst,Nagpur,FinTech,2026-04-16,Data Visualization,exact,1.0
+J043,Data Analyst,Data Analyst,Nagpur,FinTech,2026-04-16,Data Analysis,exact,1.0
+J044,Backend Engineer,Backend Developer,Nagpur,E-commerce,2026-09-05,Java,exact,1.0
+J044,Backend Engineer,Backend Developer,Nagpur,E-commerce,2026-09-05,Spring Boot,exact,1.0
+J044,Backend Engineer,Backend Developer,Nagpur,E-commerce,2026-09-05,SQL,exact,1.0
+J044,Backend Engineer,Backend Developer,Nagpur,E-commerce,2026-09-05,Docker,exact,1.0
+J044,Backend Engineer,Backend Developer,Nagpur,E-commerce,2026-09-05,PostgreSQL,exact,1.0
+J045,QA Automation Engineer,QA / Test Automation,Nagpur,E-commerce,2026-07-09,Java,exact,1.0
+J045,QA Automation Engineer,QA / Test Automation,Nagpur,E-commerce,2026-07-09,Python,exact,1.0
+J045,QA Automation Engineer,QA / Test Automation,Nagpur,E-commerce,2026-07-09,Git,exact,1.0
+J045,QA Automation Engineer,QA / Test Automation,Nagpur,E-commerce,2026-07-09,CI/CD,exact,1.0
+J045,QA Automation Engineer,QA / Test Automation,Nagpur,E-commerce,2026-07-09,Jenkins,exact,1.0
+J046,QA Automation Engineer,QA / Test Automation,Pune,Manufacturing Technology,2026-08-03,Java,exact,1.0
+J046,QA Automation Engineer,QA / Test Automation,Pune,Manufacturing Technology,2026-08-03,Python,exact,1.0
+J046,QA Automation Engineer,QA / Test Automation,Pune,Manufacturing Technology,2026-08-03,SQL,exact,1.0
+J046,QA Automation Engineer,QA / Test Automation,Pune,Manufacturing Technology,2026-08-03,Git,exact,1.0
+J046,QA Automation Engineer,QA / Test Automation,Pune,Manufacturing Technology,2026-08-03,CI/CD,exact,1.0
+J047,Site Reliability Engineer,Cloud / DevOps,Pune,Logistics & Mobility,2026-03-31,Docker,exact,1.0
+J047,Site Reliability Engineer,Cloud / DevOps,Pune,Logistics & Mobility,2026-03-31,Kubernetes,exact,1.0
+J047,Site Reliability Engineer,Cloud / DevOps,Pune,Logistics & Mobility,2026-03-31,AWS,exact,1.0
+J047,Site Reliability Engineer,Cloud / DevOps,Pune,Logistics & Mobility,2026-03-31,Linux,exact,1.0
+J047,Site Reliability Engineer,Cloud / DevOps,Pune,Logistics & Mobility,2026-03-31,Git,exact,1.0
+J047,Site Reliability Engineer,Cloud / DevOps,Pune,Logistics & Mobility,2026-03-31,Azure,exact,1.0
+J047,Site Reliability Engineer,Cloud / DevOps,Pune,Logistics & Mobility,2026-03-31,PowerShell,exact,1.0
+J047,Site Reliability Engineer,Cloud / DevOps,Pune,Logistics & Mobility,2026-03-31,Jenkins,exact,1.0
+J048,Product Manager,Product Management,Pune,E-commerce,2026-06-26,Excel,exact,1.0
+J048,Product Manager,Product Management,Pune,E-commerce,2026-06-26,SQL,exact,1.0
+J048,Product Manager,Product Management,Pune,E-commerce,2026-06-26,Data Analysis,exact,1.0
+J048,Product Manager,Product Management,Pune,E-commerce,2026-06-26,Data Visualization,exact,1.0
+J048,Product Manager,Product Management,Pune,E-commerce,2026-06-26,Python,exact,1.0
+J048,Product Manager,Product Management,Pune,E-commerce,2026-06-26,Power BI,exact,1.0
+J049,Frontend Engineer,Frontend Developer,Nagpur,IT Services,2026-07-02,React,exact,1.0
+J049,Frontend Engineer,Frontend Developer,Nagpur,IT Services,2026-07-02,TypeScript,exact,1.0
+J049,Frontend Engineer,Frontend Developer,Nagpur,IT Services,2026-07-02,JavaScript,exact,1.0
+J049,Frontend Engineer,Frontend Developer,Nagpur,IT Services,2026-07-02,HTML,exact,1.0
+J049,Frontend Engineer,Frontend Developer,Nagpur,IT Services,2026-07-02,CSS,exact,1.0
+J049,Frontend Engineer,Frontend Developer,Nagpur,IT Services,2026-07-02,Tailwind CSS,exact,1.0
+J050,DevOps Engineer,Cloud / DevOps,Pune,Manufacturing Technology,2026-08-24,Docker,exact,1.0
+J050,DevOps Engineer,Cloud / DevOps,Pune,Manufacturing Technology,2026-08-24,Kubernetes,exact,1.0
+J050,DevOps Engineer,Cloud / DevOps,Pune,Manufacturing Technology,2026-08-24,AWS,exact,1.0
+J050,DevOps Engineer,Cloud / DevOps,Pune,Manufacturing Technology,2026-08-24,Linux,exact,1.0
+J050,DevOps Engineer,Cloud / DevOps,Pune,Manufacturing Technology,2026-08-24,Git,exact,1.0
+J050,DevOps Engineer,Cloud / DevOps,Pune,Manufacturing Technology,2026-08-24,Jenkins,exact,1.0
+J050,DevOps Engineer,Cloud / DevOps,Pune,Manufacturing Technology,2026-08-24,GCP,exact,1.0
+J051,Cloud Engineer,Cloud / DevOps,Mumbai,Logistics & Mobility,2026-07-29,AWS,exact,1.0
+J051,Cloud Engineer,Cloud / DevOps,Mumbai,Logistics & Mobility,2026-07-29,Linux,exact,1.0
+J051,Cloud Engineer,Cloud / DevOps,Mumbai,Logistics & Mobility,2026-07-29,Docker,exact,1.0
+J051,Cloud Engineer,Cloud / DevOps,Mumbai,Logistics & Mobility,2026-07-29,Terraform,exact,1.0
+J051,Cloud Engineer,Cloud / DevOps,Mumbai,Logistics & Mobility,2026-07-29,CI/CD,exact,1.0
+J051,Cloud Engineer,Cloud / DevOps,Mumbai,Logistics & Mobility,2026-07-29,Azure,exact,1.0
+J052,Frontend Engineer,Frontend Developer,Pune,HealthTech,2026-07-16,React,exact,1.0
+J052,Frontend Engineer,Frontend Developer,Pune,HealthTech,2026-07-16,TypeScript,exact,1.0
+J052,Frontend Engineer,Frontend Developer,Pune,HealthTech,2026-07-16,JavaScript,exact,1.0
+J052,Frontend Engineer,Frontend Developer,Pune,HealthTech,2026-07-16,HTML,exact,1.0
+J052,Frontend Engineer,Frontend Developer,Pune,HealthTech,2026-07-16,CSS,exact,1.0
+J052,Frontend Engineer,Frontend Developer,Pune,HealthTech,2026-07-16,Node.js,exact,1.0
+J052,Frontend Engineer,Frontend Developer,Pune,HealthTech,2026-07-16,Tailwind CSS,exact,1.0
+J052,Frontend Engineer,Frontend Developer,Pune,HealthTech,2026-07-16,Git,exact,1.0
+J053,Frontend Engineer,Frontend Developer,Nagpur,FinTech,2026-03-19,React,exact,1.0
+J053,Frontend Engineer,Frontend Developer,Nagpur,FinTech,2026-03-19,TypeScript,exact,1.0
+J053,Frontend Engineer,Frontend Developer,Nagpur,FinTech,2026-03-19,JavaScript,exact,1.0
+J053,Frontend Engineer,Frontend Developer,Nagpur,FinTech,2026-03-19,HTML,exact,1.0
+J053,Frontend Engineer,Frontend Developer,Nagpur,FinTech,2026-03-19,CSS,exact,1.0
+J053,Frontend Engineer,Frontend Developer,Nagpur,FinTech,2026-03-19,Tailwind CSS,exact,1.0
+J054,Node.js Developer,Backend Developer,Nagpur,FinTech,2026-07-17,Node.js,exact,1.0
+J054,Node.js Developer,Backend Developer,Nagpur,FinTech,2026-07-17,JavaScript,exact,1.0
+J054,Node.js Developer,Backend Developer,Nagpur,FinTech,2026-07-17,MongoDB,exact,1.0
+J054,Node.js Developer,Backend Developer,Nagpur,FinTech,2026-07-17,Express.js,exact,1.0
+J054,Node.js Developer,Backend Developer,Nagpur,FinTech,2026-07-17,GraphQL,exact,1.0
+J055,BI Analyst,Data Analyst,Pune,FinTech,2026-07-07,Excel,exact,1.0
+J055,BI Analyst,Data Analyst,Pune,FinTech,2026-07-07,Power BI,exact,1.0
+J055,BI Analyst,Data Analyst,Pune,FinTech,2026-07-07,Data Visualization,exact,1.0
+J055,BI Analyst,Data Analyst,Pune,FinTech,2026-07-07,Python,exact,1.0
+J055,BI Analyst,Data Analyst,Pune,FinTech,2026-07-07,Git,exact,1.0
+J056,React Developer,Frontend Developer,Nashik,EdTech,2026-06-13,React,exact,1.0
+J056,React Developer,Frontend Developer,Nashik,EdTech,2026-06-13,JavaScript,exact,1.0
+J056,React Developer,Frontend Developer,Nashik,EdTech,2026-06-13,HTML,exact,1.0
+J056,React Developer,Frontend Developer,Nashik,EdTech,2026-06-13,CSS,exact,1.0
+J056,React Developer,Frontend Developer,Nashik,EdTech,2026-06-13,Tailwind CSS,exact,1.0
+J056,React Developer,Frontend Developer,Nashik,EdTech,2026-06-13,TypeScript,exact,1.0
+J057,DevOps Engineer,Cloud / DevOps,Nashik,SaaS,2026-05-03,Kubernetes,exact,1.0
+J057,DevOps Engineer,Cloud / DevOps,Nashik,SaaS,2026-05-03,AWS,exact,1.0
+J057,DevOps Engineer,Cloud / DevOps,Nashik,SaaS,2026-05-03,Linux,exact,1.0
+J057,DevOps Engineer,Cloud / DevOps,Nashik,SaaS,2026-05-03,Git,exact,1.0
+J057,DevOps Engineer,Cloud / DevOps,Nashik,SaaS,2026-05-03,PowerShell,exact,1.0
+J057,DevOps Engineer,Cloud / DevOps,Nashik,SaaS,2026-05-03,Jenkins,exact,1.0
+J057,DevOps Engineer,Cloud / DevOps,Nashik,SaaS,2026-05-03,Terraform,exact,1.0
+J058,Technical Support Engineer,Technical Support,Nashik,FinTech,2026-09-20,Linux,exact,1.0
+J058,Technical Support Engineer,Technical Support,Nashik,FinTech,2026-09-20,PowerShell,exact,1.0
+J058,Technical Support Engineer,Technical Support,Nashik,FinTech,2026-09-20,Git,exact,1.0
+J058,Technical Support Engineer,Technical Support,Nashik,FinTech,2026-09-20,PostgreSQL,exact,1.0
+J059,UI Developer,Frontend Developer,Nagpur,E-commerce,2026-05-11,HTML,exact,1.0
+J059,UI Developer,Frontend Developer,Nagpur,E-commerce,2026-05-11,CSS,exact,1.0
+J059,UI Developer,Frontend Developer,Nagpur,E-commerce,2026-05-11,JavaScript,exact,1.0
+J059,UI Developer,Frontend Developer,Nagpur,E-commerce,2026-05-11,React,exact,1.0
+J059,UI Developer,Frontend Developer,Nagpur,E-commerce,2026-05-11,Tailwind CSS,exact,1.0
+J059,UI Developer,Frontend Developer,Nagpur,E-commerce,2026-05-11,Git,exact,1.0
+J060,Frontend Engineer,Frontend Developer,Pune,EdTech,2026-09-07,React,exact,1.0
+J060,Frontend Engineer,Frontend Developer,Pune,EdTech,2026-09-07,TypeScript,exact,1.0
+J060,Frontend Engineer,Frontend Developer,Pune,EdTech,2026-09-07,JavaScript,exact,1.0
+J060,Frontend Engineer,Frontend Developer,Pune,EdTech,2026-09-07,HTML,exact,1.0
+J060,Frontend Engineer,Frontend Developer,Pune,EdTech,2026-09-07,CSS,exact,1.0
+J060,Frontend Engineer,Frontend Developer,Pune,EdTech,2026-09-07,Tailwind CSS,exact,1.0
+J060,Frontend Engineer,Frontend Developer,Pune,EdTech,2026-09-07,Angular,exact,1.0
+J061,Site Reliability Engineer,Cloud / DevOps,Pune,IT Services,2026-04-10,Kubernetes,exact,1.0
+J061,Site Reliability Engineer,Cloud / DevOps,Pune,IT Services,2026-04-10,AWS,exact,1.0
+J061,Site Reliability Engineer,Cloud / DevOps,Pune,IT Services,2026-04-10,Linux,exact,1.0
+J061,Site Reliability Engineer,Cloud / DevOps,Pune,IT Services,2026-04-10,Git,exact,1.0
+J061,Site Reliability Engineer,Cloud / DevOps,Pune,IT Services,2026-04-10,Jenkins,exact,1.0
+J062,Backend Engineer,Backend Developer,Nashik,EdTech,2026-05-14,Java,exact,1.0
+J062,Backend Engineer,Backend Developer,Nashik,EdTech,2026-05-14,Spring Boot,exact,1.0
+J062,Backend Engineer,Backend Developer,Nashik,EdTech,2026-05-14,SQL,exact,1.0
+J062,Backend Engineer,Backend Developer,Nashik,EdTech,2026-05-14,GraphQL,exact,1.0
+J062,Backend Engineer,Backend Developer,Nashik,EdTech,2026-05-14,Jenkins,exact,1.0
+J063,Full Stack Developer,Full Stack Developer,Nagpur,SaaS,2026-09-08,React,exact,1.0
+J063,Full Stack Developer,Full Stack Developer,Nagpur,SaaS,2026-09-08,JavaScript,exact,1.0
+J063,Full Stack Developer,Full Stack Developer,Nagpur,SaaS,2026-09-08,Node.js,exact,1.0
+J063,Full Stack Developer,Full Stack Developer,Nagpur,SaaS,2026-09-08,SQL,exact,1.0
+J063,Full Stack Developer,Full Stack Developer,Nagpur,SaaS,2026-09-08,AWS,exact,1.0
+J063,Full Stack Developer,Full Stack Developer,Nagpur,SaaS,2026-09-08,Docker,exact,1.0
+J063,Full Stack Developer,Full Stack Developer,Nagpur,SaaS,2026-09-08,TypeScript,exact,1.0
+J064,Java Developer,Backend Developer,Nagpur,FinTech,2026-08-06,Java,exact,1.0
+J064,Java Developer,Backend Developer,Nagpur,FinTech,2026-08-06,Spring Boot,exact,1.0
+J064,Java Developer,Backend Developer,Nagpur,FinTech,2026-08-06,SQL,exact,1.0
+J064,Java Developer,Backend Developer,Nagpur,FinTech,2026-08-06,PostgreSQL,exact,1.0
+J064,Java Developer,Backend Developer,Nagpur,FinTech,2026-08-06,Docker,exact,1.0
+J064,Java Developer,Backend Developer,Nagpur,FinTech,2026-08-06,Jenkins,exact,1.0
+J064,Java Developer,Backend Developer,Nagpur,FinTech,2026-08-06,AWS,exact,1.0
+J065,Senior Backend Developer,Backend Developer,Mumbai,SaaS,2026-03-07,Java,exact,1.0
+J065,Senior Backend Developer,Backend Developer,Mumbai,SaaS,2026-03-07,Spring Boot,exact,1.0
+J065,Senior Backend Developer,Backend Developer,Mumbai,SaaS,2026-03-07,PostgreSQL,exact,1.0
+J065,Senior Backend Developer,Backend Developer,Mumbai,SaaS,2026-03-07,AWS,exact,1.0
+J066,React Developer,Frontend Developer,Mumbai,IT Services,2026-05-04,React,exact,1.0
+J066,React Developer,Frontend Developer,Mumbai,IT Services,2026-05-04,JavaScript,exact,1.0
+J066,React Developer,Frontend Developer,Mumbai,IT Services,2026-05-04,HTML,exact,1.0
+J066,React Developer,Frontend Developer,Mumbai,IT Services,2026-05-04,CSS,exact,1.0
+J066,React Developer,Frontend Developer,Mumbai,IT Services,2026-05-04,Tailwind CSS,exact,1.0
+J066,React Developer,Frontend Developer,Mumbai,IT Services,2026-05-04,TypeScript,exact,1.0
+J067,Backend Developer,Backend Developer,Mumbai,FinTech,2026-08-08,Java,exact,1.0
+J067,Backend Developer,Backend Developer,Mumbai,FinTech,2026-08-08,Spring Boot,exact,1.0
+J067,Backend Developer,Backend Developer,Mumbai,FinTech,2026-08-08,SQL,exact,1.0
+J067,Backend Developer,Backend Developer,Mumbai,FinTech,2026-08-08,AWS,exact,1.0
+J068,Data Scientist,Data Scientist,Nagpur,SaaS,2026-07-20,Python,exact,1.0
+J068,Data Scientist,Data Scientist,Nagpur,SaaS,2026-07-20,Pandas,exact,1.0
+J068,Data Scientist,Data Scientist,Nagpur,SaaS,2026-07-20,NumPy,exact,1.0
+J068,Data Scientist,Data Scientist,Nagpur,SaaS,2026-07-20,Machine Learning,exact,1.0
+J069,Product Manager,Product Management,Nashik,Logistics & Mobility,2026-04-27,Excel,exact,1.0
+J069,Product Manager,Product Management,Nashik,Logistics & Mobility,2026-04-27,Data Analysis,exact,1.0
+J069,Product Manager,Product Management,Nashik,Logistics & Mobility,2026-04-27,Data Visualization,exact,1.0
+J069,Product Manager,Product Management,Nashik,Logistics & Mobility,2026-04-27,Power BI,exact,1.0
+J069,Product Manager,Product Management,Nashik,Logistics & Mobility,2026-04-27,Python,exact,1.0
+J070,Full Stack Developer,Full Stack Developer,Pune,HealthTech,2026-05-27,React,exact,1.0
+J070,Full Stack Developer,Full Stack Developer,Pune,HealthTech,2026-05-27,JavaScript,exact,1.0
+J070,Full Stack Developer,Full Stack Developer,Pune,HealthTech,2026-05-27,Node.js,exact,1.0
+J070,Full Stack Developer,Full Stack Developer,Pune,HealthTech,2026-05-27,Git,exact,1.0
+J070,Full Stack Developer,Full Stack Developer,Pune,HealthTech,2026-05-27,TypeScript,exact,1.0
+J071,UI Developer,Frontend Developer,Pune,Logistics & Mobility,2026-09-03,HTML,exact,1.0
+J071,UI Developer,Frontend Developer,Pune,Logistics & Mobility,2026-09-03,CSS,exact,1.0
+J071,UI Developer,Frontend Developer,Pune,Logistics & Mobility,2026-09-03,JavaScript,exact,1.0
+J071,UI Developer,Frontend Developer,Pune,Logistics & Mobility,2026-09-03,React,exact,1.0
+J071,UI Developer,Frontend Developer,Pune,Logistics & Mobility,2026-09-03,Tailwind CSS,exact,1.0
+J071,UI Developer,Frontend Developer,Pune,Logistics & Mobility,2026-09-03,TypeScript,exact,1.0
+J071,UI Developer,Frontend Developer,Pune,Logistics & Mobility,2026-09-03,Angular,exact,1.0
+J072,Technical Support Engineer,Technical Support,Nagpur,Manufacturing Technology,2026-07-13,Linux,exact,1.0
+J072,Technical Support Engineer,Technical Support,Nagpur,Manufacturing Technology,2026-07-13,PowerShell,exact,1.0
+J072,Technical Support Engineer,Technical Support,Nagpur,Manufacturing Technology,2026-07-13,Git,exact,1.0
+J072,Technical Support Engineer,Technical Support,Nagpur,Manufacturing Technology,2026-07-13,Python,exact,1.0
+J073,QA Automation Engineer,QA / Test Automation,Mumbai,SaaS,2026-08-09,Java,exact,1.0
+J073,QA Automation Engineer,QA / Test Automation,Mumbai,SaaS,2026-08-09,Python,exact,1.0
+J073,QA Automation Engineer,QA / Test Automation,Mumbai,SaaS,2026-08-09,Git,exact,1.0
+J073,QA Automation Engineer,QA / Test Automation,Mumbai,SaaS,2026-08-09,CI/CD,exact,1.0
+J073,QA Automation Engineer,QA / Test Automation,Mumbai,SaaS,2026-08-09,AWS,exact,1.0
+J073,QA Automation Engineer,QA / Test Automation,Mumbai,SaaS,2026-08-09,Jenkins,exact,1.0
+J073,QA Automation Engineer,QA / Test Automation,Mumbai,SaaS,2026-08-09,PostgreSQL,exact,1.0
+J074,Full Stack Developer,Full Stack Developer,Nagpur,FinTech,2026-06-14,React,exact,1.0
+J074,Full Stack Developer,Full Stack Developer,Nagpur,FinTech,2026-06-14,JavaScript,exact,1.0
+J074,Full Stack Developer,Full Stack Developer,Nagpur,FinTech,2026-06-14,Node.js,exact,1.0
+J074,Full Stack Developer,Full Stack Developer,Nagpur,FinTech,2026-06-14,PostgreSQL,exact,1.0
+J075,Data Scientist,Data Scientist,Mumbai,EdTech,2026-03-14,Python,exact,1.0
+J075,Data Scientist,Data Scientist,Mumbai,EdTech,2026-03-14,Pandas,exact,1.0
+J075,Data Scientist,Data Scientist,Mumbai,EdTech,2026-03-14,NumPy,exact,1.0
+J075,Data Scientist,Data Scientist,Mumbai,EdTech,2026-03-14,Machine Learning,exact,1.0
+J075,Data Scientist,Data Scientist,Mumbai,EdTech,2026-03-14,Data Analysis,exact,1.0
+J076,Data Scientist,Data Scientist,Nagpur,HealthTech,2026-09-12,Python,exact,1.0
+J076,Data Scientist,Data Scientist,Nagpur,HealthTech,2026-09-12,Pandas,exact,1.0
+J076,Data Scientist,Data Scientist,Nagpur,HealthTech,2026-09-12,NumPy,exact,1.0
+J076,Data Scientist,Data Scientist,Nagpur,HealthTech,2026-09-12,Machine Learning,exact,1.0
+J076,Data Scientist,Data Scientist,Nagpur,HealthTech,2026-09-12,Natural Language Processing,exact,1.0
+J076,Data Scientist,Data Scientist,Nagpur,HealthTech,2026-09-12,Deep Learning,exact,1.0
+J076,Data Scientist,Data Scientist,Nagpur,HealthTech,2026-09-12,Data Analysis,exact,1.0
+J077,Backend Developer,Backend Developer,Nagpur,HealthTech,2026-09-20,Java,exact,1.0
+J077,Backend Developer,Backend Developer,Nagpur,HealthTech,2026-09-20,Spring Boot,exact,1.0
+J077,Backend Developer,Backend Developer,Nagpur,HealthTech,2026-09-20,AWS,exact,1.0
+J077,Backend Developer,Backend Developer,Nagpur,HealthTech,2026-09-20,Jenkins,exact,1.0
+J077,Backend Developer,Backend Developer,Nagpur,HealthTech,2026-09-20,PostgreSQL,exact,1.0
+J078,DevOps Engineer,Cloud / DevOps,Pune,EdTech,2026-05-24,Docker,exact,1.0
+J078,DevOps Engineer,Cloud / DevOps,Pune,EdTech,2026-05-24,Kubernetes,exact,1.0
+J078,DevOps Engineer,Cloud / DevOps,Pune,EdTech,2026-05-24,AWS,exact,1.0
+J078,DevOps Engineer,Cloud / DevOps,Pune,EdTech,2026-05-24,Linux,exact,1.0
+J078,DevOps Engineer,Cloud / DevOps,Pune,EdTech,2026-05-24,Git,exact,1.0
+J078,DevOps Engineer,Cloud / DevOps,Pune,EdTech,2026-05-24,Azure,exact,1.0
+J078,DevOps Engineer,Cloud / DevOps,Pune,EdTech,2026-05-24,CI/CD,exact,1.0
+J079,Node.js Developer,Backend Developer,Nashik,EdTech,2026-08-07,Node.js,exact,1.0
+J079,Node.js Developer,Backend Developer,Nashik,EdTech,2026-08-07,JavaScript,exact,1.0
+J079,Node.js Developer,Backend Developer,Nashik,EdTech,2026-08-07,MongoDB,exact,1.0
+J079,Node.js Developer,Backend Developer,Nashik,EdTech,2026-08-07,Express.js,exact,1.0
+J079,Node.js Developer,Backend Developer,Nashik,EdTech,2026-08-07,AWS,exact,1.0
+J079,Node.js Developer,Backend Developer,Nashik,EdTech,2026-08-07,TypeScript,exact,1.0
+J080,API Developer,Backend Developer,Nashik,EdTech,2026-03-17,Java,exact,1.0
+J080,API Developer,Backend Developer,Nashik,EdTech,2026-03-17,Spring Boot,exact,1.0
+J080,API Developer,Backend Developer,Nashik,EdTech,2026-03-17,FastAPI,exact,1.0
+J080,API Developer,Backend Developer,Nashik,EdTech,2026-03-17,Node.js,exact,1.0
+J080,API Developer,Backend Developer,Nashik,EdTech,2026-03-17,Git,exact,1.0
+J081,Full Stack Engineer,Full Stack Developer,Nashik,E-commerce,2026-06-04,React,exact,1.0
+J081,Full Stack Engineer,Full Stack Developer,Nashik,E-commerce,2026-06-04,Node.js,exact,1.0
+J081,Full Stack Engineer,Full Stack Developer,Nashik,E-commerce,2026-06-04,JavaScript,exact,1.0
+J081,Full Stack Engineer,Full Stack Developer,Nashik,E-commerce,2026-06-04,SQL,exact,1.0
+J081,Full Stack Engineer,Full Stack Developer,Nashik,E-commerce,2026-06-04,AWS,exact,1.0
+J081,Full Stack Engineer,Full Stack Developer,Nashik,E-commerce,2026-06-04,TypeScript,exact,1.0
+J081,Full Stack Engineer,Full Stack Developer,Nashik,E-commerce,2026-06-04,PostgreSQL,exact,1.0
+J082,Cloud Engineer,Cloud / DevOps,Pune,EdTech,2026-04-07,AWS,exact,1.0
+J082,Cloud Engineer,Cloud / DevOps,Pune,EdTech,2026-04-07,Linux,exact,1.0
+J082,Cloud Engineer,Cloud / DevOps,Pune,EdTech,2026-04-07,Git,exact,1.0
+J083,Frontend Developer,Frontend Developer,Mumbai,E-commerce,2026-08-25,HTML,exact,1.0
+J083,Frontend Developer,Frontend Developer,Mumbai,E-commerce,2026-08-25,CSS,exact,1.0
+J083,Frontend Developer,Frontend Developer,Mumbai,E-commerce,2026-08-25,JavaScript,exact,1.0
+J083,Frontend Developer,Frontend Developer,Mumbai,E-commerce,2026-08-25,React,exact,1.0
+J083,Frontend Developer,Frontend Developer,Mumbai,E-commerce,2026-08-25,Git,exact,1.0
+J083,Frontend Developer,Frontend Developer,Mumbai,E-commerce,2026-08-25,Angular,exact,1.0
+J083,Frontend Developer,Frontend Developer,Mumbai,E-commerce,2026-08-25,Node.js,exact,1.0
+J084,Product Manager,Product Management,Nashik,EdTech,2026-09-01,Excel,exact,1.0
+J084,Product Manager,Product Management,Nashik,EdTech,2026-09-01,SQL,exact,1.0
+J084,Product Manager,Product Management,Nashik,EdTech,2026-09-01,Data Analysis,exact,1.0
+J084,Product Manager,Product Management,Nashik,EdTech,2026-09-01,Data Visualization,exact,1.0
+J084,Product Manager,Product Management,Nashik,EdTech,2026-09-01,Power BI,exact,1.0
+J085,Cloud Engineer,Cloud / DevOps,Nagpur,HealthTech,2026-08-01,AWS,exact,1.0
+J085,Cloud Engineer,Cloud / DevOps,Nagpur,HealthTech,2026-08-01,Linux,exact,1.0
+J085,Cloud Engineer,Cloud / DevOps,Nagpur,HealthTech,2026-08-01,Terraform,exact,1.0
+J085,Cloud Engineer,Cloud / DevOps,Nagpur,HealthTech,2026-08-01,Kubernetes,exact,1.0
+J086,Full Stack Developer,Full Stack Developer,Pune,Logistics & Mobility,2026-04-18,React,exact,1.0
+J086,Full Stack Developer,Full Stack Developer,Pune,Logistics & Mobility,2026-04-18,JavaScript,exact,1.0
+J086,Full Stack Developer,Full Stack Developer,Pune,Logistics & Mobility,2026-04-18,Node.js,exact,1.0
+J086,Full Stack Developer,Full Stack Developer,Pune,Logistics & Mobility,2026-04-18,Git,exact,1.0
+J086,Full Stack Developer,Full Stack Developer,Pune,Logistics & Mobility,2026-04-18,PostgreSQL,exact,1.0
+J086,Full Stack Developer,Full Stack Developer,Pune,Logistics & Mobility,2026-04-18,AWS,exact,1.0
+J087,Frontend Developer,Frontend Developer,Mumbai,E-commerce,2026-09-20,HTML,exact,1.0
+J087,Frontend Developer,Frontend Developer,Mumbai,E-commerce,2026-09-20,CSS,exact,1.0
+J087,Frontend Developer,Frontend Developer,Mumbai,E-commerce,2026-09-20,JavaScript,exact,1.0
+J087,Frontend Developer,Frontend Developer,Mumbai,E-commerce,2026-09-20,React,exact,1.0
+J087,Frontend Developer,Frontend Developer,Mumbai,E-commerce,2026-09-20,Git,exact,1.0
+J087,Frontend Developer,Frontend Developer,Mumbai,E-commerce,2026-09-20,Tailwind CSS,exact,1.0
+J087,Frontend Developer,Frontend Developer,Mumbai,E-commerce,2026-09-20,TypeScript,exact,1.0
+J088,API Developer,Backend Developer,Nashik,FinTech,2026-04-06,Java,exact,1.0
+J088,API Developer,Backend Developer,Nashik,FinTech,2026-04-06,Spring Boot,exact,1.0
+J088,API Developer,Backend Developer,Nashik,FinTech,2026-04-06,SQL,exact,1.0
+J088,API Developer,Backend Developer,Nashik,FinTech,2026-04-06,Node.js,exact,1.0
+J089,Node.js Developer,Backend Developer,Nashik,IT Services,2026-09-10,Node.js,exact,1.0
+J089,Node.js Developer,Backend Developer,Nashik,IT Services,2026-09-10,JavaScript,exact,1.0
+J089,Node.js Developer,Backend Developer,Nashik,IT Services,2026-09-10,MongoDB,exact,1.0
+J089,Node.js Developer,Backend Developer,Nashik,IT Services,2026-09-10,Express.js,exact,1.0
+J089,Node.js Developer,Backend Developer,Nashik,IT Services,2026-09-10,TypeScript,exact,1.0
+J089,Node.js Developer,Backend Developer,Nashik,IT Services,2026-09-10,Git,exact,1.0
+J090,Frontend Engineer,Frontend Developer,Nagpur,HealthTech,2026-06-27,React,exact,1.0
+J090,Frontend Engineer,Frontend Developer,Nagpur,HealthTech,2026-06-27,TypeScript,exact,1.0
+J090,Frontend Engineer,Frontend Developer,Nagpur,HealthTech,2026-06-27,JavaScript,exact,1.0
+J090,Frontend Engineer,Frontend Developer,Nagpur,HealthTech,2026-06-27,HTML,exact,1.0
+J090,Frontend Engineer,Frontend Developer,Nagpur,HealthTech,2026-06-27,CSS,exact,1.0
+J090,Frontend Engineer,Frontend Developer,Nagpur,HealthTech,2026-06-27,Tailwind CSS,exact,1.0
+J091,Frontend Developer,Frontend Developer,Pune,E-commerce,2026-04-21,HTML,exact,1.0
+J091,Frontend Developer,Frontend Developer,Pune,E-commerce,2026-04-21,CSS,exact,1.0
+J091,Frontend Developer,Frontend Developer,Pune,E-commerce,2026-04-21,JavaScript,exact,1.0
+J091,Frontend Developer,Frontend Developer,Pune,E-commerce,2026-04-21,React,exact,1.0
+J091,Frontend Developer,Frontend Developer,Pune,E-commerce,2026-04-21,Git,exact,1.0
+J091,Frontend Developer,Frontend Developer,Pune,E-commerce,2026-04-21,Tailwind CSS,exact,1.0
+J092,BI Analyst,Data Analyst,Nashik,FinTech,2026-07-01,Excel,exact,1.0
+J092,BI Analyst,Data Analyst,Nashik,FinTech,2026-07-01,Power BI,exact,1.0
+J092,BI Analyst,Data Analyst,Nashik,FinTech,2026-07-01,Data Visualization,exact,1.0
+J092,BI Analyst,Data Analyst,Nashik,FinTech,2026-07-01,Python,exact,1.0
+J092,BI Analyst,Data Analyst,Nashik,FinTech,2026-07-01,Pandas,exact,1.0
+J093,UI Developer,Frontend Developer,Pune,E-commerce,2026-06-29,HTML,exact,1.0
+J093,UI Developer,Frontend Developer,Pune,E-commerce,2026-06-29,CSS,exact,1.0
+J093,UI Developer,Frontend Developer,Pune,E-commerce,2026-06-29,JavaScript,exact,1.0
+J093,UI Developer,Frontend Developer,Pune,E-commerce,2026-06-29,React,exact,1.0
+J093,UI Developer,Frontend Developer,Pune,E-commerce,2026-06-29,Tailwind CSS,exact,1.0
+J094,Cloud Engineer,Cloud / DevOps,Nashik,Manufacturing Technology,2026-04-29,AWS,exact,1.0
+J094,Cloud Engineer,Cloud / DevOps,Nashik,Manufacturing Technology,2026-04-29,Linux,exact,1.0
+J094,Cloud Engineer,Cloud / DevOps,Nashik,Manufacturing Technology,2026-04-29,CI/CD,exact,1.0
+J095,BI Analyst,Data Analyst,Mumbai,SaaS,2026-07-03,Excel,exact,1.0
+J095,BI Analyst,Data Analyst,Mumbai,SaaS,2026-07-03,Power BI,exact,1.0
+J095,BI Analyst,Data Analyst,Mumbai,SaaS,2026-07-03,Data Visualization,exact,1.0
+J095,BI Analyst,Data Analyst,Mumbai,SaaS,2026-07-03,Data Analysis,exact,1.0
+J096,Backend Engineer,Backend Developer,Mumbai,E-commerce,2026-03-05,Java,exact,1.0
+J096,Backend Engineer,Backend Developer,Mumbai,E-commerce,2026-03-05,Spring Boot,exact,1.0
+J096,Backend Engineer,Backend Developer,Mumbai,E-commerce,2026-03-05,REST API,exact,1.0
+J096,Backend Engineer,Backend Developer,Mumbai,E-commerce,2026-03-05,Git,exact,1.0
+J096,Backend Engineer,Backend Developer,Mumbai,E-commerce,2026-03-05,PostgreSQL,exact,1.0
+J096,Backend Engineer,Backend Developer,Mumbai,E-commerce,2026-03-05,AWS,exact,1.0
+J097,QA Automation Engineer,QA / Test Automation,Nagpur,HealthTech,2026-05-15,Java,exact,1.0
+J097,QA Automation Engineer,QA / Test Automation,Nagpur,HealthTech,2026-05-15,Python,exact,1.0
+J097,QA Automation Engineer,QA / Test Automation,Nagpur,HealthTech,2026-05-15,SQL,exact,1.0
+J097,QA Automation Engineer,QA / Test Automation,Nagpur,HealthTech,2026-05-15,Git,exact,1.0
+J097,QA Automation Engineer,QA / Test Automation,Nagpur,HealthTech,2026-05-15,CI/CD,exact,1.0
+J097,QA Automation Engineer,QA / Test Automation,Nagpur,HealthTech,2026-05-15,Jenkins,exact,1.0
+J098,DevOps Engineer,Cloud / DevOps,Pune,Logistics & Mobility,2026-08-05,Kubernetes,exact,1.0
+J098,DevOps Engineer,Cloud / DevOps,Pune,Logistics & Mobility,2026-08-05,AWS,exact,1.0
+J098,DevOps Engineer,Cloud / DevOps,Pune,Logistics & Mobility,2026-08-05,Linux,exact,1.0
+J098,DevOps Engineer,Cloud / DevOps,Pune,Logistics & Mobility,2026-08-05,Git,exact,1.0
+J098,DevOps Engineer,Cloud / DevOps,Pune,Logistics & Mobility,2026-08-05,Jenkins,exact,1.0
+J098,DevOps Engineer,Cloud / DevOps,Pune,Logistics & Mobility,2026-08-05,Terraform,exact,1.0
+J098,DevOps Engineer,Cloud / DevOps,Pune,Logistics & Mobility,2026-08-05,PowerShell,exact,1.0
+J099,QA Automation Engineer,QA / Test Automation,Nagpur,E-commerce,2026-08-23,Java,exact,1.0
+J099,QA Automation Engineer,QA / Test Automation,Nagpur,E-commerce,2026-08-23,Python,exact,1.0
+J099,QA Automation Engineer,QA / Test Automation,Nagpur,E-commerce,2026-08-23,SQL,exact,1.0
+J099,QA Automation Engineer,QA / Test Automation,Nagpur,E-commerce,2026-08-23,Git,exact,1.0
+J099,QA Automation Engineer,QA / Test Automation,Nagpur,E-commerce,2026-08-23,CI/CD,exact,1.0
+J099,QA Automation Engineer,QA / Test Automation,Nagpur,E-commerce,2026-08-23,Jenkins,exact,1.0
+J099,QA Automation Engineer,QA / Test Automation,Nagpur,E-commerce,2026-08-23,AWS,exact,1.0
+J100,Product Manager,Product Management,Nagpur,IT Services,2026-03-25,Excel,exact,1.0
+J100,Product Manager,Product Management,Nagpur,IT Services,2026-03-25,SQL,exact,1.0
+J100,Product Manager,Product Management,Nagpur,IT Services,2026-03-25,Data Analysis,exact,1.0
+J100,Product Manager,Product Management,Nagpur,IT Services,2026-03-25,Data Visualization,exact,1.0
+J100,Product Manager,Product Management,Nagpur,IT Services,2026-03-25,Git,exact,1.0
+J101,Product Manager,Product Management,Pune,Manufacturing Technology,2026-03-10,Excel,exact,1.0
+J101,Product Manager,Product Management,Pune,Manufacturing Technology,2026-03-10,SQL,exact,1.0
+J101,Product Manager,Product Management,Pune,Manufacturing Technology,2026-03-10,Data Analysis,exact,1.0
+J101,Product Manager,Product Management,Pune,Manufacturing Technology,2026-03-10,Data Visualization,exact,1.0
+J101,Product Manager,Product Management,Pune,Manufacturing Technology,2026-03-10,Power BI,exact,1.0
+J101,Product Manager,Product Management,Pune,Manufacturing Technology,2026-03-10,Python,exact,1.0
+J102,Data Engineer,Data Engineer,Nashik,FinTech,2026-03-10,Python,exact,1.0
+J102,Data Engineer,Data Engineer,Nashik,FinTech,2026-03-10,PostgreSQL,exact,1.0
+J102,Data Engineer,Data Engineer,Nashik,FinTech,2026-03-10,Pandas,exact,1.0
+J102,Data Engineer,Data Engineer,Nashik,FinTech,2026-03-10,Docker,exact,1.0
+J103,Data Analyst,Data Analyst,Nagpur,E-commerce,2026-06-07,Python,exact,1.0
+J103,Data Analyst,Data Analyst,Nagpur,E-commerce,2026-06-07,SQL,exact,1.0
+J103,Data Analyst,Data Analyst,Nagpur,E-commerce,2026-06-07,Excel,exact,1.0
+J103,Data Analyst,Data Analyst,Nagpur,E-commerce,2026-06-07,Pandas,exact,1.0
+J103,Data Analyst,Data Analyst,Nagpur,E-commerce,2026-06-07,Data Visualization,exact,1.0
+J103,Data Analyst,Data Analyst,Nagpur,E-commerce,2026-06-07,Power BI,exact,1.0
+J103,Data Analyst,Data Analyst,Nagpur,E-commerce,2026-06-07,Git,exact,1.0
+J104,DevOps Engineer,Cloud / DevOps,Pune,FinTech,2026-08-19,Docker,exact,1.0
+J104,DevOps Engineer,Cloud / DevOps,Pune,FinTech,2026-08-19,Kubernetes,exact,1.0
+J104,DevOps Engineer,Cloud / DevOps,Pune,FinTech,2026-08-19,AWS,exact,1.0
+J104,DevOps Engineer,Cloud / DevOps,Pune,FinTech,2026-08-19,Linux,exact,1.0
+J104,DevOps Engineer,Cloud / DevOps,Pune,FinTech,2026-08-19,Git,exact,1.0
+J104,DevOps Engineer,Cloud / DevOps,Pune,FinTech,2026-08-19,CI/CD,exact,1.0
+J104,DevOps Engineer,Cloud / DevOps,Pune,FinTech,2026-08-19,GCP,exact,1.0
+J104,DevOps Engineer,Cloud / DevOps,Pune,FinTech,2026-08-19,Azure,exact,1.0
+J105,BI Analyst,Data Analyst,Mumbai,HealthTech,2026-04-30,Excel,exact,1.0
+J105,BI Analyst,Data Analyst,Mumbai,HealthTech,2026-04-30,Power BI,exact,1.0
+J105,BI Analyst,Data Analyst,Mumbai,HealthTech,2026-04-30,Data Visualization,exact,1.0
+J105,BI Analyst,Data Analyst,Mumbai,HealthTech,2026-04-30,Git,exact,1.0
+J105,BI Analyst,Data Analyst,Mumbai,HealthTech,2026-04-30,Data Analysis,exact,1.0
+J105,BI Analyst,Data Analyst,Mumbai,HealthTech,2026-04-30,Pandas,exact,1.0
+J106,Data Scientist,Data Scientist,Nashik,Manufacturing Technology,2026-05-16,Python,exact,1.0
+J106,Data Scientist,Data Scientist,Nashik,Manufacturing Technology,2026-05-16,Pandas,exact,1.0
+J106,Data Scientist,Data Scientist,Nashik,Manufacturing Technology,2026-05-16,NumPy,exact,1.0
+J106,Data Scientist,Data Scientist,Nashik,Manufacturing Technology,2026-05-16,Machine Learning,exact,1.0
+J106,Data Scientist,Data Scientist,Nashik,Manufacturing Technology,2026-05-16,Data Analysis,exact,1.0
+J107,Senior Backend Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-08-30,Java,exact,1.0
+J107,Senior Backend Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-08-30,Spring Boot,exact,1.0
+J107,Senior Backend Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-08-30,REST API,exact,1.0
+J107,Senior Backend Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-08-30,PostgreSQL,exact,1.0
+J107,Senior Backend Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-08-30,Docker,exact,1.0
+J107,Senior Backend Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-08-30,Kubernetes,exact,1.0
+J108,Java Developer,Backend Developer,Nashik,EdTech,2026-08-15,Java,exact,1.0
+J108,Java Developer,Backend Developer,Nashik,EdTech,2026-08-15,Spring Boot,exact,1.0
+J108,Java Developer,Backend Developer,Nashik,EdTech,2026-08-15,PostgreSQL,exact,1.0
+J108,Java Developer,Backend Developer,Nashik,EdTech,2026-08-15,REST API,exact,1.0
+J108,Java Developer,Backend Developer,Nashik,EdTech,2026-08-15,AWS,exact,1.0
+J108,Java Developer,Backend Developer,Nashik,EdTech,2026-08-15,Jenkins,exact,1.0
+J109,Frontend Engineer,Frontend Developer,Nashik,Logistics & Mobility,2026-03-29,React,exact,1.0
+J109,Frontend Engineer,Frontend Developer,Nashik,Logistics & Mobility,2026-03-29,TypeScript,exact,1.0
+J109,Frontend Engineer,Frontend Developer,Nashik,Logistics & Mobility,2026-03-29,JavaScript,exact,1.0
+J109,Frontend Engineer,Frontend Developer,Nashik,Logistics & Mobility,2026-03-29,HTML,exact,1.0
+J109,Frontend Engineer,Frontend Developer,Nashik,Logistics & Mobility,2026-03-29,CSS,exact,1.0
+J109,Frontend Engineer,Frontend Developer,Nashik,Logistics & Mobility,2026-03-29,Angular,exact,1.0
+J110,UI Developer,Frontend Developer,Mumbai,IT Services,2026-07-15,HTML,exact,1.0
+J110,UI Developer,Frontend Developer,Mumbai,IT Services,2026-07-15,CSS,exact,1.0
+J110,UI Developer,Frontend Developer,Mumbai,IT Services,2026-07-15,JavaScript,exact,1.0
+J110,UI Developer,Frontend Developer,Mumbai,IT Services,2026-07-15,React,exact,1.0
+J110,UI Developer,Frontend Developer,Mumbai,IT Services,2026-07-15,Tailwind CSS,exact,1.0
+J111,Data Engineer,Data Engineer,Nagpur,IT Services,2026-03-29,Python,exact,1.0
+J111,Data Engineer,Data Engineer,Nagpur,IT Services,2026-03-29,SQL,exact,1.0
+J111,Data Engineer,Data Engineer,Nagpur,IT Services,2026-03-29,PostgreSQL,exact,1.0
+J111,Data Engineer,Data Engineer,Nagpur,IT Services,2026-03-29,Pandas,exact,1.0
+J111,Data Engineer,Data Engineer,Nagpur,IT Services,2026-03-29,Docker,exact,1.0
+J111,Data Engineer,Data Engineer,Nagpur,IT Services,2026-03-29,Git,exact,1.0
+J112,Cloud Engineer,Cloud / DevOps,Nashik,SaaS,2026-06-28,AWS,exact,1.0
+J112,Cloud Engineer,Cloud / DevOps,Nashik,SaaS,2026-06-28,Linux,exact,1.0
+J112,Cloud Engineer,Cloud / DevOps,Nashik,SaaS,2026-06-28,Docker,exact,1.0
+J112,Cloud Engineer,Cloud / DevOps,Nashik,SaaS,2026-06-28,Terraform,exact,1.0
+J112,Cloud Engineer,Cloud / DevOps,Nashik,SaaS,2026-06-28,Azure,exact,1.0
+J112,Cloud Engineer,Cloud / DevOps,Nashik,SaaS,2026-06-28,Git,exact,1.0
+J112,Cloud Engineer,Cloud / DevOps,Nashik,SaaS,2026-06-28,CI/CD,exact,1.0
+J113,UI Developer,Frontend Developer,Mumbai,FinTech,2026-08-16,HTML,exact,1.0
+J113,UI Developer,Frontend Developer,Mumbai,FinTech,2026-08-16,CSS,exact,1.0
+J113,UI Developer,Frontend Developer,Mumbai,FinTech,2026-08-16,JavaScript,exact,1.0
+J113,UI Developer,Frontend Developer,Mumbai,FinTech,2026-08-16,React,exact,1.0
+J113,UI Developer,Frontend Developer,Mumbai,FinTech,2026-08-16,Tailwind CSS,exact,1.0
+J113,UI Developer,Frontend Developer,Mumbai,FinTech,2026-08-16,TypeScript,exact,1.0
+J113,UI Developer,Frontend Developer,Mumbai,FinTech,2026-08-16,Git,exact,1.0
+J114,Data Engineer,Data Engineer,Pune,IT Services,2026-05-07,Python,exact,1.0
+J114,Data Engineer,Data Engineer,Pune,IT Services,2026-05-07,PostgreSQL,exact,1.0
+J114,Data Engineer,Data Engineer,Pune,IT Services,2026-05-07,Pandas,exact,1.0
+J114,Data Engineer,Data Engineer,Pune,IT Services,2026-05-07,Docker,exact,1.0
+J114,Data Engineer,Data Engineer,Pune,IT Services,2026-05-07,Linux,exact,1.0
+J115,Technical Support Engineer,Technical Support,Nashik,E-commerce,2026-09-14,Linux,exact,1.0
+J115,Technical Support Engineer,Technical Support,Nashik,E-commerce,2026-09-14,PowerShell,exact,1.0
+J115,Technical Support Engineer,Technical Support,Nashik,E-commerce,2026-09-14,Git,exact,1.0
+J115,Technical Support Engineer,Technical Support,Nashik,E-commerce,2026-09-14,AWS,exact,1.0
+J115,Technical Support Engineer,Technical Support,Nashik,E-commerce,2026-09-14,PostgreSQL,exact,1.0
+J116,Site Reliability Engineer,Cloud / DevOps,Nagpur,SaaS,2026-09-08,Docker,exact,1.0
+J116,Site Reliability Engineer,Cloud / DevOps,Nagpur,SaaS,2026-09-08,Kubernetes,exact,1.0
+J116,Site Reliability Engineer,Cloud / DevOps,Nagpur,SaaS,2026-09-08,AWS,exact,1.0
+J116,Site Reliability Engineer,Cloud / DevOps,Nagpur,SaaS,2026-09-08,Linux,exact,1.0
+J116,Site Reliability Engineer,Cloud / DevOps,Nagpur,SaaS,2026-09-08,Git,exact,1.0
+J116,Site Reliability Engineer,Cloud / DevOps,Nagpur,SaaS,2026-09-08,CI/CD,exact,1.0
+J116,Site Reliability Engineer,Cloud / DevOps,Nagpur,SaaS,2026-09-08,PowerShell,exact,1.0
+J117,Data Engineer,Data Engineer,Pune,IT Services,2026-07-18,Python,exact,1.0
+J117,Data Engineer,Data Engineer,Pune,IT Services,2026-07-18,SQL,exact,1.0
+J117,Data Engineer,Data Engineer,Pune,IT Services,2026-07-18,PostgreSQL,exact,1.0
+J117,Data Engineer,Data Engineer,Pune,IT Services,2026-07-18,Pandas,exact,1.0
+J117,Data Engineer,Data Engineer,Pune,IT Services,2026-07-18,Docker,exact,1.0
+J117,Data Engineer,Data Engineer,Pune,IT Services,2026-07-18,Linux,exact,1.0
+J117,Data Engineer,Data Engineer,Pune,IT Services,2026-07-18,Terraform,exact,1.0
+J117,Data Engineer,Data Engineer,Pune,IT Services,2026-07-18,Git,exact,1.0
+J118,UI Developer,Frontend Developer,Mumbai,Manufacturing Technology,2026-04-21,HTML,exact,1.0
+J118,UI Developer,Frontend Developer,Mumbai,Manufacturing Technology,2026-04-21,CSS,exact,1.0
+J118,UI Developer,Frontend Developer,Mumbai,Manufacturing Technology,2026-04-21,JavaScript,exact,1.0
+J118,UI Developer,Frontend Developer,Mumbai,Manufacturing Technology,2026-04-21,React,exact,1.0
+J118,UI Developer,Frontend Developer,Mumbai,Manufacturing Technology,2026-04-21,Tailwind CSS,exact,1.0
+J118,UI Developer,Frontend Developer,Mumbai,Manufacturing Technology,2026-04-21,TypeScript,exact,1.0
+J118,UI Developer,Frontend Developer,Mumbai,Manufacturing Technology,2026-04-21,Git,exact,1.0
+J119,Frontend Engineer,Frontend Developer,Nashik,IT Services,2026-04-02,React,exact,1.0
+J119,Frontend Engineer,Frontend Developer,Nashik,IT Services,2026-04-02,TypeScript,exact,1.0
+J119,Frontend Engineer,Frontend Developer,Nashik,IT Services,2026-04-02,JavaScript,exact,1.0
+J119,Frontend Engineer,Frontend Developer,Nashik,IT Services,2026-04-02,HTML,exact,1.0
+J119,Frontend Engineer,Frontend Developer,Nashik,IT Services,2026-04-02,CSS,exact,1.0
+J119,Frontend Engineer,Frontend Developer,Nashik,IT Services,2026-04-02,Tailwind CSS,exact,1.0
+J119,Frontend Engineer,Frontend Developer,Nashik,IT Services,2026-04-02,Git,exact,1.0
+J120,Node.js Developer,Backend Developer,Nagpur,Manufacturing Technology,2026-03-24,Node.js,exact,1.0
+J120,Node.js Developer,Backend Developer,Nagpur,Manufacturing Technology,2026-03-24,JavaScript,exact,1.0
+J120,Node.js Developer,Backend Developer,Nagpur,Manufacturing Technology,2026-03-24,MongoDB,exact,1.0
+J120,Node.js Developer,Backend Developer,Nagpur,Manufacturing Technology,2026-03-24,Express.js,exact,1.0
+J120,Node.js Developer,Backend Developer,Nagpur,Manufacturing Technology,2026-03-24,AWS,exact,1.0
+J121,React Developer,Frontend Developer,Nashik,Manufacturing Technology,2026-05-22,React,exact,1.0
+J121,React Developer,Frontend Developer,Nashik,Manufacturing Technology,2026-05-22,JavaScript,exact,1.0
+J121,React Developer,Frontend Developer,Nashik,Manufacturing Technology,2026-05-22,HTML,exact,1.0
+J121,React Developer,Frontend Developer,Nashik,Manufacturing Technology,2026-05-22,CSS,exact,1.0
+J121,React Developer,Frontend Developer,Nashik,Manufacturing Technology,2026-05-22,Tailwind CSS,exact,1.0
+J121,React Developer,Frontend Developer,Nashik,Manufacturing Technology,2026-05-22,Git,exact,1.0
+J122,Technical Support Engineer,Technical Support,Mumbai,IT Services,2026-08-14,Linux,exact,1.0
+J122,Technical Support Engineer,Technical Support,Mumbai,IT Services,2026-08-14,PowerShell,exact,1.0
+J122,Technical Support Engineer,Technical Support,Mumbai,IT Services,2026-08-14,SQL,exact,1.0
+J122,Technical Support Engineer,Technical Support,Mumbai,IT Services,2026-08-14,Git,exact,1.0
+J122,Technical Support Engineer,Technical Support,Mumbai,IT Services,2026-08-14,Docker,exact,1.0
+J123,BI Analyst,Data Analyst,Pune,FinTech,2026-06-16,Excel,exact,1.0
+J123,BI Analyst,Data Analyst,Pune,FinTech,2026-06-16,Power BI,exact,1.0
+J123,BI Analyst,Data Analyst,Pune,FinTech,2026-06-16,Data Visualization,exact,1.0
+J123,BI Analyst,Data Analyst,Pune,FinTech,2026-06-16,Pandas,exact,1.0
+J124,Full Stack Engineer,Full Stack Developer,Nashik,E-commerce,2026-05-11,React,exact,1.0
+J124,Full Stack Engineer,Full Stack Developer,Nashik,E-commerce,2026-05-11,Node.js,exact,1.0
+J124,Full Stack Engineer,Full Stack Developer,Nashik,E-commerce,2026-05-11,JavaScript,exact,1.0
+J124,Full Stack Engineer,Full Stack Developer,Nashik,E-commerce,2026-05-11,SQL,exact,1.0
+J124,Full Stack Engineer,Full Stack Developer,Nashik,E-commerce,2026-05-11,Git,exact,1.0
+J124,Full Stack Engineer,Full Stack Developer,Nashik,E-commerce,2026-05-11,Express.js,exact,1.0
+J125,Frontend Developer,Frontend Developer,Mumbai,EdTech,2026-09-11,HTML,exact,1.0
+J125,Frontend Developer,Frontend Developer,Mumbai,EdTech,2026-09-11,CSS,exact,1.0
+J125,Frontend Developer,Frontend Developer,Mumbai,EdTech,2026-09-11,JavaScript,exact,1.0
+J125,Frontend Developer,Frontend Developer,Mumbai,EdTech,2026-09-11,React,exact,1.0
+J125,Frontend Developer,Frontend Developer,Mumbai,EdTech,2026-09-11,Git,exact,1.0
+J125,Frontend Developer,Frontend Developer,Mumbai,EdTech,2026-09-11,Node.js,exact,1.0
+J125,Frontend Developer,Frontend Developer,Mumbai,EdTech,2026-09-11,Tailwind CSS,exact,1.0
+J125,Frontend Developer,Frontend Developer,Mumbai,EdTech,2026-09-11,TypeScript,exact,1.0
+J126,Backend Developer,Backend Developer,Pune,EdTech,2026-04-16,Java,exact,1.0
+J126,Backend Developer,Backend Developer,Pune,EdTech,2026-04-16,Spring Boot,exact,1.0
+J126,Backend Developer,Backend Developer,Pune,EdTech,2026-04-16,REST API,exact,1.0
+J126,Backend Developer,Backend Developer,Pune,EdTech,2026-04-16,Jenkins,exact,1.0
+J127,UI Developer,Frontend Developer,Mumbai,SaaS,2026-07-28,HTML,exact,1.0
+J127,UI Developer,Frontend Developer,Mumbai,SaaS,2026-07-28,CSS,exact,1.0
+J127,UI Developer,Frontend Developer,Mumbai,SaaS,2026-07-28,JavaScript,exact,1.0
+J127,UI Developer,Frontend Developer,Mumbai,SaaS,2026-07-28,React,exact,1.0
+J127,UI Developer,Frontend Developer,Mumbai,SaaS,2026-07-28,Tailwind CSS,exact,1.0
+J128,Technical Support Engineer,Technical Support,Pune,EdTech,2026-03-25,Linux,exact,1.0
+J128,Technical Support Engineer,Technical Support,Pune,EdTech,2026-03-25,PowerShell,exact,1.0
+J128,Technical Support Engineer,Technical Support,Pune,EdTech,2026-03-25,Git,exact,1.0
+J128,Technical Support Engineer,Technical Support,Pune,EdTech,2026-03-25,AWS,exact,1.0
+J129,Node.js Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-05-30,Node.js,exact,1.0
+J129,Node.js Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-05-30,JavaScript,exact,1.0
+J129,Node.js Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-05-30,REST API,exact,1.0
+J129,Node.js Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-05-30,MongoDB,exact,1.0
+J129,Node.js Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-05-30,Express.js,exact,1.0
+J129,Node.js Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-05-30,TypeScript,exact,1.0
+J129,Node.js Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-05-30,GraphQL,exact,1.0
+J130,Java Developer,Backend Developer,Nashik,EdTech,2026-09-06,Java,exact,1.0
+J130,Java Developer,Backend Developer,Nashik,EdTech,2026-09-06,Spring Boot,exact,1.0
+J130,Java Developer,Backend Developer,Nashik,EdTech,2026-09-06,SQL,exact,1.0
+J130,Java Developer,Backend Developer,Nashik,EdTech,2026-09-06,PostgreSQL,exact,1.0
+J130,Java Developer,Backend Developer,Nashik,EdTech,2026-09-06,REST API,exact,1.0
+J130,Java Developer,Backend Developer,Nashik,EdTech,2026-09-06,AWS,exact,1.0
+J130,Java Developer,Backend Developer,Nashik,EdTech,2026-09-06,Kubernetes,exact,1.0
+J131,Site Reliability Engineer,Cloud / DevOps,Mumbai,HealthTech,2026-04-18,Docker,exact,1.0
+J131,Site Reliability Engineer,Cloud / DevOps,Mumbai,HealthTech,2026-04-18,Kubernetes,exact,1.0
+J131,Site Reliability Engineer,Cloud / DevOps,Mumbai,HealthTech,2026-04-18,AWS,exact,1.0
+J131,Site Reliability Engineer,Cloud / DevOps,Mumbai,HealthTech,2026-04-18,Linux,exact,1.0
+J131,Site Reliability Engineer,Cloud / DevOps,Mumbai,HealthTech,2026-04-18,Git,exact,1.0
+J131,Site Reliability Engineer,Cloud / DevOps,Mumbai,HealthTech,2026-04-18,Azure,exact,1.0
+J132,QA Automation Engineer,QA / Test Automation,Nashik,E-commerce,2026-04-05,Java,exact,1.0
+J132,QA Automation Engineer,QA / Test Automation,Nashik,E-commerce,2026-04-05,Python,exact,1.0
+J132,QA Automation Engineer,QA / Test Automation,Nashik,E-commerce,2026-04-05,Git,exact,1.0
+J132,QA Automation Engineer,QA / Test Automation,Nashik,E-commerce,2026-04-05,CI/CD,exact,1.0
+J132,QA Automation Engineer,QA / Test Automation,Nashik,E-commerce,2026-04-05,Docker,exact,1.0
+J133,Backend Developer,Backend Developer,Nagpur,Manufacturing Technology,2026-09-07,Java,exact,1.0
+J133,Backend Developer,Backend Developer,Nagpur,Manufacturing Technology,2026-09-07,Spring Boot,exact,1.0
+J133,Backend Developer,Backend Developer,Nagpur,Manufacturing Technology,2026-09-07,SQL,exact,1.0
+J133,Backend Developer,Backend Developer,Nagpur,Manufacturing Technology,2026-09-07,REST API,exact,1.0
+J133,Backend Developer,Backend Developer,Nagpur,Manufacturing Technology,2026-09-07,FastAPI,exact,1.0
+J133,Backend Developer,Backend Developer,Nagpur,Manufacturing Technology,2026-09-07,AWS,exact,1.0
+J133,Backend Developer,Backend Developer,Nagpur,Manufacturing Technology,2026-09-07,Jenkins,exact,1.0
+J134,Senior Backend Developer,Backend Developer,Pune,IT Services,2026-06-16,Java,exact,1.0
+J134,Senior Backend Developer,Backend Developer,Pune,IT Services,2026-06-16,Spring Boot,exact,1.0
+J134,Senior Backend Developer,Backend Developer,Pune,IT Services,2026-06-16,REST API,exact,1.0
+J134,Senior Backend Developer,Backend Developer,Pune,IT Services,2026-06-16,PostgreSQL,exact,1.0
+J134,Senior Backend Developer,Backend Developer,Pune,IT Services,2026-06-16,Jenkins,exact,1.0
+J134,Senior Backend Developer,Backend Developer,Pune,IT Services,2026-06-16,Git,exact,1.0
+J135,Cloud Engineer,Cloud / DevOps,Pune,E-commerce,2026-05-08,AWS,exact,1.0
+J135,Cloud Engineer,Cloud / DevOps,Pune,E-commerce,2026-05-08,Linux,exact,1.0
+J135,Cloud Engineer,Cloud / DevOps,Pune,E-commerce,2026-05-08,Docker,exact,1.0
+J135,Cloud Engineer,Cloud / DevOps,Pune,E-commerce,2026-05-08,Terraform,exact,1.0
+J135,Cloud Engineer,Cloud / DevOps,Pune,E-commerce,2026-05-08,Azure,exact,1.0
+J135,Cloud Engineer,Cloud / DevOps,Pune,E-commerce,2026-05-08,Kubernetes,exact,1.0
+J135,Cloud Engineer,Cloud / DevOps,Pune,E-commerce,2026-05-08,Git,exact,1.0
+J136,Full Stack Developer,Full Stack Developer,Pune,IT Services,2026-09-13,React,exact,1.0
+J136,Full Stack Developer,Full Stack Developer,Pune,IT Services,2026-09-13,JavaScript,exact,1.0
+J136,Full Stack Developer,Full Stack Developer,Pune,IT Services,2026-09-13,Node.js,exact,1.0
+J136,Full Stack Developer,Full Stack Developer,Pune,IT Services,2026-09-13,REST API,exact,1.0
+J136,Full Stack Developer,Full Stack Developer,Pune,IT Services,2026-09-13,SQL,exact,1.0
+J136,Full Stack Developer,Full Stack Developer,Pune,IT Services,2026-09-13,Git,exact,1.0
+J136,Full Stack Developer,Full Stack Developer,Pune,IT Services,2026-09-13,AWS,exact,1.0
+J137,Java Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-05-27,Java,exact,1.0
+J137,Java Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-05-27,Spring Boot,exact,1.0
+J137,Java Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-05-27,SQL,exact,1.0
+J137,Java Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-05-27,PostgreSQL,exact,1.0
+J137,Java Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-05-27,AWS,exact,1.0
+J137,Java Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-05-27,Docker,exact,1.0
+J137,Java Developer,Backend Developer,Mumbai,Logistics & Mobility,2026-05-27,Kubernetes,exact,1.0
+J138,Site Reliability Engineer,Cloud / DevOps,Nagpur,Manufacturing Technology,2026-05-21,Docker,exact,1.0
+J138,Site Reliability Engineer,Cloud / DevOps,Nagpur,Manufacturing Technology,2026-05-21,Kubernetes,exact,1.0
+J138,Site Reliability Engineer,Cloud / DevOps,Nagpur,Manufacturing Technology,2026-05-21,AWS,exact,1.0
+J138,Site Reliability Engineer,Cloud / DevOps,Nagpur,Manufacturing Technology,2026-05-21,Linux,exact,1.0
+J138,Site Reliability Engineer,Cloud / DevOps,Nagpur,Manufacturing Technology,2026-05-21,Git,exact,1.0
+J138,Site Reliability Engineer,Cloud / DevOps,Nagpur,Manufacturing Technology,2026-05-21,CI/CD,exact,1.0
+J139,Data Engineer,Data Engineer,Nagpur,HealthTech,2026-03-20,Python,exact,1.0
+J139,Data Engineer,Data Engineer,Nagpur,HealthTech,2026-03-20,PostgreSQL,exact,1.0
+J139,Data Engineer,Data Engineer,Nagpur,HealthTech,2026-03-20,Pandas,exact,1.0
+J139,Data Engineer,Data Engineer,Nagpur,HealthTech,2026-03-20,Docker,exact,1.0
+J139,Data Engineer,Data Engineer,Nagpur,HealthTech,2026-03-20,Kubernetes,exact,1.0
+J140,Java Developer,Backend Developer,Mumbai,IT Services,2026-03-01,Java,exact,1.0
+J140,Java Developer,Backend Developer,Mumbai,IT Services,2026-03-01,Spring Boot,exact,1.0
+J140,Java Developer,Backend Developer,Mumbai,IT Services,2026-03-01,SQL,exact,1.0
+J140,Java Developer,Backend Developer,Mumbai,IT Services,2026-03-01,PostgreSQL,exact,1.0
+J140,Java Developer,Backend Developer,Mumbai,IT Services,2026-03-01,AWS,exact,1.0
+J141,Data Analyst,Data Analyst,Nagpur,E-commerce,2026-08-14,Python,exact,1.0
+J141,Data Analyst,Data Analyst,Nagpur,E-commerce,2026-08-14,Excel,exact,1.0
+J141,Data Analyst,Data Analyst,Nagpur,E-commerce,2026-08-14,Pandas,exact,1.0
+J141,Data Analyst,Data Analyst,Nagpur,E-commerce,2026-08-14,Data Visualization,exact,1.0
+J142,Senior Backend Developer,Backend Developer,Nagpur,HealthTech,2026-07-10,Java,exact,1.0
+J142,Senior Backend Developer,Backend Developer,Nagpur,HealthTech,2026-07-10,Spring Boot,exact,1.0
+J142,Senior Backend Developer,Backend Developer,Nagpur,HealthTech,2026-07-10,SQL,exact,1.0
+J142,Senior Backend Developer,Backend Developer,Nagpur,HealthTech,2026-07-10,REST API,exact,1.0
+J142,Senior Backend Developer,Backend Developer,Nagpur,HealthTech,2026-07-10,PostgreSQL,exact,1.0
+J142,Senior Backend Developer,Backend Developer,Nagpur,HealthTech,2026-07-10,GraphQL,exact,1.0
+J142,Senior Backend Developer,Backend Developer,Nagpur,HealthTech,2026-07-10,Kubernetes,exact,1.0
+J142,Senior Backend Developer,Backend Developer,Nagpur,HealthTech,2026-07-10,Git,exact,1.0
+J143,Technical Support Engineer,Technical Support,Nashik,SaaS,2026-09-12,Linux,exact,1.0
+J143,Technical Support Engineer,Technical Support,Nashik,SaaS,2026-09-12,PowerShell,exact,1.0
+J143,Technical Support Engineer,Technical Support,Nashik,SaaS,2026-09-12,SQL,exact,1.0
+J143,Technical Support Engineer,Technical Support,Nashik,SaaS,2026-09-12,Git,exact,1.0
+J143,Technical Support Engineer,Technical Support,Nashik,SaaS,2026-09-12,AWS,exact,1.0
+J144,Full Stack Engineer,Full Stack Developer,Nashik,Manufacturing Technology,2026-09-19,React,exact,1.0
+J144,Full Stack Engineer,Full Stack Developer,Nashik,Manufacturing Technology,2026-09-19,Node.js,exact,1.0
+J144,Full Stack Engineer,Full Stack Developer,Nashik,Manufacturing Technology,2026-09-19,JavaScript,exact,1.0
+J144,Full Stack Engineer,Full Stack Developer,Nashik,Manufacturing Technology,2026-09-19,REST API,exact,1.0
+J144,Full Stack Engineer,Full Stack Developer,Nashik,Manufacturing Technology,2026-09-19,SQL,exact,1.0
+J144,Full Stack Engineer,Full Stack Developer,Nashik,Manufacturing Technology,2026-09-19,Docker,exact,1.0
+J144,Full Stack Engineer,Full Stack Developer,Nashik,Manufacturing Technology,2026-09-19,AWS,exact,1.0
+J145,Frontend Developer,Frontend Developer,Mumbai,EdTech,2026-03-13,HTML,exact,1.0
+J145,Frontend Developer,Frontend Developer,Mumbai,EdTech,2026-03-13,CSS,exact,1.0
+J145,Frontend Developer,Frontend Developer,Mumbai,EdTech,2026-03-13,JavaScript,exact,1.0
+J145,Frontend Developer,Frontend Developer,Mumbai,EdTech,2026-03-13,React,exact,1.0
+J145,Frontend Developer,Frontend Developer,Mumbai,EdTech,2026-03-13,Git,exact,1.0
+J145,Frontend Developer,Frontend Developer,Mumbai,EdTech,2026-03-13,Node.js,exact,1.0
+J146,Data Scientist,Data Scientist,Pune,SaaS,2026-07-04,Python,exact,1.0
+J146,Data Scientist,Data Scientist,Pune,SaaS,2026-07-04,Pandas,exact,1.0
+J146,Data Scientist,Data Scientist,Pune,SaaS,2026-07-04,NumPy,exact,1.0
+J146,Data Scientist,Data Scientist,Pune,SaaS,2026-07-04,Machine Learning,exact,1.0
+J146,Data Scientist,Data Scientist,Pune,SaaS,2026-07-04,Data Analysis,exact,1.0
+J146,Data Scientist,Data Scientist,Pune,SaaS,2026-07-04,Natural Language Processing,exact,1.0
+J147,API Developer,Backend Developer,Nashik,SaaS,2026-06-28,REST API,exact,1.0
+J147,API Developer,Backend Developer,Nashik,SaaS,2026-06-28,Java,exact,1.0
+J147,API Developer,Backend Developer,Nashik,SaaS,2026-06-28,Spring Boot,exact,1.0
+J147,API Developer,Backend Developer,Nashik,SaaS,2026-06-28,Node.js,exact,1.0
+J147,API Developer,Backend Developer,Nashik,SaaS,2026-06-28,FastAPI,exact,1.0
+J148,Java Developer,Backend Developer,Nagpur,EdTech,2026-09-11,Java,exact,1.0
+J148,Java Developer,Backend Developer,Nagpur,EdTech,2026-09-11,Spring Boot,exact,1.0
+J148,Java Developer,Backend Developer,Nagpur,EdTech,2026-09-11,PostgreSQL,exact,1.0
+J148,Java Developer,Backend Developer,Nagpur,EdTech,2026-09-11,REST API,exact,1.0
+J148,Java Developer,Backend Developer,Nagpur,EdTech,2026-09-11,AWS,exact,1.0
+J148,Java Developer,Backend Developer,Nagpur,EdTech,2026-09-11,Kubernetes,exact,1.0
+J148,Java Developer,Backend Developer,Nagpur,EdTech,2026-09-11,Jenkins,exact,1.0
+J149,Site Reliability Engineer,Cloud / DevOps,Pune,IT Services,2026-09-18,Docker,exact,1.0
+J149,Site Reliability Engineer,Cloud / DevOps,Pune,IT Services,2026-09-18,Kubernetes,exact,1.0
+J149,Site Reliability Engineer,Cloud / DevOps,Pune,IT Services,2026-09-18,AWS,exact,1.0
+J149,Site Reliability Engineer,Cloud / DevOps,Pune,IT Services,2026-09-18,Linux,exact,1.0
+J149,Site Reliability Engineer,Cloud / DevOps,Pune,IT Services,2026-09-18,Git,exact,1.0
+J149,Site Reliability Engineer,Cloud / DevOps,Pune,IT Services,2026-09-18,Azure,exact,1.0
+J149,Site Reliability Engineer,Cloud / DevOps,Pune,IT Services,2026-09-18,CI/CD,exact,1.0
+J150,Cloud Engineer,Cloud / DevOps,Mumbai,E-commerce,2026-06-23,AWS,exact,1.0
+J150,Cloud Engineer,Cloud / DevOps,Mumbai,E-commerce,2026-06-23,Linux,exact,1.0
+J150,Cloud Engineer,Cloud / DevOps,Mumbai,E-commerce,2026-06-23,Docker,exact,1.0
+J150,Cloud Engineer,Cloud / DevOps,Mumbai,E-commerce,2026-06-23,CI/CD,exact,1.0
+J150,Cloud Engineer,Cloud / DevOps,Mumbai,E-commerce,2026-06-23,Azure,exact,1.0
+J151,Backend Engineer,Backend Developer,Nagpur,EdTech,2026-03-23,Java,exact,1.0
+J151,Backend Engineer,Backend Developer,Nagpur,EdTech,2026-03-23,Spring Boot,exact,1.0
+J151,Backend Engineer,Backend Developer,Nagpur,EdTech,2026-03-23,SQL,exact,1.0
+J151,Backend Engineer,Backend Developer,Nagpur,EdTech,2026-03-23,Node.js,exact,1.0
+J151,Backend Engineer,Backend Developer,Nagpur,EdTech,2026-03-23,PostgreSQL,exact,1.0
+J151,Backend Engineer,Backend Developer,Nagpur,EdTech,2026-03-23,Git,exact,1.0
+J151,Backend Engineer,Backend Developer,Nagpur,EdTech,2026-03-23,GraphQL,exact,1.0
+J152,Backend Engineer,Backend Developer,Nashik,SaaS,2026-05-21,Java,exact,1.0
+J152,Backend Engineer,Backend Developer,Nashik,SaaS,2026-05-21,Spring Boot,exact,1.0
+J152,Backend Engineer,Backend Developer,Nashik,SaaS,2026-05-21,Docker,exact,1.0
+J152,Backend Engineer,Backend Developer,Nashik,SaaS,2026-05-21,GraphQL,exact,1.0
+J152,Backend Engineer,Backend Developer,Nashik,SaaS,2026-05-21,PostgreSQL,exact,1.0
+J153,Full Stack Developer,Full Stack Developer,Nashik,SaaS,2026-09-16,React,exact,1.0
+J153,Full Stack Developer,Full Stack Developer,Nashik,SaaS,2026-09-16,JavaScript,exact,1.0
+J153,Full Stack Developer,Full Stack Developer,Nashik,SaaS,2026-09-16,Node.js,exact,1.0
+J153,Full Stack Developer,Full Stack Developer,Nashik,SaaS,2026-09-16,REST API,exact,1.0
+J153,Full Stack Developer,Full Stack Developer,Nashik,SaaS,2026-09-16,SQL,exact,1.0
+J153,Full Stack Developer,Full Stack Developer,Nashik,SaaS,2026-09-16,Docker,exact,1.0
+J153,Full Stack Developer,Full Stack Developer,Nashik,SaaS,2026-09-16,TypeScript,exact,1.0
+J153,Full Stack Developer,Full Stack Developer,Nashik,SaaS,2026-09-16,AWS,exact,1.0
+J154,Data Engineer,Data Engineer,Mumbai,IT Services,2026-08-21,Python,exact,1.0
+J154,Data Engineer,Data Engineer,Mumbai,IT Services,2026-08-21,PostgreSQL,exact,1.0
+J154,Data Engineer,Data Engineer,Mumbai,IT Services,2026-08-21,Pandas,exact,1.0
+J154,Data Engineer,Data Engineer,Mumbai,IT Services,2026-08-21,Docker,exact,1.0
+J154,Data Engineer,Data Engineer,Mumbai,IT Services,2026-08-21,Kubernetes,exact,1.0
+J155,BI Analyst,Data Analyst,Mumbai,FinTech,2026-06-11,Excel,exact,1.0
+J155,BI Analyst,Data Analyst,Mumbai,FinTech,2026-06-11,Power BI,exact,1.0
+J155,BI Analyst,Data Analyst,Mumbai,FinTech,2026-06-11,Data Visualization,exact,1.0
+J155,BI Analyst,Data Analyst,Mumbai,FinTech,2026-06-11,Pandas,exact,1.0
+J156,BI Analyst,Data Analyst,Mumbai,Manufacturing Technology,2026-06-30,Excel,exact,1.0
+J156,BI Analyst,Data Analyst,Mumbai,Manufacturing Technology,2026-06-30,Power BI,exact,1.0
+J156,BI Analyst,Data Analyst,Mumbai,Manufacturing Technology,2026-06-30,SQL,exact,1.0
+J156,BI Analyst,Data Analyst,Mumbai,Manufacturing Technology,2026-06-30,Data Visualization,exact,1.0
+J156,BI Analyst,Data Analyst,Mumbai,Manufacturing Technology,2026-06-30,Git,exact,1.0
+J157,Product Manager,Product Management,Mumbai,HealthTech,2026-06-13,Excel,exact,1.0
+J157,Product Manager,Product Management,Mumbai,HealthTech,2026-06-13,Data Analysis,exact,1.0
+J157,Product Manager,Product Management,Mumbai,HealthTech,2026-06-13,Data Visualization,exact,1.0
+J157,Product Manager,Product Management,Mumbai,HealthTech,2026-06-13,Python,exact,1.0
+J157,Product Manager,Product Management,Mumbai,HealthTech,2026-06-13,Git,exact,1.0
+J158,Java Developer,Backend Developer,Nagpur,Logistics & Mobility,2026-08-27,Java,exact,1.0
+J158,Java Developer,Backend Developer,Nagpur,Logistics & Mobility,2026-08-27,Spring Boot,exact,1.0
+J158,Java Developer,Backend Developer,Nagpur,Logistics & Mobility,2026-08-27,PostgreSQL,exact,1.0
+J158,Java Developer,Backend Developer,Nagpur,Logistics & Mobility,2026-08-27,REST API,exact,1.0
+J158,Java Developer,Backend Developer,Nagpur,Logistics & Mobility,2026-08-27,Kubernetes,exact,1.0
+J158,Java Developer,Backend Developer,Nagpur,Logistics & Mobility,2026-08-27,Jenkins,exact,1.0
+J159,React Developer,Frontend Developer,Pune,Manufacturing Technology,2026-09-17,React,exact,1.0
+J159,React Developer,Frontend Developer,Pune,Manufacturing Technology,2026-09-17,JavaScript,exact,1.0
+J159,React Developer,Frontend Developer,Pune,Manufacturing Technology,2026-09-17,HTML,exact,1.0
+J159,React Developer,Frontend Developer,Pune,Manufacturing Technology,2026-09-17,CSS,exact,1.0
+J159,React Developer,Frontend Developer,Pune,Manufacturing Technology,2026-09-17,TypeScript,exact,1.0
+J160,Backend Engineer,Backend Developer,Nashik,E-commerce,2026-06-28,Java,exact,1.0
+J160,Backend Engineer,Backend Developer,Nashik,E-commerce,2026-06-28,Spring Boot,exact,1.0
+J160,Backend Engineer,Backend Developer,Nashik,E-commerce,2026-06-28,SQL,exact,1.0
+J160,Backend Engineer,Backend Developer,Nashik,E-commerce,2026-06-28,PostgreSQL,exact,1.0
+J161,Data Analyst,Data Analyst,Nagpur,Manufacturing Technology,2026-04-22,Python,exact,1.0
+J161,Data Analyst,Data Analyst,Nagpur,Manufacturing Technology,2026-04-22,Excel,exact,1.0
+J161,Data Analyst,Data Analyst,Nagpur,Manufacturing Technology,2026-04-22,Pandas,exact,1.0
+J161,Data Analyst,Data Analyst,Nagpur,Manufacturing Technology,2026-04-22,Data Visualization,exact,1.0
+J161,Data Analyst,Data Analyst,Nagpur,Manufacturing Technology,2026-04-22,NumPy,exact,1.0
+J162,Technical Support Engineer,Technical Support,Nashik,IT Services,2026-05-23,Linux,exact,1.0
+J162,Technical Support Engineer,Technical Support,Nashik,IT Services,2026-05-23,PowerShell,exact,1.0
+J162,Technical Support Engineer,Technical Support,Nashik,IT Services,2026-05-23,SQL,exact,1.0
+J162,Technical Support Engineer,Technical Support,Nashik,IT Services,2026-05-23,Git,exact,1.0
+J162,Technical Support Engineer,Technical Support,Nashik,IT Services,2026-05-23,Python,exact,1.0
+J163,Cloud Engineer,Cloud / DevOps,Nashik,HealthTech,2026-08-29,AWS,exact,1.0
+J163,Cloud Engineer,Cloud / DevOps,Nashik,HealthTech,2026-08-29,Linux,exact,1.0
+J163,Cloud Engineer,Cloud / DevOps,Nashik,HealthTech,2026-08-29,Terraform,exact,1.0
+J163,Cloud Engineer,Cloud / DevOps,Nashik,HealthTech,2026-08-29,Azure,exact,1.0
+J164,Product Manager,Product Management,Nashik,Manufacturing Technology,2026-04-15,Excel,exact,1.0
+J164,Product Manager,Product Management,Nashik,Manufacturing Technology,2026-04-15,SQL,exact,1.0
+J164,Product Manager,Product Management,Nashik,Manufacturing Technology,2026-04-15,Data Analysis,exact,1.0
+J164,Product Manager,Product Management,Nashik,Manufacturing Technology,2026-04-15,Data Visualization,exact,1.0
+J164,Product Manager,Product Management,Nashik,Manufacturing Technology,2026-04-15,Power BI,exact,1.0
+J164,Product Manager,Product Management,Nashik,Manufacturing Technology,2026-04-15,Git,exact,1.0
+J165,DevOps Engineer,Cloud / DevOps,Pune,SaaS,2026-05-09,Docker,exact,1.0
+J165,DevOps Engineer,Cloud / DevOps,Pune,SaaS,2026-05-09,Kubernetes,exact,1.0
+J165,DevOps Engineer,Cloud / DevOps,Pune,SaaS,2026-05-09,AWS,exact,1.0
+J165,DevOps Engineer,Cloud / DevOps,Pune,SaaS,2026-05-09,Linux,exact,1.0
+J165,DevOps Engineer,Cloud / DevOps,Pune,SaaS,2026-05-09,Git,exact,1.0
+J165,DevOps Engineer,Cloud / DevOps,Pune,SaaS,2026-05-09,Jenkins,exact,1.0
+J165,DevOps Engineer,Cloud / DevOps,Pune,SaaS,2026-05-09,GCP,exact,1.0
+J165,DevOps Engineer,Cloud / DevOps,Pune,SaaS,2026-05-09,Azure,exact,1.0
+J166,Data Engineer,Data Engineer,Mumbai,IT Services,2026-04-07,Python,exact,1.0
+J166,Data Engineer,Data Engineer,Mumbai,IT Services,2026-04-07,SQL,exact,1.0
+J166,Data Engineer,Data Engineer,Mumbai,IT Services,2026-04-07,PostgreSQL,exact,1.0
+J166,Data Engineer,Data Engineer,Mumbai,IT Services,2026-04-07,Pandas,exact,1.0
+J166,Data Engineer,Data Engineer,Mumbai,IT Services,2026-04-07,Docker,exact,1.0
+J166,Data Engineer,Data Engineer,Mumbai,IT Services,2026-04-07,Linux,exact,1.0
+J166,Data Engineer,Data Engineer,Mumbai,IT Services,2026-04-07,Kubernetes,exact,1.0
+J167,QA Automation Engineer,QA / Test Automation,Mumbai,FinTech,2026-05-22,Java,exact,1.0
+J167,QA Automation Engineer,QA / Test Automation,Mumbai,FinTech,2026-05-22,Python,exact,1.0
+J167,QA Automation Engineer,QA / Test Automation,Mumbai,FinTech,2026-05-22,SQL,exact,1.0
+J167,QA Automation Engineer,QA / Test Automation,Mumbai,FinTech,2026-05-22,Git,exact,1.0
+J167,QA Automation Engineer,QA / Test Automation,Mumbai,FinTech,2026-05-22,CI/CD,exact,1.0
+J167,QA Automation Engineer,QA / Test Automation,Mumbai,FinTech,2026-05-22,Docker,exact,1.0
+J168,QA Automation Engineer,QA / Test Automation,Mumbai,HealthTech,2026-04-09,Java,exact,1.0
+J168,QA Automation Engineer,QA / Test Automation,Mumbai,HealthTech,2026-04-09,Python,exact,1.0
+J168,QA Automation Engineer,QA / Test Automation,Mumbai,HealthTech,2026-04-09,SQL,exact,1.0
+J168,QA Automation Engineer,QA / Test Automation,Mumbai,HealthTech,2026-04-09,Git,exact,1.0
+J168,QA Automation Engineer,QA / Test Automation,Mumbai,HealthTech,2026-04-09,CI/CD,exact,1.0
+J168,QA Automation Engineer,QA / Test Automation,Mumbai,HealthTech,2026-04-09,PostgreSQL,exact,1.0
+J169,Node.js Developer,Backend Developer,Mumbai,FinTech,2026-05-21,Node.js,exact,1.0
+J169,Node.js Developer,Backend Developer,Mumbai,FinTech,2026-05-21,JavaScript,exact,1.0
+J169,Node.js Developer,Backend Developer,Mumbai,FinTech,2026-05-21,REST API,exact,1.0
+J169,Node.js Developer,Backend Developer,Mumbai,FinTech,2026-05-21,MongoDB,exact,1.0
+J169,Node.js Developer,Backend Developer,Mumbai,FinTech,2026-05-21,Express.js,exact,1.0
+J169,Node.js Developer,Backend Developer,Mumbai,FinTech,2026-05-21,AWS,exact,1.0
+J170,Backend Developer,Backend Developer,Nagpur,FinTech,2026-09-05,Java,exact,1.0
+J170,Backend Developer,Backend Developer,Nagpur,FinTech,2026-09-05,Spring Boot,exact,1.0
+J170,Backend Developer,Backend Developer,Nagpur,FinTech,2026-09-05,SQL,exact,1.0
+J170,Backend Developer,Backend Developer,Nagpur,FinTech,2026-09-05,AWS,exact,1.0
+J171,React Developer,Frontend Developer,Nashik,E-commerce,2026-08-07,React,exact,1.0
+J171,React Developer,Frontend Developer,Nashik,E-commerce,2026-08-07,JavaScript,exact,1.0
+J171,React Developer,Frontend Developer,Nashik,E-commerce,2026-08-07,HTML,exact,1.0
+J171,React Developer,Frontend Developer,Nashik,E-commerce,2026-08-07,CSS,exact,1.0
+J171,React Developer,Frontend Developer,Nashik,E-commerce,2026-08-07,Git,exact,1.0
+J171,React Developer,Frontend Developer,Nashik,E-commerce,2026-08-07,TypeScript,exact,1.0
+J172,Backend Engineer,Backend Developer,Pune,FinTech,2026-04-17,Java,exact,1.0
+J172,Backend Engineer,Backend Developer,Pune,FinTech,2026-04-17,Spring Boot,exact,1.0
+J172,Backend Engineer,Backend Developer,Pune,FinTech,2026-04-17,REST API,exact,1.0
+J172,Backend Engineer,Backend Developer,Pune,FinTech,2026-04-17,Jenkins,exact,1.0
+J172,Backend Engineer,Backend Developer,Pune,FinTech,2026-04-17,GraphQL,exact,1.0
+J173,Data Analyst,Data Analyst,Pune,IT Services,2026-08-09,Python,exact,1.0
+J173,Data Analyst,Data Analyst,Pune,IT Services,2026-08-09,SQL,exact,1.0
+J173,Data Analyst,Data Analyst,Pune,IT Services,2026-08-09,Excel,exact,1.0
+J173,Data Analyst,Data Analyst,Pune,IT Services,2026-08-09,Pandas,exact,1.0
+J173,Data Analyst,Data Analyst,Pune,IT Services,2026-08-09,Data Visualization,exact,1.0
+J173,Data Analyst,Data Analyst,Pune,IT Services,2026-08-09,Data Analysis,exact,1.0
+J174,API Developer,Backend Developer,Pune,Logistics & Mobility,2026-09-07,REST API,exact,1.0
+J174,API Developer,Backend Developer,Pune,Logistics & Mobility,2026-09-07,Java,exact,1.0
+J174,API Developer,Backend Developer,Pune,Logistics & Mobility,2026-09-07,Spring Boot,exact,1.0
+J174,API Developer,Backend Developer,Pune,Logistics & Mobility,2026-09-07,PostgreSQL,exact,1.0
+J175,Product Manager,Product Management,Nagpur,EdTech,2026-09-05,Excel,exact,1.0
+J175,Product Manager,Product Management,Nagpur,EdTech,2026-09-05,Data Analysis,exact,1.0
+J175,Product Manager,Product Management,Nagpur,EdTech,2026-09-05,Data Visualization,exact,1.0
+J175,Product Manager,Product Management,Nagpur,EdTech,2026-09-05,Power BI,exact,1.0
+J175,Product Manager,Product Management,Nagpur,EdTech,2026-09-05,PostgreSQL,exact,1.0
+J176,Frontend Engineer,Frontend Developer,Pune,E-commerce,2026-03-23,React,exact,1.0
+J176,Frontend Engineer,Frontend Developer,Pune,E-commerce,2026-03-23,TypeScript,exact,1.0
+J176,Frontend Engineer,Frontend Developer,Pune,E-commerce,2026-03-23,JavaScript,exact,1.0
+J176,Frontend Engineer,Frontend Developer,Pune,E-commerce,2026-03-23,HTML,exact,1.0
+J176,Frontend Engineer,Frontend Developer,Pune,E-commerce,2026-03-23,CSS,exact,1.0
+J176,Frontend Engineer,Frontend Developer,Pune,E-commerce,2026-03-23,Git,exact,1.0
+J176,Frontend Engineer,Frontend Developer,Pune,E-commerce,2026-03-23,Node.js,exact,1.0
+J176,Frontend Engineer,Frontend Developer,Pune,E-commerce,2026-03-23,Angular,exact,1.0
+J177,Data Scientist,Data Scientist,Nagpur,FinTech,2026-09-07,Python,exact,1.0
+J177,Data Scientist,Data Scientist,Nagpur,FinTech,2026-09-07,Pandas,exact,1.0
+J177,Data Scientist,Data Scientist,Nagpur,FinTech,2026-09-07,NumPy,exact,1.0
+J177,Data Scientist,Data Scientist,Nagpur,FinTech,2026-09-07,Machine Learning,exact,1.0
+J177,Data Scientist,Data Scientist,Nagpur,FinTech,2026-09-07,Natural Language Processing,exact,1.0
+J177,Data Scientist,Data Scientist,Nagpur,FinTech,2026-09-07,Data Analysis,exact,1.0
+J178,Cloud Engineer,Cloud / DevOps,Nashik,HealthTech,2026-04-27,AWS,exact,1.0
+J178,Cloud Engineer,Cloud / DevOps,Nashik,HealthTech,2026-04-27,Linux,exact,1.0
+J178,Cloud Engineer,Cloud / DevOps,Nashik,HealthTech,2026-04-27,Docker,exact,1.0
+J178,Cloud Engineer,Cloud / DevOps,Nashik,HealthTech,2026-04-27,Terraform,exact,1.0
+J178,Cloud Engineer,Cloud / DevOps,Nashik,HealthTech,2026-04-27,Azure,exact,1.0
+J179,Data Scientist,Data Scientist,Mumbai,FinTech,2026-03-02,Python,exact,1.0
+J179,Data Scientist,Data Scientist,Mumbai,FinTech,2026-03-02,Pandas,exact,1.0
+J179,Data Scientist,Data Scientist,Mumbai,FinTech,2026-03-02,NumPy,exact,1.0
+J179,Data Scientist,Data Scientist,Mumbai,FinTech,2026-03-02,Machine Learning,exact,1.0
+J179,Data Scientist,Data Scientist,Mumbai,FinTech,2026-03-02,Natural Language Processing,exact,1.0
+J179,Data Scientist,Data Scientist,Mumbai,FinTech,2026-03-02,Deep Learning,exact,1.0
+J180,Technical Support Engineer,Technical Support,Nagpur,IT Services,2026-08-23,Linux,exact,1.0
+J180,Technical Support Engineer,Technical Support,Nagpur,IT Services,2026-08-23,PowerShell,exact,1.0
+J180,Technical Support Engineer,Technical Support,Nagpur,IT Services,2026-08-23,SQL,exact,1.0
+J180,Technical Support Engineer,Technical Support,Nagpur,IT Services,2026-08-23,Git,exact,1.0
+J180,Technical Support Engineer,Technical Support,Nagpur,IT Services,2026-08-23,AWS,exact,1.0
+J180,Technical Support Engineer,Technical Support,Nagpur,IT Services,2026-08-23,Docker,exact,1.0
+J181,Full Stack Engineer,Full Stack Developer,Nashik,IT Services,2026-09-05,React,exact,1.0
+J181,Full Stack Engineer,Full Stack Developer,Nashik,IT Services,2026-09-05,Node.js,exact,1.0
+J181,Full Stack Engineer,Full Stack Developer,Nashik,IT Services,2026-09-05,JavaScript,exact,1.0
+J181,Full Stack Engineer,Full Stack Developer,Nashik,IT Services,2026-09-05,REST API,exact,1.0
+J181,Full Stack Engineer,Full Stack Developer,Nashik,IT Services,2026-09-05,SQL,exact,1.0
+J181,Full Stack Engineer,Full Stack Developer,Nashik,IT Services,2026-09-05,Git,exact,1.0
+J181,Full Stack Engineer,Full Stack Developer,Nashik,IT Services,2026-09-05,AWS,exact,1.0
+J182,Full Stack Engineer,Full Stack Developer,Nagpur,EdTech,2026-03-10,React,exact,1.0
+J182,Full Stack Engineer,Full Stack Developer,Nagpur,EdTech,2026-03-10,Node.js,exact,1.0
+J182,Full Stack Engineer,Full Stack Developer,Nagpur,EdTech,2026-03-10,JavaScript,exact,1.0
+J182,Full Stack Engineer,Full Stack Developer,Nagpur,EdTech,2026-03-10,SQL,exact,1.0
+J182,Full Stack Engineer,Full Stack Developer,Nagpur,EdTech,2026-03-10,Express.js,exact,1.0
+J182,Full Stack Engineer,Full Stack Developer,Nagpur,EdTech,2026-03-10,PostgreSQL,exact,1.0
+J182,Full Stack Engineer,Full Stack Developer,Nagpur,EdTech,2026-03-10,Git,exact,1.0
+J183,Frontend Developer,Frontend Developer,Nagpur,EdTech,2026-05-07,HTML,exact,1.0
+J183,Frontend Developer,Frontend Developer,Nagpur,EdTech,2026-05-07,CSS,exact,1.0
+J183,Frontend Developer,Frontend Developer,Nagpur,EdTech,2026-05-07,JavaScript,exact,1.0
+J183,Frontend Developer,Frontend Developer,Nagpur,EdTech,2026-05-07,React,exact,1.0
+J183,Frontend Developer,Frontend Developer,Nagpur,EdTech,2026-05-07,Git,exact,1.0
+J183,Frontend Developer,Frontend Developer,Nagpur,EdTech,2026-05-07,TypeScript,exact,1.0
+J184,Data Analyst,Data Analyst,Nagpur,SaaS,2026-03-25,Python,exact,1.0
+J184,Data Analyst,Data Analyst,Nagpur,SaaS,2026-03-25,SQL,exact,1.0
+J184,Data Analyst,Data Analyst,Nagpur,SaaS,2026-03-25,Excel,exact,1.0
+J184,Data Analyst,Data Analyst,Nagpur,SaaS,2026-03-25,Pandas,exact,1.0
+J184,Data Analyst,Data Analyst,Nagpur,SaaS,2026-03-25,Data Visualization,exact,1.0
+J184,Data Analyst,Data Analyst,Nagpur,SaaS,2026-03-25,Git,exact,1.0
+J184,Data Analyst,Data Analyst,Nagpur,SaaS,2026-03-25,Data Analysis,exact,1.0
+J184,Data Analyst,Data Analyst,Nagpur,SaaS,2026-03-25,NumPy,exact,1.0
+J185,Backend Developer,Backend Developer,Nagpur,SaaS,2026-09-08,Java,exact,1.0
+J185,Backend Developer,Backend Developer,Nagpur,SaaS,2026-09-08,Spring Boot,exact,1.0
+J185,Backend Developer,Backend Developer,Nagpur,SaaS,2026-09-08,SQL,exact,1.0
+J185,Backend Developer,Backend Developer,Nagpur,SaaS,2026-09-08,REST API,exact,1.0
+J185,Backend Developer,Backend Developer,Nagpur,SaaS,2026-09-08,AWS,exact,1.0
+J185,Backend Developer,Backend Developer,Nagpur,SaaS,2026-09-08,PostgreSQL,exact,1.0
+J185,Backend Developer,Backend Developer,Nagpur,SaaS,2026-09-08,Node.js,exact,1.0
+J185,Backend Developer,Backend Developer,Nagpur,SaaS,2026-09-08,Jenkins,exact,1.0
+J186,Product Manager,Product Management,Pune,IT Services,2026-08-02,Excel,exact,1.0
+J186,Product Manager,Product Management,Pune,IT Services,2026-08-02,Data Analysis,exact,1.0
+J186,Product Manager,Product Management,Pune,IT Services,2026-08-02,Data Visualization,exact,1.0
+J186,Product Manager,Product Management,Pune,IT Services,2026-08-02,Power BI,exact,1.0
+J186,Product Manager,Product Management,Pune,IT Services,2026-08-02,Python,exact,1.0
+J187,Backend Engineer,Backend Developer,Mumbai,EdTech,2026-03-13,Java,exact,1.0
+J187,Backend Engineer,Backend Developer,Mumbai,EdTech,2026-03-13,Spring Boot,exact,1.0
+J187,Backend Engineer,Backend Developer,Mumbai,EdTech,2026-03-13,SQL,exact,1.0
+J187,Backend Engineer,Backend Developer,Mumbai,EdTech,2026-03-13,Jenkins,exact,1.0
+J187,Backend Engineer,Backend Developer,Mumbai,EdTech,2026-03-13,PostgreSQL,exact,1.0
+J187,Backend Engineer,Backend Developer,Mumbai,EdTech,2026-03-13,Node.js,exact,1.0
+J187,Backend Engineer,Backend Developer,Mumbai,EdTech,2026-03-13,Docker,exact,1.0
+J188,Backend Developer,Backend Developer,Nashik,SaaS,2026-06-18,Java,exact,1.0
+J188,Backend Developer,Backend Developer,Nashik,SaaS,2026-06-18,Spring Boot,exact,1.0
+J188,Backend Developer,Backend Developer,Nashik,SaaS,2026-06-18,SQL,exact,1.0
+J188,Backend Developer,Backend Developer,Nashik,SaaS,2026-06-18,REST API,exact,1.0
+J188,Backend Developer,Backend Developer,Nashik,SaaS,2026-06-18,FastAPI,exact,1.0
+J188,Backend Developer,Backend Developer,Nashik,SaaS,2026-06-18,AWS,exact,1.0
+J188,Backend Developer,Backend Developer,Nashik,SaaS,2026-06-18,PostgreSQL,exact,1.0
+J188,Backend Developer,Backend Developer,Nashik,SaaS,2026-06-18,GraphQL,exact,1.0
+J189,DevOps Engineer,Cloud / DevOps,Mumbai,Manufacturing Technology,2026-07-14,Docker,exact,1.0
+J189,DevOps Engineer,Cloud / DevOps,Mumbai,Manufacturing Technology,2026-07-14,Kubernetes,exact,1.0
+J189,DevOps Engineer,Cloud / DevOps,Mumbai,Manufacturing Technology,2026-07-14,AWS,exact,1.0
+J189,DevOps Engineer,Cloud / DevOps,Mumbai,Manufacturing Technology,2026-07-14,Linux,exact,1.0
+J189,DevOps Engineer,Cloud / DevOps,Mumbai,Manufacturing Technology,2026-07-14,Git,exact,1.0
+J189,DevOps Engineer,Cloud / DevOps,Mumbai,Manufacturing Technology,2026-07-14,CI/CD,exact,1.0
+J189,DevOps Engineer,Cloud / DevOps,Mumbai,Manufacturing Technology,2026-07-14,GCP,exact,1.0
+J190,Site Reliability Engineer,Cloud / DevOps,Pune,Logistics & Mobility,2026-03-11,Kubernetes,exact,1.0
+J190,Site Reliability Engineer,Cloud / DevOps,Pune,Logistics & Mobility,2026-03-11,AWS,exact,1.0
+J190,Site Reliability Engineer,Cloud / DevOps,Pune,Logistics & Mobility,2026-03-11,Linux,exact,1.0
+J190,Site Reliability Engineer,Cloud / DevOps,Pune,Logistics & Mobility,2026-03-11,Git,exact,1.0
+J190,Site Reliability Engineer,Cloud / DevOps,Pune,Logistics & Mobility,2026-03-11,Jenkins,exact,1.0
+J191,DevOps Engineer,Cloud / DevOps,Nashik,FinTech,2026-03-20,Kubernetes,exact,1.0
+J191,DevOps Engineer,Cloud / DevOps,Nashik,FinTech,2026-03-20,AWS,exact,1.0
+J191,DevOps Engineer,Cloud / DevOps,Nashik,FinTech,2026-03-20,Linux,exact,1.0
+J191,DevOps Engineer,Cloud / DevOps,Nashik,FinTech,2026-03-20,Git,exact,1.0
+J191,DevOps Engineer,Cloud / DevOps,Nashik,FinTech,2026-03-20,CI/CD,exact,1.0
+J191,DevOps Engineer,Cloud / DevOps,Nashik,FinTech,2026-03-20,Azure,exact,1.0
+J191,DevOps Engineer,Cloud / DevOps,Nashik,FinTech,2026-03-20,GCP,exact,1.0
+J192,Senior Backend Developer,Backend Developer,Mumbai,SaaS,2026-08-19,Java,exact,1.0
+J192,Senior Backend Developer,Backend Developer,Mumbai,SaaS,2026-08-19,Spring Boot,exact,1.0
+J192,Senior Backend Developer,Backend Developer,Mumbai,SaaS,2026-08-19,REST API,exact,1.0
+J192,Senior Backend Developer,Backend Developer,Mumbai,SaaS,2026-08-19,PostgreSQL,exact,1.0
+J192,Senior Backend Developer,Backend Developer,Mumbai,SaaS,2026-08-19,AWS,exact,1.0
+J192,Senior Backend Developer,Backend Developer,Mumbai,SaaS,2026-08-19,Docker,exact,1.0
+J193,Frontend Developer,Frontend Developer,Mumbai,Logistics & Mobility,2026-08-17,HTML,exact,1.0
+J193,Frontend Developer,Frontend Developer,Mumbai,Logistics & Mobility,2026-08-17,CSS,exact,1.0
+J193,Frontend Developer,Frontend Developer,Mumbai,Logistics & Mobility,2026-08-17,JavaScript,exact,1.0
+J193,Frontend Developer,Frontend Developer,Mumbai,Logistics & Mobility,2026-08-17,React,exact,1.0
+J193,Frontend Developer,Frontend Developer,Mumbai,Logistics & Mobility,2026-08-17,Git,exact,1.0
+J193,Frontend Developer,Frontend Developer,Mumbai,Logistics & Mobility,2026-08-17,Node.js,exact,1.0
+J193,Frontend Developer,Frontend Developer,Mumbai,Logistics & Mobility,2026-08-17,TypeScript,exact,1.0
+J194,QA Automation Engineer,QA / Test Automation,Mumbai,SaaS,2026-03-05,Java,exact,1.0
+J194,QA Automation Engineer,QA / Test Automation,Mumbai,SaaS,2026-03-05,Python,exact,1.0
+J194,QA Automation Engineer,QA / Test Automation,Mumbai,SaaS,2026-03-05,Git,exact,1.0
+J194,QA Automation Engineer,QA / Test Automation,Mumbai,SaaS,2026-03-05,CI/CD,exact,1.0
+J194,QA Automation Engineer,QA / Test Automation,Mumbai,SaaS,2026-03-05,Jenkins,exact,1.0
+J194,QA Automation Engineer,QA / Test Automation,Mumbai,SaaS,2026-03-05,AWS,exact,1.0
+J195,React Developer,Frontend Developer,Nagpur,Manufacturing Technology,2026-09-19,React,exact,1.0
+J195,React Developer,Frontend Developer,Nagpur,Manufacturing Technology,2026-09-19,JavaScript,exact,1.0
+J195,React Developer,Frontend Developer,Nagpur,Manufacturing Technology,2026-09-19,HTML,exact,1.0
+J195,React Developer,Frontend Developer,Nagpur,Manufacturing Technology,2026-09-19,CSS,exact,1.0
+J195,React Developer,Frontend Developer,Nagpur,Manufacturing Technology,2026-09-19,Git,exact,1.0
+J196,QA Automation Engineer,QA / Test Automation,Nashik,SaaS,2026-07-18,Java,exact,1.0
+J196,QA Automation Engineer,QA / Test Automation,Nashik,SaaS,2026-07-18,Python,exact,1.0
+J196,QA Automation Engineer,QA / Test Automation,Nashik,SaaS,2026-07-18,SQL,exact,1.0
+J196,QA Automation Engineer,QA / Test Automation,Nashik,SaaS,2026-07-18,Git,exact,1.0
+J196,QA Automation Engineer,QA / Test Automation,Nashik,SaaS,2026-07-18,CI/CD,exact,1.0
+J196,QA Automation Engineer,QA / Test Automation,Nashik,SaaS,2026-07-18,AWS,exact,1.0
+J197,Node.js Developer,Backend Developer,Pune,E-commerce,2026-04-03,Node.js,exact,1.0
+J197,Node.js Developer,Backend Developer,Pune,E-commerce,2026-04-03,JavaScript,exact,1.0
+J197,Node.js Developer,Backend Developer,Pune,E-commerce,2026-04-03,MongoDB,exact,1.0
+J197,Node.js Developer,Backend Developer,Pune,E-commerce,2026-04-03,Express.js,exact,1.0
+J198,Node.js Developer,Backend Developer,Pune,FinTech,2026-08-07,Node.js,exact,1.0
+J198,Node.js Developer,Backend Developer,Pune,FinTech,2026-08-07,JavaScript,exact,1.0
+J198,Node.js Developer,Backend Developer,Pune,FinTech,2026-08-07,MongoDB,exact,1.0
+J198,Node.js Developer,Backend Developer,Pune,FinTech,2026-08-07,Express.js,exact,1.0
+J198,Node.js Developer,Backend Developer,Pune,FinTech,2026-08-07,Git,exact,1.0
+J199,Frontend Developer,Frontend Developer,Pune,HealthTech,2026-03-08,HTML,exact,1.0
+J199,Frontend Developer,Frontend Developer,Pune,HealthTech,2026-03-08,CSS,exact,1.0
+J199,Frontend Developer,Frontend Developer,Pune,HealthTech,2026-03-08,JavaScript,exact,1.0
+J199,Frontend Developer,Frontend Developer,Pune,HealthTech,2026-03-08,React,exact,1.0
+J199,Frontend Developer,Frontend Developer,Pune,HealthTech,2026-03-08,Git,exact,1.0
+J199,Frontend Developer,Frontend Developer,Pune,HealthTech,2026-03-08,Angular,exact,1.0
+J200,React Developer,Frontend Developer,Nagpur,Logistics & Mobility,2026-03-05,React,exact,1.0
+J200,React Developer,Frontend Developer,Nagpur,Logistics & Mobility,2026-03-05,JavaScript,exact,1.0
+J200,React Developer,Frontend Developer,Nagpur,Logistics & Mobility,2026-03-05,HTML,exact,1.0
+J200,React Developer,Frontend Developer,Nagpur,Logistics & Mobility,2026-03-05,CSS,exact,1.0
+J200,React Developer,Frontend Developer,Nagpur,Logistics & Mobility,2026-03-05,TypeScript,exact,1.0
+J200,React Developer,Frontend Developer,Nagpur,Logistics & Mobility,2026-03-05,Git,exact,1.0
+J200,React Developer,Frontend Developer,Nagpur,Logistics & Mobility,2026-03-05,Tailwind CSS,exact,1.0
+J201,Backend Engineer,Backend Developer,Mumbai,Manufacturing Technology,2026-06-18,Java,exact,1.0
+J201,Backend Engineer,Backend Developer,Mumbai,Manufacturing Technology,2026-06-18,Spring Boot,exact,1.0
+J201,Backend Engineer,Backend Developer,Mumbai,Manufacturing Technology,2026-06-18,GraphQL,exact,1.0
+J201,Backend Engineer,Backend Developer,Mumbai,Manufacturing Technology,2026-06-18,AWS,exact,1.0
+J202,Data Engineer,Data Engineer,Nashik,Logistics & Mobility,2026-06-22,Python,exact,1.0
+J202,Data Engineer,Data Engineer,Nashik,Logistics & Mobility,2026-06-22,PostgreSQL,exact,1.0
+J202,Data Engineer,Data Engineer,Nashik,Logistics & Mobility,2026-06-22,Pandas,exact,1.0
+J202,Data Engineer,Data Engineer,Nashik,Logistics & Mobility,2026-06-22,Docker,exact,1.0
+J202,Data Engineer,Data Engineer,Nashik,Logistics & Mobility,2026-06-22,Kubernetes,exact,1.0
+J203,BI Analyst,Data Analyst,Nagpur,HealthTech,2026-04-18,Excel,exact,1.0
+J203,BI Analyst,Data Analyst,Nagpur,HealthTech,2026-04-18,Power BI,exact,1.0
+J203,BI Analyst,Data Analyst,Nagpur,HealthTech,2026-04-18,Data Visualization,exact,1.0
+J203,BI Analyst,Data Analyst,Nagpur,HealthTech,2026-04-18,Python,exact,1.0
+J204,Data Scientist,Data Scientist,Nashik,HealthTech,2026-09-19,Python,exact,1.0
+J204,Data Scientist,Data Scientist,Nashik,HealthTech,2026-09-19,Pandas,exact,1.0
+J204,Data Scientist,Data Scientist,Nashik,HealthTech,2026-09-19,NumPy,exact,1.0
+J204,Data Scientist,Data Scientist,Nashik,HealthTech,2026-09-19,Machine Learning,exact,1.0
+J204,Data Scientist,Data Scientist,Nashik,HealthTech,2026-09-19,Deep Learning,exact,1.0
+J204,Data Scientist,Data Scientist,Nashik,HealthTech,2026-09-19,Natural Language Processing,exact,1.0
+J204,Data Scientist,Data Scientist,Nashik,HealthTech,2026-09-19,Docker,exact,1.0
+J205,Full Stack Engineer,Full Stack Developer,Mumbai,HealthTech,2026-07-19,React,exact,1.0
+J205,Full Stack Engineer,Full Stack Developer,Mumbai,HealthTech,2026-07-19,Node.js,exact,1.0
+J205,Full Stack Engineer,Full Stack Developer,Mumbai,HealthTech,2026-07-19,JavaScript,exact,1.0
+J205,Full Stack Engineer,Full Stack Developer,Mumbai,HealthTech,2026-07-19,SQL,exact,1.0
+J205,Full Stack Engineer,Full Stack Developer,Mumbai,HealthTech,2026-07-19,Docker,exact,1.0
+J205,Full Stack Engineer,Full Stack Developer,Mumbai,HealthTech,2026-07-19,AWS,exact,1.0
+J206,Site Reliability Engineer,Cloud / DevOps,Pune,FinTech,2026-09-01,Docker,exact,1.0
+J206,Site Reliability Engineer,Cloud / DevOps,Pune,FinTech,2026-09-01,Kubernetes,exact,1.0
+J206,Site Reliability Engineer,Cloud / DevOps,Pune,FinTech,2026-09-01,AWS,exact,1.0
+J206,Site Reliability Engineer,Cloud / DevOps,Pune,FinTech,2026-09-01,Linux,exact,1.0
+J206,Site Reliability Engineer,Cloud / DevOps,Pune,FinTech,2026-09-01,Git,exact,1.0
+J206,Site Reliability Engineer,Cloud / DevOps,Pune,FinTech,2026-09-01,Jenkins,exact,1.0
+J206,Site Reliability Engineer,Cloud / DevOps,Pune,FinTech,2026-09-01,PowerShell,exact,1.0
+J207,Java Developer,Backend Developer,Nashik,SaaS,2026-05-12,Java,exact,1.0
+J207,Java Developer,Backend Developer,Nashik,SaaS,2026-05-12,Spring Boot,exact,1.0
+J207,Java Developer,Backend Developer,Nashik,SaaS,2026-05-12,PostgreSQL,exact,1.0
+J207,Java Developer,Backend Developer,Nashik,SaaS,2026-05-12,REST API,exact,1.0
+J208,Backend Developer,Backend Developer,Pune,HealthTech,2026-09-09,Java,exact,1.0
+J208,Backend Developer,Backend Developer,Pune,HealthTech,2026-09-09,Spring Boot,exact,1.0
+J208,Backend Developer,Backend Developer,Pune,HealthTech,2026-09-09,SQL,exact,1.0
+J209,API Developer,Backend Developer,Nagpur,HealthTech,2026-07-17,REST API,exact,1.0
+J209,API Developer,Backend Developer,Nagpur,HealthTech,2026-07-17,Java,exact,1.0
+J209,API Developer,Backend Developer,Nagpur,HealthTech,2026-07-17,Spring Boot,exact,1.0
+J209,API Developer,Backend Developer,Nagpur,HealthTech,2026-07-17,SQL,exact,1.0
+J209,API Developer,Backend Developer,Nagpur,HealthTech,2026-07-17,FastAPI,exact,1.0
+J209,API Developer,Backend Developer,Nagpur,HealthTech,2026-07-17,Git,exact,1.0
+J209,API Developer,Backend Developer,Nagpur,HealthTech,2026-07-17,GraphQL,exact,1.0
+J210,Data Engineer,Data Engineer,Pune,E-commerce,2026-06-30,Python,exact,1.0
+J210,Data Engineer,Data Engineer,Pune,E-commerce,2026-06-30,PostgreSQL,exact,1.0
+J210,Data Engineer,Data Engineer,Pune,E-commerce,2026-06-30,Pandas,exact,1.0
+J211,Full Stack Developer,Full Stack Developer,Nagpur,SaaS,2026-05-10,React,exact,1.0
+J211,Full Stack Developer,Full Stack Developer,Nagpur,SaaS,2026-05-10,JavaScript,exact,1.0
+J211,Full Stack Developer,Full Stack Developer,Nagpur,SaaS,2026-05-10,Node.js,exact,1.0
+J211,Full Stack Developer,Full Stack Developer,Nagpur,SaaS,2026-05-10,SQL,exact,1.0
+J211,Full Stack Developer,Full Stack Developer,Nagpur,SaaS,2026-05-10,Docker,exact,1.0
+J211,Full Stack Developer,Full Stack Developer,Nagpur,SaaS,2026-05-10,AWS,exact,1.0
+J212,Data Scientist,Data Scientist,Nagpur,EdTech,2026-04-07,Python,exact,1.0
+J212,Data Scientist,Data Scientist,Nagpur,EdTech,2026-04-07,Pandas,exact,1.0
+J212,Data Scientist,Data Scientist,Nagpur,EdTech,2026-04-07,NumPy,exact,1.0
+J212,Data Scientist,Data Scientist,Nagpur,EdTech,2026-04-07,Machine Learning,exact,1.0
+J212,Data Scientist,Data Scientist,Nagpur,EdTech,2026-04-07,Data Analysis,exact,1.0
+J213,API Developer,Backend Developer,Nagpur,Logistics & Mobility,2026-07-17,REST API,exact,1.0
+J213,API Developer,Backend Developer,Nagpur,Logistics & Mobility,2026-07-17,Java,exact,1.0
+J213,API Developer,Backend Developer,Nagpur,Logistics & Mobility,2026-07-17,Spring Boot,exact,1.0
+J213,API Developer,Backend Developer,Nagpur,Logistics & Mobility,2026-07-17,GraphQL,exact,1.0
+J213,API Developer,Backend Developer,Nagpur,Logistics & Mobility,2026-07-17,FastAPI,exact,1.0
+J214,Full Stack Engineer,Full Stack Developer,Nashik,IT Services,2026-06-19,React,exact,1.0
+J214,Full Stack Engineer,Full Stack Developer,Nashik,IT Services,2026-06-19,Node.js,exact,1.0
+J214,Full Stack Engineer,Full Stack Developer,Nashik,IT Services,2026-06-19,JavaScript,exact,1.0
+J214,Full Stack Engineer,Full Stack Developer,Nashik,IT Services,2026-06-19,Git,exact,1.0
+J214,Full Stack Engineer,Full Stack Developer,Nashik,IT Services,2026-06-19,Docker,exact,1.0
+J214,Full Stack Engineer,Full Stack Developer,Nashik,IT Services,2026-06-19,AWS,exact,1.0
+J215,Frontend Engineer,Frontend Developer,Mumbai,HealthTech,2026-06-17,React,exact,1.0
+J215,Frontend Engineer,Frontend Developer,Mumbai,HealthTech,2026-06-17,TypeScript,exact,1.0
+J215,Frontend Engineer,Frontend Developer,Mumbai,HealthTech,2026-06-17,JavaScript,exact,1.0
+J215,Frontend Engineer,Frontend Developer,Mumbai,HealthTech,2026-06-17,HTML,exact,1.0
+J215,Frontend Engineer,Frontend Developer,Mumbai,HealthTech,2026-06-17,CSS,exact,1.0
+J215,Frontend Engineer,Frontend Developer,Mumbai,HealthTech,2026-06-17,Tailwind CSS,exact,1.0
+J215,Frontend Engineer,Frontend Developer,Mumbai,HealthTech,2026-06-17,Angular,exact,1.0
+J216,Data Analyst,Data Analyst,Nashik,E-commerce,2026-08-03,Python,exact,1.0
+J216,Data Analyst,Data Analyst,Nashik,E-commerce,2026-08-03,Excel,exact,1.0
+J216,Data Analyst,Data Analyst,Nashik,E-commerce,2026-08-03,Pandas,exact,1.0
+J216,Data Analyst,Data Analyst,Nashik,E-commerce,2026-08-03,Data Visualization,exact,1.0
+J216,Data Analyst,Data Analyst,Nashik,E-commerce,2026-08-03,Power BI,exact,1.0
+J216,Data Analyst,Data Analyst,Nashik,E-commerce,2026-08-03,NumPy,exact,1.0
+J217,BI Analyst,Data Analyst,Nagpur,SaaS,2026-07-26,Excel,exact,1.0
+J217,BI Analyst,Data Analyst,Nagpur,SaaS,2026-07-26,Power BI,exact,1.0
+J217,BI Analyst,Data Analyst,Nagpur,SaaS,2026-07-26,Data Visualization,exact,1.0
+J217,BI Analyst,Data Analyst,Nagpur,SaaS,2026-07-26,Data Analysis,exact,1.0
+J217,BI Analyst,Data Analyst,Nagpur,SaaS,2026-07-26,Python,exact,1.0
+J218,DevOps Engineer,Cloud / DevOps,Nagpur,Logistics & Mobility,2026-07-14,Kubernetes,exact,1.0
+J218,DevOps Engineer,Cloud / DevOps,Nagpur,Logistics & Mobility,2026-07-14,AWS,exact,1.0
+J218,DevOps Engineer,Cloud / DevOps,Nagpur,Logistics & Mobility,2026-07-14,Linux,exact,1.0
+J218,DevOps Engineer,Cloud / DevOps,Nagpur,Logistics & Mobility,2026-07-14,Git,exact,1.0
+J218,DevOps Engineer,Cloud / DevOps,Nagpur,Logistics & Mobility,2026-07-14,GCP,exact,1.0
+J218,DevOps Engineer,Cloud / DevOps,Nagpur,Logistics & Mobility,2026-07-14,Azure,exact,1.0
+J219,Cloud Engineer,Cloud / DevOps,Pune,IT Services,2026-05-13,AWS,exact,1.0
+J219,Cloud Engineer,Cloud / DevOps,Pune,IT Services,2026-05-13,Linux,exact,1.0
+J219,Cloud Engineer,Cloud / DevOps,Pune,IT Services,2026-05-13,Docker,exact,1.0
+J219,Cloud Engineer,Cloud / DevOps,Pune,IT Services,2026-05-13,Terraform,exact,1.0
+J219,Cloud Engineer,Cloud / DevOps,Pune,IT Services,2026-05-13,Azure,exact,1.0
+J219,Cloud Engineer,Cloud / DevOps,Pune,IT Services,2026-05-13,Kubernetes,exact,1.0
+J220,UI Developer,Frontend Developer,Mumbai,Manufacturing Technology,2026-07-22,HTML,exact,1.0
+J220,UI Developer,Frontend Developer,Mumbai,Manufacturing Technology,2026-07-22,CSS,exact,1.0
+J220,UI Developer,Frontend Developer,Mumbai,Manufacturing Technology,2026-07-22,JavaScript,exact,1.0
+J220,UI Developer,Frontend Developer,Mumbai,Manufacturing Technology,2026-07-22,React,exact,1.0
+J220,UI Developer,Frontend Developer,Mumbai,Manufacturing Technology,2026-07-22,Tailwind CSS,exact,1.0
+J221,API Developer,Backend Developer,Mumbai,EdTech,2026-03-06,REST API,exact,1.0
+J221,API Developer,Backend Developer,Mumbai,EdTech,2026-03-06,Java,exact,1.0
+J221,API Developer,Backend Developer,Mumbai,EdTech,2026-03-06,Spring Boot,exact,1.0
+J221,API Developer,Backend Developer,Mumbai,EdTech,2026-03-06,SQL,exact,1.0
+J221,API Developer,Backend Developer,Mumbai,EdTech,2026-03-06,AWS,exact,1.0
+J221,API Developer,Backend Developer,Mumbai,EdTech,2026-03-06,Docker,exact,1.0
+J222,Data Scientist,Data Scientist,Pune,Manufacturing Technology,2026-04-02,Python,exact,1.0
+J222,Data Scientist,Data Scientist,Pune,Manufacturing Technology,2026-04-02,Pandas,exact,1.0
+J222,Data Scientist,Data Scientist,Pune,Manufacturing Technology,2026-04-02,NumPy,exact,1.0
+J222,Data Scientist,Data Scientist,Pune,Manufacturing Technology,2026-04-02,Machine Learning,exact,1.0
+J222,Data Scientist,Data Scientist,Pune,Manufacturing Technology,2026-04-02,Data Analysis,exact,1.0
+J222,Data Scientist,Data Scientist,Pune,Manufacturing Technology,2026-04-02,Natural Language Processing,exact,1.0
+J223,Data Analyst,Data Analyst,Pune,Logistics & Mobility,2026-05-17,Python,exact,1.0
+J223,Data Analyst,Data Analyst,Pune,Logistics & Mobility,2026-05-17,SQL,exact,1.0
+J223,Data Analyst,Data Analyst,Pune,Logistics & Mobility,2026-05-17,Excel,exact,1.0
+J223,Data Analyst,Data Analyst,Pune,Logistics & Mobility,2026-05-17,Pandas,exact,1.0
+J223,Data Analyst,Data Analyst,Pune,Logistics & Mobility,2026-05-17,Data Visualization,exact,1.0
+J223,Data Analyst,Data Analyst,Pune,Logistics & Mobility,2026-05-17,Data Analysis,exact,1.0
+J224,Data Analyst,Data Analyst,Nashik,HealthTech,2026-04-17,Python,exact,1.0
+J224,Data Analyst,Data Analyst,Nashik,HealthTech,2026-04-17,Excel,exact,1.0
+J224,Data Analyst,Data Analyst,Nashik,HealthTech,2026-04-17,Pandas,exact,1.0
+J224,Data Analyst,Data Analyst,Nashik,HealthTech,2026-04-17,Data Visualization,exact,1.0
+J224,Data Analyst,Data Analyst,Nashik,HealthTech,2026-04-17,Git,exact,1.0
+J225,Frontend Engineer,Frontend Developer,Mumbai,Manufacturing Technology,2026-04-24,React,exact,1.0
+J225,Frontend Engineer,Frontend Developer,Mumbai,Manufacturing Technology,2026-04-24,TypeScript,exact,1.0
+J225,Frontend Engineer,Frontend Developer,Mumbai,Manufacturing Technology,2026-04-24,JavaScript,exact,1.0
+J225,Frontend Engineer,Frontend Developer,Mumbai,Manufacturing Technology,2026-04-24,HTML,exact,1.0
+J225,Frontend Engineer,Frontend Developer,Mumbai,Manufacturing Technology,2026-04-24,CSS,exact,1.0
+J225,Frontend Engineer,Frontend Developer,Mumbai,Manufacturing Technology,2026-04-24,Tailwind CSS,exact,1.0
+J226,Node.js Developer,Backend Developer,Nashik,HealthTech,2026-09-17,Node.js,exact,1.0
+J226,Node.js Developer,Backend Developer,Nashik,HealthTech,2026-09-17,JavaScript,exact,1.0
+J226,Node.js Developer,Backend Developer,Nashik,HealthTech,2026-09-17,MongoDB,exact,1.0
+J226,Node.js Developer,Backend Developer,Nashik,HealthTech,2026-09-17,Express.js,exact,1.0
+J226,Node.js Developer,Backend Developer,Nashik,HealthTech,2026-09-17,AWS,exact,1.0
+J226,Node.js Developer,Backend Developer,Nashik,HealthTech,2026-09-17,Git,exact,1.0
+J227,Full Stack Developer,Full Stack Developer,Pune,FinTech,2026-09-19,React,exact,1.0
+J227,Full Stack Developer,Full Stack Developer,Pune,FinTech,2026-09-19,JavaScript,exact,1.0
+J227,Full Stack Developer,Full Stack Developer,Pune,FinTech,2026-09-19,Node.js,exact,1.0
+J227,Full Stack Developer,Full Stack Developer,Pune,FinTech,2026-09-19,REST API,exact,1.0
+J227,Full Stack Developer,Full Stack Developer,Pune,FinTech,2026-09-19,SQL,exact,1.0
+J227,Full Stack Developer,Full Stack Developer,Pune,FinTech,2026-09-19,Express.js,exact,1.0
+J227,Full Stack Developer,Full Stack Developer,Pune,FinTech,2026-09-19,Git,exact,1.0
+J228,Frontend Developer,Frontend Developer,Nagpur,E-commerce,2026-04-09,HTML,exact,1.0
+J228,Frontend Developer,Frontend Developer,Nagpur,E-commerce,2026-04-09,CSS,exact,1.0
+J228,Frontend Developer,Frontend Developer,Nagpur,E-commerce,2026-04-09,JavaScript,exact,1.0
+J228,Frontend Developer,Frontend Developer,Nagpur,E-commerce,2026-04-09,React,exact,1.0
+J228,Frontend Developer,Frontend Developer,Nagpur,E-commerce,2026-04-09,Git,exact,1.0
+J228,Frontend Developer,Frontend Developer,Nagpur,E-commerce,2026-04-09,Tailwind CSS,exact,1.0
+J228,Frontend Developer,Frontend Developer,Nagpur,E-commerce,2026-04-09,Node.js,exact,1.0
+J229,Node.js Developer,Backend Developer,Nashik,E-commerce,2026-06-15,Node.js,exact,1.0
+J229,Node.js Developer,Backend Developer,Nashik,E-commerce,2026-06-15,JavaScript,exact,1.0
+J229,Node.js Developer,Backend Developer,Nashik,E-commerce,2026-06-15,REST API,exact,1.0
+J229,Node.js Developer,Backend Developer,Nashik,E-commerce,2026-06-15,MongoDB,exact,1.0
+J229,Node.js Developer,Backend Developer,Nashik,E-commerce,2026-06-15,Express.js,exact,1.0
+J229,Node.js Developer,Backend Developer,Nashik,E-commerce,2026-06-15,Docker,exact,1.0
+J229,Node.js Developer,Backend Developer,Nashik,E-commerce,2026-06-15,TypeScript,exact,1.0
+J229,Node.js Developer,Backend Developer,Nashik,E-commerce,2026-06-15,Git,exact,1.0
+J230,Backend Engineer,Backend Developer,Pune,Logistics & Mobility,2026-09-14,Java,exact,1.0
+J230,Backend Engineer,Backend Developer,Pune,Logistics & Mobility,2026-09-14,Spring Boot,exact,1.0
+J230,Backend Engineer,Backend Developer,Pune,Logistics & Mobility,2026-09-14,SQL,exact,1.0
+J230,Backend Engineer,Backend Developer,Pune,Logistics & Mobility,2026-09-14,REST API,exact,1.0
+J230,Backend Engineer,Backend Developer,Pune,Logistics & Mobility,2026-09-14,Jenkins,exact,1.0
+J231,Java Developer,Backend Developer,Mumbai,EdTech,2026-06-16,Java,exact,1.0
+J231,Java Developer,Backend Developer,Mumbai,EdTech,2026-06-16,Spring Boot,exact,1.0
+J231,Java Developer,Backend Developer,Mumbai,EdTech,2026-06-16,SQL,exact,1.0
+J231,Java Developer,Backend Developer,Mumbai,EdTech,2026-06-16,PostgreSQL,exact,1.0
+J231,Java Developer,Backend Developer,Mumbai,EdTech,2026-06-16,REST API,exact,1.0
+J231,Java Developer,Backend Developer,Mumbai,EdTech,2026-06-16,Git,exact,1.0
+J231,Java Developer,Backend Developer,Mumbai,EdTech,2026-06-16,Jenkins,exact,1.0
+J232,Full Stack Developer,Full Stack Developer,Nagpur,SaaS,2026-09-13,React,exact,1.0
+J232,Full Stack Developer,Full Stack Developer,Nagpur,SaaS,2026-09-13,JavaScript,exact,1.0
+J232,Full Stack Developer,Full Stack Developer,Nagpur,SaaS,2026-09-13,Node.js,exact,1.0
+J232,Full Stack Developer,Full Stack Developer,Nagpur,SaaS,2026-09-13,REST API,exact,1.0
+J232,Full Stack Developer,Full Stack Developer,Nagpur,SaaS,2026-09-13,AWS,exact,1.0
+J232,Full Stack Developer,Full Stack Developer,Nagpur,SaaS,2026-09-13,Express.js,exact,1.0
+J233,Data Analyst,Data Analyst,Pune,E-commerce,2026-05-08,Python,exact,1.0
+J233,Data Analyst,Data Analyst,Pune,E-commerce,2026-05-08,Excel,exact,1.0
+J233,Data Analyst,Data Analyst,Pune,E-commerce,2026-05-08,Pandas,exact,1.0
+J233,Data Analyst,Data Analyst,Pune,E-commerce,2026-05-08,Data Visualization,exact,1.0
+J233,Data Analyst,Data Analyst,Pune,E-commerce,2026-05-08,Data Analysis,exact,1.0
+J234,BI Analyst,Data Analyst,Mumbai,HealthTech,2026-07-23,Excel,exact,1.0
+J234,BI Analyst,Data Analyst,Mumbai,HealthTech,2026-07-23,Power BI,exact,1.0
+J234,BI Analyst,Data Analyst,Mumbai,HealthTech,2026-07-23,SQL,exact,1.0
+J234,BI Analyst,Data Analyst,Mumbai,HealthTech,2026-07-23,Data Visualization,exact,1.0
+J234,BI Analyst,Data Analyst,Mumbai,HealthTech,2026-07-23,Git,exact,1.0
+J235,React Developer,Frontend Developer,Mumbai,Logistics & Mobility,2026-06-25,React,exact,1.0
+J235,React Developer,Frontend Developer,Mumbai,Logistics & Mobility,2026-06-25,JavaScript,exact,1.0
+J235,React Developer,Frontend Developer,Mumbai,Logistics & Mobility,2026-06-25,HTML,exact,1.0
+J235,React Developer,Frontend Developer,Mumbai,Logistics & Mobility,2026-06-25,CSS,exact,1.0
+J235,React Developer,Frontend Developer,Mumbai,Logistics & Mobility,2026-06-25,TypeScript,exact,1.0
+J236,Site Reliability Engineer,Cloud / DevOps,Nashik,Logistics & Mobility,2026-03-22,Docker,exact,1.0
+J236,Site Reliability Engineer,Cloud / DevOps,Nashik,Logistics & Mobility,2026-03-22,Kubernetes,exact,1.0
+J236,Site Reliability Engineer,Cloud / DevOps,Nashik,Logistics & Mobility,2026-03-22,AWS,exact,1.0
+J236,Site Reliability Engineer,Cloud / DevOps,Nashik,Logistics & Mobility,2026-03-22,Linux,exact,1.0
+J236,Site Reliability Engineer,Cloud / DevOps,Nashik,Logistics & Mobility,2026-03-22,Git,exact,1.0
+J236,Site Reliability Engineer,Cloud / DevOps,Nashik,Logistics & Mobility,2026-03-22,Jenkins,exact,1.0
+J236,Site Reliability Engineer,Cloud / DevOps,Nashik,Logistics & Mobility,2026-03-22,Azure,exact,1.0
+J237,Technical Support Engineer,Technical Support,Pune,E-commerce,2026-08-13,Linux,exact,1.0
+J237,Technical Support Engineer,Technical Support,Pune,E-commerce,2026-08-13,PowerShell,exact,1.0
+J237,Technical Support Engineer,Technical Support,Pune,E-commerce,2026-08-13,Git,exact,1.0
+J237,Technical Support Engineer,Technical Support,Pune,E-commerce,2026-08-13,AWS,exact,1.0
+J238,Backend Developer,Backend Developer,Nashik,Manufacturing Technology,2026-06-18,Java,exact,1.0
+J238,Backend Developer,Backend Developer,Nashik,Manufacturing Technology,2026-06-18,Spring Boot,exact,1.0
+J238,Backend Developer,Backend Developer,Nashik,Manufacturing Technology,2026-06-18,SQL,exact,1.0
+J238,Backend Developer,Backend Developer,Nashik,Manufacturing Technology,2026-06-18,REST API,exact,1.0
+J238,Backend Developer,Backend Developer,Nashik,Manufacturing Technology,2026-06-18,Git,exact,1.0
+J238,Backend Developer,Backend Developer,Nashik,Manufacturing Technology,2026-06-18,Docker,exact,1.0
+J238,Backend Developer,Backend Developer,Nashik,Manufacturing Technology,2026-06-18,AWS,exact,1.0
+J239,Technical Support Engineer,Technical Support,Nashik,SaaS,2026-03-04,Linux,exact,1.0
+J239,Technical Support Engineer,Technical Support,Nashik,SaaS,2026-03-04,PowerShell,exact,1.0
+J239,Technical Support Engineer,Technical Support,Nashik,SaaS,2026-03-04,Git,exact,1.0
+J239,Technical Support Engineer,Technical Support,Nashik,SaaS,2026-03-04,Python,exact,1.0
+J240,Full Stack Engineer,Full Stack Developer,Nashik,E-commerce,2026-09-05,React,exact,1.0
+J240,Full Stack Engineer,Full Stack Developer,Nashik,E-commerce,2026-09-05,Node.js,exact,1.0
+J240,Full Stack Engineer,Full Stack Developer,Nashik,E-commerce,2026-09-05,JavaScript,exact,1.0
+J240,Full Stack Engineer,Full Stack Developer,Nashik,E-commerce,2026-09-05,REST API,exact,1.0
+J240,Full Stack Engineer,Full Stack Developer,Nashik,E-commerce,2026-09-05,SQL,exact,1.0
+J240,Full Stack Engineer,Full Stack Developer,Nashik,E-commerce,2026-09-05,Git,exact,1.0
+J240,Full Stack Engineer,Full Stack Developer,Nashik,E-commerce,2026-09-05,TypeScript,exact,1.0
+J240,Full Stack Engineer,Full Stack Developer,Nashik,E-commerce,2026-09-05,PostgreSQL,exact,1.0
+J241,Frontend Developer,Frontend Developer,Pune,IT Services,2026-04-14,HTML,exact,1.0
+J241,Frontend Developer,Frontend Developer,Pune,IT Services,2026-04-14,CSS,exact,1.0
+J241,Frontend Developer,Frontend Developer,Pune,IT Services,2026-04-14,JavaScript,exact,1.0
+J241,Frontend Developer,Frontend Developer,Pune,IT Services,2026-04-14,React,exact,1.0
+J241,Frontend Developer,Frontend Developer,Pune,IT Services,2026-04-14,Git,exact,1.0
+J242,UI Developer,Frontend Developer,Mumbai,FinTech,2026-05-21,HTML,exact,1.0
+J242,UI Developer,Frontend Developer,Mumbai,FinTech,2026-05-21,CSS,exact,1.0
+J242,UI Developer,Frontend Developer,Mumbai,FinTech,2026-05-21,JavaScript,exact,1.0
+J242,UI Developer,Frontend Developer,Mumbai,FinTech,2026-05-21,React,exact,1.0
+J242,UI Developer,Frontend Developer,Mumbai,FinTech,2026-05-21,Tailwind CSS,exact,1.0
+J242,UI Developer,Frontend Developer,Mumbai,FinTech,2026-05-21,Angular,exact,1.0
+J243,Full Stack Developer,Full Stack Developer,Nashik,HealthTech,2026-05-27,React,exact,1.0
+J243,Full Stack Developer,Full Stack Developer,Nashik,HealthTech,2026-05-27,JavaScript,exact,1.0
+J243,Full Stack Developer,Full Stack Developer,Nashik,HealthTech,2026-05-27,Node.js,exact,1.0
+J243,Full Stack Developer,Full Stack Developer,Nashik,HealthTech,2026-05-27,SQL,exact,1.0
+J243,Full Stack Developer,Full Stack Developer,Nashik,HealthTech,2026-05-27,AWS,exact,1.0
+J243,Full Stack Developer,Full Stack Developer,Nashik,HealthTech,2026-05-27,Git,exact,1.0
+J244,Product Manager,Product Management,Nagpur,EdTech,2026-07-01,Excel,exact,1.0
+J244,Product Manager,Product Management,Nagpur,EdTech,2026-07-01,Data Analysis,exact,1.0
+J244,Product Manager,Product Management,Nagpur,EdTech,2026-07-01,Data Visualization,exact,1.0
+J244,Product Manager,Product Management,Nagpur,EdTech,2026-07-01,Python,exact,1.0
+J245,Full Stack Engineer,Full Stack Developer,Pune,SaaS,2026-06-08,React,exact,1.0
+J245,Full Stack Engineer,Full Stack Developer,Pune,SaaS,2026-06-08,Node.js,exact,1.0
+J245,Full Stack Engineer,Full Stack Developer,Pune,SaaS,2026-06-08,JavaScript,exact,1.0
+J245,Full Stack Engineer,Full Stack Developer,Pune,SaaS,2026-06-08,REST API,exact,1.0
+J245,Full Stack Engineer,Full Stack Developer,Pune,SaaS,2026-06-08,SQL,exact,1.0
+J245,Full Stack Engineer,Full Stack Developer,Pune,SaaS,2026-06-08,AWS,exact,1.0
+J245,Full Stack Engineer,Full Stack Developer,Pune,SaaS,2026-06-08,PostgreSQL,exact,1.0
+J246,Java Developer,Backend Developer,Mumbai,Manufacturing Technology,2026-04-10,Java,exact,1.0
+J246,Java Developer,Backend Developer,Mumbai,Manufacturing Technology,2026-04-10,Spring Boot,exact,1.0
+J246,Java Developer,Backend Developer,Mumbai,Manufacturing Technology,2026-04-10,SQL,exact,1.0
+J246,Java Developer,Backend Developer,Mumbai,Manufacturing Technology,2026-04-10,PostgreSQL,exact,1.0
+J246,Java Developer,Backend Developer,Mumbai,Manufacturing Technology,2026-04-10,REST API,exact,1.0
+J246,Java Developer,Backend Developer,Mumbai,Manufacturing Technology,2026-04-10,AWS,exact,1.0
+J246,Java Developer,Backend Developer,Mumbai,Manufacturing Technology,2026-04-10,Kubernetes,exact,1.0
+J247,React Developer,Frontend Developer,Mumbai,IT Services,2026-06-24,React,exact,1.0
+J247,React Developer,Frontend Developer,Mumbai,IT Services,2026-06-24,JavaScript,exact,1.0
+J247,React Developer,Frontend Developer,Mumbai,IT Services,2026-06-24,HTML,exact,1.0
+J247,React Developer,Frontend Developer,Mumbai,IT Services,2026-06-24,CSS,exact,1.0
+J247,React Developer,Frontend Developer,Mumbai,IT Services,2026-06-24,Git,exact,1.0
+J248,Site Reliability Engineer,Cloud / DevOps,Nashik,IT Services,2026-07-04,Kubernetes,exact,1.0
+J248,Site Reliability Engineer,Cloud / DevOps,Nashik,IT Services,2026-07-04,AWS,exact,1.0
+J248,Site Reliability Engineer,Cloud / DevOps,Nashik,IT Services,2026-07-04,Linux,exact,1.0
+J248,Site Reliability Engineer,Cloud / DevOps,Nashik,IT Services,2026-07-04,Git,exact,1.0
+J248,Site Reliability Engineer,Cloud / DevOps,Nashik,IT Services,2026-07-04,PowerShell,exact,1.0
+J249,DevOps Engineer,Cloud / DevOps,Nashik,SaaS,2026-09-05,Docker,exact,1.0
+J249,DevOps Engineer,Cloud / DevOps,Nashik,SaaS,2026-09-05,Kubernetes,exact,1.0
+J249,DevOps Engineer,Cloud / DevOps,Nashik,SaaS,2026-09-05,AWS,exact,1.0
+J249,DevOps Engineer,Cloud / DevOps,Nashik,SaaS,2026-09-05,Linux,exact,1.0
+J249,DevOps Engineer,Cloud / DevOps,Nashik,SaaS,2026-09-05,Git,exact,1.0
+J249,DevOps Engineer,Cloud / DevOps,Nashik,SaaS,2026-09-05,CI/CD,exact,1.0
+J249,DevOps Engineer,Cloud / DevOps,Nashik,SaaS,2026-09-05,Jenkins,exact,1.0
+J250,Data Engineer,Data Engineer,Nashik,EdTech,2026-07-12,Python,exact,1.0
+J250,Data Engineer,Data Engineer,Nashik,EdTech,2026-07-12,PostgreSQL,exact,1.0
+J250,Data Engineer,Data Engineer,Nashik,EdTech,2026-07-12,Pandas,exact,1.0
+J250,Data Engineer,Data Engineer,Nashik,EdTech,2026-07-12,Docker,exact,1.0
+J250,Data Engineer,Data Engineer,Nashik,EdTech,2026-07-12,Linux,exact,1.0
+J250,Data Engineer,Data Engineer,Nashik,EdTech,2026-07-12,AWS,exact,1.0

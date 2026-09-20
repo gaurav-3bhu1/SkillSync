@@ -1,48 +1,25 @@
 import streamlit as st
 import pandas as pd
 
-from src.data_loader import (
-    load_jobs,
-    load_courses,
-    load_skills,
+from src.explanation_engine import (
+    explain_course_gap,
 )
-from src.hybrid_skill_extractor import HybridSkillExtractor
-from src.job_skill_mapper import build_job_skill_mapping
+
+from dashboard.data_service import (
+    get_hybrid_job_skill_mapping,
+    get_courses,
+)
+
 from src.alignment_engine import (
     calculate_course_alignment,
     prioritize_skill_gaps,
 )
+
 from src.demand_engine import calculate_filtered_demand
 
-
-@st.cache_data
-def load_job_skill_data() -> pd.DataFrame:
-    """
-    Build the normalized job-skill mapping used by
-    the demand and alignment engines.
-    """
-
-    jobs = load_jobs()
-    skills = load_skills()
-
-    extractor = HybridSkillExtractor(
-        skills,
-    )
-
-    return build_job_skill_mapping(
-        jobs,
-        extractor,
-    )
-
-
-@st.cache_data
-def load_course_data() -> pd.DataFrame:
-    """
-    Load available training courses.
-    """
-
-    return load_courses()
-
+from src.explanation_engine import (
+    explain_course_gap,
+)
 
 def render():
     st.title("Course Alignment")
@@ -52,8 +29,10 @@ def render():
         "industry skill demand."
     )
 
-    job_skill_mapping = load_job_skill_data()
-    courses = load_course_data()
+    job_skill_mapping = (
+        get_hybrid_job_skill_mapping()
+    )
+    courses = get_courses()
 
     if job_skill_mapping.empty:
         st.warning(
@@ -209,6 +188,23 @@ def render():
         "missing_skills"
     ]
 
+    st.subheader(
+        "Why are these skills missing?"
+    )
+
+    for skill in missing_skills:
+
+        explanation = explain_course_gap(
+            skill,
+            demand,
+            course_skills,
+        )
+
+        st.write(
+            f"• {explanation}"
+        )
+
+
     # ---------------------------------------------------------
     # ALIGNMENT SCORE
     # ---------------------------------------------------------
@@ -233,6 +229,47 @@ def render():
         st.metric(
             "Skills Missing",
             len(missing_skills),
+        )
+
+    # Alignment score explainer
+
+    with st.expander(
+        "How is the Market Alignment Score calculated?"
+    ):
+
+        st.write(
+            "The prototype score measures the share of "
+            "the selected market's top-demand skill weight "
+            "that is covered by the course."
+        )
+
+        st.write(
+            "Covered demand ÷ total considered demand × 100."
+        )
+
+        st.caption(
+            "This is a prototype analytical metric, not "
+            "an official government or industry certification score."
+        )
+    
+    #---------------------------------
+    # why are these skills missing
+    #---------------------------------
+
+    st.subheader(
+        "Why are these skills missing?"
+    )
+
+    for skill in missing_skills:
+
+        explanation = explain_course_gap(
+            skill,
+            demand,
+            course_skills,
+        )
+
+        st.write(
+            f"• {explanation}"
         )
 
     # ---------------------------------------------------------

@@ -1,0 +1,31 @@
+job_id,title,location,industry,description,posted_date
+J001,Backend Developer,Pune,IT,"Java Spring Boot SQL REST API Docker",2026-01-05
+J002,Java Developer,Pune,IT,"Java Spring Boot SQL PostgreSQL",2026-01-08
+J003,Backend Engineer,Pune,IT,"Java REST API Docker AWS",2026-01-12
+J004,Backend Developer,Pune,IT,"Java Spring Boot PostgreSQL REST API",2026-01-15
+J005,Software Engineer,Pune,IT,"Java SQL Spring Boot AWS",2026-01-20
+J006,Backend Developer,Mumbai,IT,"Java Spring Boot SQL Docker",2026-01-23
+J007,Data Analyst,Pune,IT,"Python SQL Excel",2026-01-25
+J008,Data Analyst,Mumbai,Finance,"Python SQL Power BI",2026-01-27
+J009,Frontend Developer,Pune,IT,"React JavaScript HTML CSS",2026-02-01
+J010,Frontend Developer,Mumbai,IT,"React JavaScript Node.js",2026-02-04
+J011,Node.js Developer,Pune,IT,"Node.js JavaScript REST API PostgreSQL Docker",2026-02-05
+J012,Backend Engineer,Mumbai,IT,"Python PostgreSQL REST API AWS",2026-02-07
+J013,Senior Backend Developer,Pune,IT,"Java Spring Boot Microservices AWS Docker",2026-02-10
+J014,API Developer,Nagpur,IT,"Java Spring Boot Node.js REST API",2026-02-12
+J015,React Developer,Pune,IT,"React JavaScript Redux HTML CSS",2026-02-14
+J016,UI Developer,Mumbai,IT,"HTML CSS JavaScript React Figma",2026-02-15
+J017,Frontend Engineer,Nagpur,IT,"React TypeScript Node.js Tailwind",2026-02-18
+J018,Data Scientist,Pune,IT,"Python Machine Learning SQL Pandas",2026-02-20
+J019,Data Engineer,Mumbai,IT,"Python SQL PostgreSQL AWS Spark",2026-02-22
+J020,BI Analyst,Pune,Finance,"SQL Tableau Excel Python",2026-02-25
+J021,DevOps Engineer,Pune,IT,"Docker AWS Linux Jenkins Kubernetes",2026-02-28
+J022,Cloud Engineer,Mumbai,IT,"AWS Python Docker Terraform",2026-03-01
+J023,Site Reliability Engineer,Pune,IT,"AWS Docker Python Linux Bash",2026-03-03
+J024,DevOps Consultant,Nagpur,IT,"Docker AWS CI/CD Git",2026-03-05
+J025,AWS Cloud Architect,Pune,IT,"AWS Docker Microservices Node.js",2026-03-08
+J026,Full Stack Developer,Pune,IT,"React Node.js PostgreSQL Docker AWS",2026-03-10
+J027,QA Automation Engineer,Mumbai,IT,"Python Selenium Java SQL",2026-03-12
+J028,Product Manager,Pune,IT,"Agile Scrum SQL Analytics",2026-03-15
+J029,Technical Support Engineer,Nagpur,IT,"Linux SQL REST API Troubleshooting",2026-03-18
+J030,Full Stack Engineer,Mumbai,IT,"Java Spring Boot React PostgreSQL",2026-03-20

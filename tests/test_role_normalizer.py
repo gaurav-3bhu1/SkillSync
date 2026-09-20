@@ -9,6 +9,7 @@ def main() -> None:
         "Java Developer": "Backend Developer",
         "Node.js Developer": "Backend Developer",
         "API Developer": "Backend Developer",
+        "Software Engineer": "Backend Developer",
 
         "Frontend Developer": "Frontend Developer",
         "React Developer": "Frontend Developer",

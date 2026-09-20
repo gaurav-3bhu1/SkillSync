@@ -1,29 +1,14 @@
 import streamlit as st
 import pandas as pd
 
-from src.data_loader import load_jobs, load_skills
-from src.hybrid_skill_extractor import HybridSkillExtractor
-from src.job_skill_mapper import build_job_skill_mapping
+from dashboard.data_service import (
+    get_hybrid_job_skill_mapping,
+)
 from src.trend_engine import (
     calculate_monthly_skill_trends,
     compare_recent_vs_previous,
     get_emerging_skills,
 )
-
-
-@st.cache_data
-def load_job_skill_data() -> pd.DataFrame:
-    jobs = load_jobs()
-    skills = load_skills()
-
-    extractor = HybridSkillExtractor(
-        skills,
-    )
-    return build_job_skill_mapping(
-        jobs,
-        extractor,
-    )
-
 
 def render():
     st.title("Skill Trends")
@@ -32,7 +17,9 @@ def render():
         "Track how skill demand changes over time."
     )
 
-    job_skill_mapping = load_job_skill_data()
+    job_skill_mapping = (
+        get_hybrid_job_skill_mapping()
+    )
 
     roles = sorted(
         job_skill_mapping["role"]
@@ -159,12 +146,28 @@ def render():
             hide_index=True,
         )
 
-    st.subheader("Monthly Skill Demand")
+    st.subheader("Monthly Demand: Top 5 Skills")
 
     if not monthly.empty:
 
+        top_trend_skills = (
+            comparison
+            .sort_values(
+                "recent_demand_percentage",
+                ascending=False,
+            )
+            .head(5)["skill"]
+            .tolist()
+        )
+
+        monthly_chart = monthly[
+            monthly["skill"].isin(
+                top_trend_skills
+            )
+        ]
+
         chart_data = (
-            monthly[
+            monthly_chart[
                 [
                     "month",
                     "skill",
@@ -179,7 +182,9 @@ def render():
             .fillna(0)
         )
 
-        st.line_chart(chart_data)
+        st.line_chart(
+            chart_data
+        )
 
     st.subheader("Trend Classification")
 
@@ -208,6 +213,6 @@ def render():
     )
 
     st.caption(
-        "Prototype trend classifications are based on "
-        "the current curated dataset and heuristic thresholds."
+        "Trend analysis uses the prototype job-posting "
+        "dataset and heuristic trend thresholds."
     )
