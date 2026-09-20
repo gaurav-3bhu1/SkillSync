@@ -1,0 +1,11 @@
+skill_id,skill_name,category,aliases
+S001,Java,Programming,"java;java se;java programming"
+S002,Python,Programming,"python;python3"
+S003,SQL,Database,"sql;structured query language"
+S004,Spring Boot,Backend,"spring boot;springboot"
+S005,React,Frontend,"react;reactjs;react.js"
+S006,Node.js,Backend,"node;nodejs;node.js"
+S007,Docker,DevOps,"docker;containerization"
+S008,AWS,Cloud,"aws;amazon web services"
+S009,PostgreSQL,Database,"postgres;postgresql;pgsql"
+S010,REST API,Backend,"rest;rest api;restful api"

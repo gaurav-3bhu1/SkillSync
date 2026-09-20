@@ -1,0 +1,6 @@
+course_id,course_name,provider,location,description,skills
+C001,Java Backend Development,SkillSync Academy,Pune,"Backend development using Java and databases","Java;SQL;PostgreSQL"
+C002,Full Stack Web Development,SkillSync Academy,Pune,"Modern web development","HTML;CSS;JavaScript;React;Node.js"
+C003,Python Data Analytics,SkillSync Academy,Pune,"Data analysis and visualization using Python","Python;SQL"
+C004,Cloud and DevOps Fundamentals,SkillSync Academy,Mumbai,"Cloud infrastructure and deployment","Docker;AWS"
+C005,Backend API Development,SkillSync Academy,Nagpur,"API development and server-side programming","Java;REST API;SQL"
