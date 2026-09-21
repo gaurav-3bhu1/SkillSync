@@ -194,17 +194,6 @@ def render():
                 f"• {explanation}"
             )
 
-        st.markdown(
-            "**Why these skills?**"
-        )
-
-        for explanation in build_training_summary(
-            priorities
-        ):
-            st.write(
-                f"• {explanation}"
-            )
-
     # ------------------------------------------------------
     # TOP ROLES
     # ------------------------------------------------------

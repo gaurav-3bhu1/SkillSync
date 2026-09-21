@@ -256,21 +256,21 @@ def render():
     # why are these skills missing
     #---------------------------------
 
-    st.subheader(
-        "Why are these skills missing?"
-    )
+    # st.subheader(
+    #     "Why are these skills missing?"
+    # )
 
-    for skill in missing_skills:
+    # for skill in missing_skills:
 
-        explanation = explain_course_gap(
-            skill,
-            demand,
-            course_skills,
-        )
+    #     explanation = explain_course_gap(
+    #         skill,
+    #         demand,
+    #         course_skills,
+    #     )
 
-        st.write(
-            f"• {explanation}"
-        )
+    #     st.write(
+    #         f"• {explanation}"
+    #     )
 
     # ---------------------------------------------------------
     # SKILL COVERAGE
