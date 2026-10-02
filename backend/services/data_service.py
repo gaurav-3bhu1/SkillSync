@@ -42,19 +42,29 @@ def get_market_summary(
     district: str | None = None,
     sector: str | None = None,
 ) -> dict:
-
     jobs = load_job_skills()
 
     if district:
         jobs = jobs[
-            jobs["location"].astype(str).str.lower()
-            == district.lower()
+            jobs["location"].astype(str).str.strip().str.casefold()
+            == district.strip().casefold()
         ]
 
-    if sector and "sector" in jobs.columns:
+    # The normalized job dataset stores the original job sector
+    # in the "industry" column.
+    if sector:
+        sector_column = (
+            "industry"
+            if "industry" in jobs.columns
+            else "sector"
+        )
+
         jobs = jobs[
-            jobs["sector"].astype(str).str.lower()
-            == sector.lower()
+            jobs[sector_column]
+            .astype(str)
+            .str.strip()
+            .str.casefold()
+            == sector.strip().casefold()
         ]
 
     if jobs.empty:
@@ -108,16 +118,18 @@ def get_districts() -> list[str]:
 def get_sectors() -> list[str]:
     jobs = load_job_skills()
 
+    # Use the actual job-sector/industry field.
     column = (
-        "sector"
-        if "sector" in jobs.columns
-        else "skill_sector"
+        "industry"
+        if "industry" in jobs.columns
+        else "sector"
     )
 
     return sorted(
         jobs[column]
         .dropna()
         .astype(str)
+        .str.strip()
         .unique()
         .tolist()
     )

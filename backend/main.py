@@ -9,9 +9,7 @@ from backend.services.data_service import (
 from backend.routers.skills import router as skills_router
 from backend.routers.courses import router as courses_router
 from backend.routers.districts import router as districts_router
-from backend.routers.courses import (
-    router as courses_router,
-)
+from backend.routers.profile import router as profile_router
 
 app = FastAPI(
     title="SkillSync API",
@@ -36,6 +34,7 @@ app.include_router(market_router)
 app.include_router(skills_router)
 app.include_router(courses_router)
 app.include_router(districts_router)
+app.include_router(profile_router)
 
 
 @app.get("/")
