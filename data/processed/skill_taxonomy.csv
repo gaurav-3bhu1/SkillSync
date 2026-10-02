@@ -1,0 +1,71 @@
+skill_id,canonical_skill,skill_family,sector,skill_type,aliases
+SK001,PLC Programming & Configuration,Industrial Automation,Advanced Manufacturing,micro_skill,PLC programming|Siemens S7 PLC|Allen-Bradley PLC|Allen-Bradley/Siemens S7 PLC|PLC configuration
+SK002,PLC Troubleshooting,Industrial Automation,Advanced Manufacturing,micro_skill,Ladder Logic Troubleshooting|PLC troubleshooting|ladder logic debugging
+SK003,VFD Configuration,Industrial Automation,Advanced Manufacturing,micro_skill,VFD Parameter Configuration|VFD configuration|variable frequency drive configuration
+SK004,Industrial Electrical Systems,Industrial Electrical,Advanced Manufacturing,micro_skill,3-Phase Motor Star-Delta Starter|industrial electrical systems|motor control
+SK005,Electrical Schematic Reading,Industrial Electrical,Advanced Manufacturing,micro_skill,Electrical Circuit Schematic Reading|electrical schematic reading|circuit schematic reading
+SK006,GTAW/TIG Welding,Welding & Fabrication,Advanced Manufacturing,micro_skill,GTAW Pipe 6G Position|GTAW|TIG welding|6G TIG welding
+SK007,Pipe Welding,Welding & Fabrication,Advanced Manufacturing,micro_skill,pipe welding|pipe welder|pipe welding operations
+SK008,Gas Purging,Welding & Fabrication,Advanced Manufacturing,micro_skill,Argon Back-Purging Setup|argon back purging|back purging
+SK009,Stainless Steel Welding,Welding & Fabrication,Advanced Manufacturing,micro_skill,Stainless Steel 316L Welding|316L welding|stainless steel welding
+SK010,Bevel Edge Preparation,Welding & Fabrication,Advanced Manufacturing,micro_skill,Bevel Edge Preparation|edge beveling
+SK011,Radiographic Testing,NDT & Quality,Advanced Manufacturing,micro_skill,Radiographic Testing Quality Standard|radiographic testing|RT inspection
+SK012,Surface Grinding,Precision Manufacturing,Advanced Manufacturing,micro_skill,Surface Grinding to 5-Micron Tolerance|surface grinding|precision grinding
+SK013,Injection Mould Assembly,Tooling & Moulding,Advanced Manufacturing,micro_skill,Injection Mould Assembly|injection mold assembly|mould assembly
+SK014,EDM Wire-Cut Operation,Precision Manufacturing,Advanced Manufacturing,micro_skill,EDM Wire-Cut Operation|wire EDM|EDM wire cutting
+SK015,CNC Controller Operation,CNC Manufacturing,Advanced Manufacturing,micro_skill,Fanuc/Siemens 840D Controller|Fanuc controller|Siemens 840D|CNC controller
+SK016,CNC Cycle Setup,CNC Manufacturing,Advanced Manufacturing,micro_skill,Roughing & Finishing Cycle Setup|CNC cycle setup|roughing cycle|finishing cycle
+SK017,CNC Programming,CNC Manufacturing,Advanced Manufacturing,micro_skill,G-Code & M-Code Programming|G-code|M-code|CNC programming
+SK018,Tool Offset Calibration,CNC Manufacturing,Advanced Manufacturing,micro_skill,Tool Offset Calibration|tool offset|tool offset adjustment
+SK019,Metrology,Quality & Metrology,Advanced Manufacturing,micro_skill,Vernier/Micrometer Metrology|vernier measurement|micrometer measurement|metrology
+SK020,Coordinate Measuring Machine (CMM),,,,CMM inspection|coordinate measuring machine|CMM operation
+SK021,Geometric Dimensioning & Tolerancing,Quality & Metrology,Advanced Manufacturing,micro_skill,Geometric Dimensioning & Tolerancing (GD&T)|GD&T|geometric dimensioning
+SK022,Statistical Process Control,Quality & Metrology,Advanced Manufacturing,micro_skill,Statistical Process Control (Cp/Cpk)|SPC|Cp/Cpk|statistical process control
+SK023,Defect Logging,Quality & Metrology,Advanced Manufacturing,micro_skill,Non-Conformance Defect Logging|non-conformance logging|defect logging
+SK024,Optical Profile Measurement,Quality & Metrology,Advanced Manufacturing,micro_skill,Optical Profile Projector|profile projector|optical profile measurement
+SK025,CAD/CAM Toolpath Reading,,,,Cimatron / Delcam 3D Reading|Cimatron|Delcam|3D drawing reading|CAD/CAM basics|Mastercam post-processing|2D blueprint reading|3D CAD modelling (SolidWorks/CATIA)|blueprint reading
+SK026,PV System Wiring,,,,PV Module String Inverter Wiring|PV wiring|solar PV wiring|panel wiring|solar grid interconnection
+SK027,MC4 Connector Crimping,Solar Energy,Green Energy,micro_skill,MC4 Connector Crimping|MC4 crimping|solar connector crimping
+SK028,Roof-Mounted Solar Installation,,,,Roof Mounting Clamping & Anchoring|solar roof mounting|PV roof mounting|rooftop module mounting|agrivoltaic installation
+SK029,Net Metering,,,,Net-Metering Synchronization|net metering|grid synchronization|smart metering
+SK030,Electrical Earthing Testing,,,,Earthing Pit Resistance Testing|earthing resistance testing|earth pit testing|earthing|earthing & bonding
+SK031,SCADA Control Systems,Industrial Automation,Green Energy,micro_skill,SCADA Valve Control|SCADA|SCADA control|valve control
+SK032,Anaerobic Digester Operations,Biogas Systems,Green Energy,micro_skill,Anaerobic Digester Temperature Monitoring|anaerobic digestion|digester monitoring
+SK033,Biomethane Compressor Operation,Biogas Systems,Green Energy,micro_skill,Biomethane Compressor Operation|biomethane compressor|biogas compressor
+SK034,H2S Scrubber Maintenance,Biogas Systems,Green Energy,micro_skill,H2S Scrubber Column Maintenance|H2S scrubber|scrubber maintenance
+SK035,Gas Chromatography Sampling,Analytical Chemistry,Pharmaceuticals & Chemical,micro_skill,Gas Chromatography Sampling|GC sampling|gas chromatography
+SK036,pH Neutralization Sampling,Chemical Processing,Pharmaceuticals & Chemical,micro_skill,Scrubber pH Neutralization Sampling|pH neutralization|chemical sampling
+SK037,Centrifuge Operation,Chemical Processing,Pharmaceuticals & Chemical,micro_skill,Centrifuge Solid-Liquid Separation|centrifuge operation|solid-liquid separation
+SK038,AGV Routing,Warehouse Automation,Logistics & Supply Chain,micro_skill,Automated Guided Vehicle (AGV) Routing|AGV routing|automated guided vehicle
+SK039,Material Handling,Warehouse Operations,Logistics & Supply Chain,micro_skill,Pallet Center-of-Gravity Inspection|pallet handling|material handling
+SK040,Conveyor Sortation,Warehouse Automation,Logistics & Supply Chain,micro_skill,Conveyor Diverter Sortation Control|conveyor sortation|diverter control
+SK041,Robotics Programming,Industrial Robotics,Automotive & EV,micro_skill,robot teach pendant|KUKA teach pendant|ABB teach pendant|robot programming
+SK042,Industrial Robot Commissioning,Industrial Robotics,Automotive & EV,micro_skill,FANUC commissioning|KUKA commissioning|robot commissioning
+SK043,EV Battery Technology,EV Systems,Automotive & EV,micro_skill,EV battery|battery pack|EV battery technician
+SK044,Servo Calibration,Industrial Automation,Automotive & EV,micro_skill,servo calibration|servo motor calibration
+SK045,Pneumatic Systems,Pneumatics,Automotive & EV,micro_skill,pneumatic systems|pneumatics
+SK046,Collaborative Robotics,Industrial Robotics,Automotive & EV,micro_skill,collaborative robots|cobots|collaborative robotics
+SK047,Digital Twin,Industrial Digitalization,Automotive & EV,micro_skill,digital twin|digital twins
+SK048,Machine Vision,,,,vision-guided robotics|machine vision|computer vision inspection|computer vision basics
+SK049,ROS Basics,Robotics Software,Automotive & EV,micro_skill,ROS basics|Robot Operating System|ROS
+SK050,AI Quality Inspection,Industrial AI,Automotive & EV,micro_skill,AI-Quality Inspection|AI quality inspection|automated visual inspection
+SK051,Industrial IoT,Industrial IoT,Electronics & IoT,technology,Industrial IoT|IIoT|industrial IoT systems
+SK052,IoT Systems,IoT,Electronics & IoT,technology,IoT|Internet of Things|IoT systems
+SK053,Embedded Systems,Embedded Electronics,Electronics & IoT,technology,embedded systems|embedded electronics
+SK054,Sensors & Instrumentation,Instrumentation,Electronics & IoT,technology,sensors|instrumentation|industrial sensors
+SK055,Data Analysis,Data & Analytics,Electronics & IoT,technology,data analysis|data analytics
+SK056,Python,Programming,Electronics & IoT,technology,Python|Python programming
+SK057,SQL,Data & Databases,Electronics & IoT,technology,SQL|SQL queries|SQL programming
+SK058,Java,Programming,Electronics & IoT,technology,Java|Java programming
+SK059,JavaScript,Programming,Electronics & IoT,technology,JavaScript|JS
+SK060,React,Web Development,Electronics & IoT,technology,React|React.js
+SK061,Node.js,Backend Development,Electronics & IoT,technology,Node.js|Node|NodeJS
+SK062,Docker,DevOps,Electronics & IoT,technology,Docker|containerization
+SK063,AWS,Cloud Computing,Electronics & IoT,technology,AWS|Amazon Web Services|Amazon cloud
+SK064,Linux,System Administration,Electronics & IoT,technology,Linux|Linux administration
+SK065,Git,Software Development,Electronics & IoT,technology,Git|version control
+SK066,Power BI,Business Intelligence,Electronics & IoT,technology,Power BI|Microsoft Power BI
+SK067,Excel,Office Productivity,Legacy Administrative,technology,Excel|Microsoft Excel|spreadsheet
+SK068,Data Entry,Office Administration,Legacy Administrative,micro_skill,data entry|data entry operator
+SK069,Desktop Publishing,Office Administration,Legacy Administrative,micro_skill,Desktop Publishing|DTP|DTP Operator|PageMaker
+SK070,Shorthand,,,,shorthand|stenography|Pitman shorthand

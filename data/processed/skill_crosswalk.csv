@@ -1,0 +1,305 @@
+raw_skill,job_demand_count,training_taught_count,training_gap_count,candidate_canonical_skill,candidate_skill_id,candidate_skill_family,candidate_sector,normalization_method,confidence,operational_skill,operational_skill_id,resolution_status,aggregation_status,top_job_sector,job_sector_distribution
+GTAW Pipe 6G Position,605,0,0,GTAW/TIG Welding,SK006,Welding & Fabrication,Advanced Manufacturing,exact_alias,1.0000,GTAW/TIG Welding,SK006,EXACT_RESOLVED,READY,Advanced Manufacturing,Advanced Manufacturing:605
+Allen-Bradley/Siemens S7 PLC,595,0,0,PLC Programming & Configuration,SK001,Industrial Automation,Advanced Manufacturing,exact_alias,1.0000,PLC Programming & Configuration,SK001,EXACT_RESOLVED,READY,Advanced Manufacturing,Advanced Manufacturing:595
+Radiographic Testing Quality Standard,595,0,0,Radiographic Testing,SK011,NDT & Quality,Advanced Manufacturing,exact_alias,1.0000,Radiographic Testing,SK011,EXACT_RESOLVED,READY,Advanced Manufacturing,Advanced Manufacturing:595
+VFD Parameter Configuration,594,0,0,VFD Configuration,SK003,Industrial Automation,Advanced Manufacturing,exact_alias,1.0000,VFD Configuration,SK003,EXACT_RESOLVED,READY,Advanced Manufacturing,Advanced Manufacturing:594
+Bevel Edge Preparation,593,0,0,Bevel Edge Preparation,SK010,Welding & Fabrication,Advanced Manufacturing,exact_alias,1.0000,Bevel Edge Preparation,SK010,EXACT_RESOLVED,READY,Advanced Manufacturing,Advanced Manufacturing:593
+Surface Grinding to 5-Micron Tolerance,592,0,0,Surface Grinding,SK012,Precision Manufacturing,Advanced Manufacturing,exact_alias,1.0000,Surface Grinding,SK012,EXACT_RESOLVED,READY,Advanced Manufacturing,Advanced Manufacturing:592
+3-Phase Motor Star-Delta Starter,591,0,0,Industrial Electrical Systems,SK004,Industrial Electrical,Advanced Manufacturing,exact_alias,1.0000,Industrial Electrical Systems,SK004,EXACT_RESOLVED,READY,Advanced Manufacturing,Advanced Manufacturing:591
+Argon Back-Purging Setup,587,0,0,Gas Purging,SK008,Welding & Fabrication,Advanced Manufacturing,exact_alias,1.0000,Gas Purging,SK008,EXACT_RESOLVED,READY,Advanced Manufacturing,Advanced Manufacturing:587
+Ladder Logic Troubleshooting,585,0,0,PLC Troubleshooting,SK002,Industrial Automation,Advanced Manufacturing,exact_alias,1.0000,PLC Troubleshooting,SK002,EXACT_RESOLVED,READY,Advanced Manufacturing,Advanced Manufacturing:585
+Injection Mould Assembly,583,0,0,Injection Mould Assembly,SK013,Tooling & Moulding,Advanced Manufacturing,exact_alias,1.0000,Injection Mould Assembly,SK013,EXACT_RESOLVED,READY,Advanced Manufacturing,Advanced Manufacturing:583
+EDM Wire-Cut Operation,582,0,0,EDM Wire-Cut Operation,SK014,Precision Manufacturing,Advanced Manufacturing,exact_alias,1.0000,EDM Wire-Cut Operation,SK014,EXACT_RESOLVED,READY,Advanced Manufacturing,Advanced Manufacturing:582
+Stainless Steel 316L Welding,582,0,0,Stainless Steel Welding,SK009,Welding & Fabrication,Advanced Manufacturing,exact_alias,1.0000,Stainless Steel Welding,SK009,EXACT_RESOLVED,READY,Advanced Manufacturing,Advanced Manufacturing:582
+Electrical Circuit Schematic Reading,579,0,0,Electrical Schematic Reading,SK005,Industrial Electrical,Advanced Manufacturing,exact_alias,1.0000,Electrical Schematic Reading,SK005,EXACT_RESOLVED,READY,Advanced Manufacturing,Advanced Manufacturing:579
+Fanuc/Siemens 840D Controller,578,0,0,CNC Controller Operation,SK015,CNC Manufacturing,Advanced Manufacturing,exact_alias,1.0000,CNC Controller Operation,SK015,EXACT_RESOLVED,READY,Advanced Manufacturing,Advanced Manufacturing:578
+Die Spotting Press Verification,577,0,0,,,,,unmatched,0.3821,Die Spotting Press Verification,PRV001,PROVISIONAL_RAW,READY_PROVISIONAL,Advanced Manufacturing,Advanced Manufacturing:577
+Optical Profile Projector,573,0,0,Optical Profile Measurement,SK024,Quality & Metrology,Advanced Manufacturing,exact_alias,1.0000,Optical Profile Measurement,SK024,EXACT_RESOLVED,READY,Advanced Manufacturing,Advanced Manufacturing:573
+Cimatron / Delcam 3D Reading,566,0,0,CAD/CAM Toolpath Reading,SK025,CAD/CAM,Advanced Manufacturing,exact_alias,1.0000,CAD/CAM Toolpath Reading,SK025,EXACT_RESOLVED,READY,Advanced Manufacturing,Advanced Manufacturing:566
+Roughing & Finishing Cycle Setup,566,0,0,CNC Cycle Setup,SK016,CNC Manufacturing,Advanced Manufacturing,exact_alias,1.0000,CNC Cycle Setup,SK016,EXACT_RESOLVED,READY,Advanced Manufacturing,Advanced Manufacturing:566
+Statistical Process Control (Cp/Cpk),564,0,0,Statistical Process Control,SK022,Quality & Metrology,Advanced Manufacturing,exact_alias,1.0000,Statistical Process Control,SK022,EXACT_RESOLVED,READY,Advanced Manufacturing,Advanced Manufacturing:564
+Coordinate Measuring Machine (CMM),558,0,0,Coordinate Measuring Machine,SK020,CMM & Inspection,Advanced Manufacturing,exact_alias,1.0000,Coordinate Measuring Machine,SK020,EXACT_RESOLVED,READY,Advanced Manufacturing,Advanced Manufacturing:558
+Geometric Dimensioning & Tolerancing (GD&T),558,0,0,Geometric Dimensioning & Tolerancing,SK021,Quality & Metrology,Advanced Manufacturing,exact_alias,1.0000,Geometric Dimensioning & Tolerancing,SK021,EXACT_RESOLVED,READY,Advanced Manufacturing,Advanced Manufacturing:558
+Tool Offset Calibration,556,0,0,Tool Offset Calibration,SK018,CNC Manufacturing,Advanced Manufacturing,exact_alias,1.0000,Tool Offset Calibration,SK018,EXACT_RESOLVED,READY,Advanced Manufacturing,Advanced Manufacturing:556
+Non-Conformance Defect Logging,555,0,0,Defect Logging,SK023,Quality & Metrology,Advanced Manufacturing,exact_alias,1.0000,Defect Logging,SK023,EXACT_RESOLVED,READY,Advanced Manufacturing,Advanced Manufacturing:555
+Vernier/Micrometer Metrology,554,0,0,Metrology,SK019,Quality & Metrology,Advanced Manufacturing,exact_alias,1.0000,Metrology,SK019,EXACT_RESOLVED,READY,Advanced Manufacturing,Advanced Manufacturing:554
+G-Code & M-Code Programming,553,0,0,CNC Programming,SK017,CNC Manufacturing,Advanced Manufacturing,exact_alias,1.0000,CNC Programming,SK017,EXACT_RESOLVED,READY,Advanced Manufacturing,Advanced Manufacturing:553
+Net-Metering Synchronization,478,0,0,Net Metering,SK029,Solar Energy,Green Energy,exact_alias,1.0000,Net Metering,SK029,EXACT_RESOLVED,READY,Green Energy,Green Energy:478
+Earthing Pit Resistance Testing,471,0,0,Electrical Earthing Testing,SK030,Electrical Safety,Green Energy,exact_alias,1.0000,Electrical Earthing Testing,SK030,EXACT_RESOLVED,READY,Green Energy,Green Energy:471
+PV Module String Inverter Wiring,469,0,0,PV System Wiring,SK026,Solar Energy,Green Energy,exact_alias,1.0000,PV System Wiring,SK026,EXACT_RESOLVED,READY,Green Energy,Green Energy:469
+MC4 Connector Crimping,456,0,0,MC4 Connector Crimping,SK027,Solar Energy,Green Energy,exact_alias,1.0000,MC4 Connector Crimping,SK027,EXACT_RESOLVED,READY,Green Energy,Green Energy:456
+Roof Mounting Clamping & Anchoring,456,0,0,Roof-Mounted Solar Installation,SK028,Solar Installation,Green Energy,exact_alias,1.0000,Roof-Mounted Solar Installation,SK028,EXACT_RESOLVED,READY,Green Energy,Green Energy:456
+Gas Chromatography Sampling,419,0,0,Gas Chromatography Sampling,SK035,Analytical Chemistry,Pharmaceuticals & Chemical,exact_alias,1.0000,Gas Chromatography Sampling,SK035,EXACT_RESOLVED,READY,Green Energy,Green Energy:419
+SCADA Valve Control,412,0,0,SCADA Control Systems,SK031,Industrial Automation,Green Energy,exact_alias,1.0000,SCADA Control Systems,SK031,EXACT_RESOLVED,READY,Green Energy,Green Energy:412
+Anaerobic Digester Temperature Monitoring,410,0,0,Anaerobic Digester Operations,SK032,Biogas Systems,Green Energy,exact_alias,1.0000,Anaerobic Digester Operations,SK032,EXACT_RESOLVED,READY,Green Energy,Green Energy:410
+Biomethane Compressor Operation,403,0,0,Biomethane Compressor Operation,SK033,Biogas Systems,Green Energy,exact_alias,1.0000,Biomethane Compressor Operation,SK033,EXACT_RESOLVED,READY,Green Energy,Green Energy:403
+H2S Scrubber Column Maintenance,397,0,0,H2S Scrubber Maintenance,SK034,Biogas Systems,Green Energy,exact_alias,1.0000,H2S Scrubber Maintenance,SK034,EXACT_RESOLVED,READY,Green Energy,Green Energy:397
+Automated Guided Vehicle (AGV) Routing,395,0,0,AGV Routing,SK038,Warehouse Automation,Logistics & Supply Chain,exact_alias,1.0000,AGV Routing,SK038,EXACT_RESOLVED,READY,Logistics & Supply Chain,Logistics & Supply Chain:395
+Pallet Center-of-Gravity Inspection,395,0,0,Material Handling,SK039,Warehouse Operations,Logistics & Supply Chain,exact_alias,1.0000,Material Handling,SK039,EXACT_RESOLVED,READY,Logistics & Supply Chain,Logistics & Supply Chain:395
+Scrubber pH Neutralization Sampling,395,0,0,pH Neutralization Sampling,SK036,Chemical Processing,Pharmaceuticals & Chemical,exact_alias,1.0000,pH Neutralization Sampling,SK036,EXACT_RESOLVED,READY,Pharmaceuticals & Chemical,Pharmaceuticals & Chemical:395
+Centrifuge Solid-Liquid Separation,394,0,0,Centrifuge Operation,SK037,Chemical Processing,Pharmaceuticals & Chemical,exact_alias,1.0000,Centrifuge Operation,SK037,EXACT_RESOLVED,READY,Pharmaceuticals & Chemical,Pharmaceuticals & Chemical:394
+Conveyor Diverter Sortation Control,394,0,0,Conveyor Sortation,SK040,Warehouse Automation,Logistics & Supply Chain,exact_alias,1.0000,Conveyor Sortation,SK040,EXACT_RESOLVED,READY,Logistics & Supply Chain,Logistics & Supply Chain:394
+SMT Feeder Setup & Component Loading,392,0,0,,,,,unmatched,0.2803,SMT Feeder Setup & Component Loading,PRV002,PROVISIONAL_RAW,READY_PROVISIONAL,Electronics & IoT,Electronics & IoT:392
+Hazardous Material Handling & MSDS Compliance,391,0,0,,,,,unmatched,0.4504,Hazardous Material Handling & MSDS Compliance,PRV003,PROVISIONAL_RAW,READY_PROVISIONAL,Pharmaceuticals & Chemical,Pharmaceuticals & Chemical:391
+Automated Optical Inspection (AOI),389,0,0,,,,,unmatched,0.6518,Automated Optical Inspection (AOI),PRV004,PROVISIONAL_RAW,READY_PROVISIONAL,Electronics & IoT,Electronics & IoT:389
+Dock Leveler Maneuvering,385,0,0,,,,,unmatched,0.5698,Dock Leveler Maneuvering,PRV005,PROVISIONAL_RAW,READY_PROVISIONAL,Logistics & Supply Chain,Logistics & Supply Chain:385
+Barcode Scanning & Bin Staging,381,0,0,,,,,unmatched,0.3493,Barcode Scanning & Bin Staging,PRV006,PROVISIONAL_RAW,READY_PROVISIONAL,Logistics & Supply Chain,Logistics & Supply Chain:381
+Electric Battery Charging Safety,379,0,0,,,,,unmatched,0.4864,Electric Battery Charging Safety,PRV007,PROVISIONAL_RAW,READY_PROVISIONAL,Logistics & Supply Chain,Logistics & Supply Chain:379
+IPC-A-610 Workmanship Standard,378,0,0,,,,,unmatched,0.3204,IPC-A-610 Workmanship Standard,PRV008,PROVISIONAL_RAW,READY_PROVISIONAL,Electronics & IoT,Electronics & IoT:378
+Solder Paste Stencil Printer Setup,378,0,0,,,,,unmatched,0.3431,Solder Paste Stencil Printer Setup,PRV009,PROVISIONAL_RAW,READY_PROVISIONAL,Electronics & IoT,Electronics & IoT:378
+Radio Frequency (RF) Scanner Audits,377,0,0,,,,,unmatched,0.4942,Radio Frequency (RF) Scanner Audits,PRV010,PROVISIONAL_RAW,READY_PROVISIONAL,Logistics & Supply Chain,Logistics & Supply Chain:377
+Reflow Oven Temperature Profiling,377,0,0,,,,,unmatched,0.3497,Reflow Oven Temperature Profiling,PRV011,PROVISIONAL_RAW,READY_PROVISIONAL,Electronics & IoT,Electronics & IoT:377
+Vacuum Distillation Column Control,377,0,0,,,,,unmatched,0.3738,Vacuum Distillation Column Control,PRV012,PROVISIONAL_RAW,READY_PROVISIONAL,Pharmaceuticals & Chemical,Pharmaceuticals & Chemical:377
+Batch Chemical Reactor Charging,375,0,0,,,,,unmatched,0.3636,Batch Chemical Reactor Charging,PRV013,PROVISIONAL_RAW,READY_PROVISIONAL,Pharmaceuticals & Chemical,Pharmaceuticals & Chemical:375
+E-Way Bill & Dispatch Manifest Generation,373,0,0,,,,,unmatched,0.2769,E-Way Bill & Dispatch Manifest Generation,PRV014,PROVISIONAL_RAW,READY_PROVISIONAL,Logistics & Supply Chain,Logistics & Supply Chain:373
+Exception Parcel Rerouting,372,0,0,,,,,unmatched,0.2246,Exception Parcel Rerouting,PRV015,PROVISIONAL_RAW,READY_PROVISIONAL,Logistics & Supply Chain,Logistics & Supply Chain:372
+In-Process Disintegration & Hardness Test,372,0,0,,,,,unmatched,0.3191,In-Process Disintegration & Hardness Test,PRV016,PROVISIONAL_RAW,READY_PROVISIONAL,Pharmaceuticals & Chemical,Pharmaceuticals & Chemical:372
+High-Mast Reach Stacking (11m),371,0,0,,,,,unmatched,0.2858,High-Mast Reach Stacking (11m),PRV017,PROVISIONAL_RAW,READY_PROVISIONAL,Logistics & Supply Chain,Logistics & Supply Chain:371
+cGMP Compliance & Cleanroom Protocol,369,0,0,,,,,unmatched,0.3996,cGMP Compliance & Cleanroom Protocol,PRV018,PROVISIONAL_RAW,READY_PROVISIONAL,Pharmaceuticals & Chemical,Pharmaceuticals & Chemical:369
+WMS (Warehouse Management System),368,0,0,,,,,unmatched,0.3868,WMS (Warehouse Management System),PRV019,PROVISIONAL_RAW,READY_PROVISIONAL,Logistics & Supply Chain,Logistics & Supply Chain:368
+Rotary Tablet Press Tooling Setup,365,0,0,,,,,unmatched,0.4301,Rotary Tablet Press Tooling Setup,PRV020,PROVISIONAL_RAW,READY_PROVISIONAL,Pharmaceuticals & Chemical,Pharmaceuticals & Chemical:365
+Fluidized Bed Dryer (FBD) Operation,361,0,0,,,,,unmatched,0.3213,Fluidized Bed Dryer (FBD) Operation,PRV021,PROVISIONAL_RAW,READY_PROVISIONAL,Pharmaceuticals & Chemical,Pharmaceuticals & Chemical:361
+4-20mA Current Loop Calibration,360,0,0,,,,,unmatched,0.4259,4-20mA Current Loop Calibration,PRV022,PROVISIONAL_RAW,READY_PROVISIONAL,Electronics & IoT,Electronics & IoT:360
+Batch Manufacturing Record (BMR) Logging,359,0,0,,,,,unmatched,0.4486,Batch Manufacturing Record (BMR) Logging,PRV023,PROVISIONAL_RAW,READY_PROVISIONAL,Pharmaceuticals & Chemical,Pharmaceuticals & Chemical:359
+Reefer Vehicle Pre-cooling Check,353,0,0,,,,,unmatched,0.3141,Reefer Vehicle Pre-cooling Check,PRV024,PROVISIONAL_RAW,READY_PROVISIONAL,Logistics & Supply Chain,Logistics & Supply Chain:353
+Temperature Logger Data Auditing,351,0,0,,,,,unmatched,0.5167,Temperature Logger Data Auditing,PRV025,PROVISIONAL_RAW,READY_PROVISIONAL,Logistics & Supply Chain,Logistics & Supply Chain:351
+MQTT Gateway Configuration,350,0,0,,,,,unmatched,0.3064,MQTT Gateway Configuration,PRV026,PROVISIONAL_RAW,READY_PROVISIONAL,Electronics & IoT,Electronics & IoT:350
+FIFO / Expiry Batch Quarantine,348,0,0,,,,,unmatched,0.2216,FIFO / Expiry Batch Quarantine,PRV027,PROVISIONAL_RAW,READY_PROVISIONAL,Logistics & Supply Chain,Logistics & Supply Chain:348
+Modbus RTU & RS485 Cabling,346,0,0,,,,,unmatched,0.3052,Modbus RTU & RS485 Cabling,PRV028,PROVISIONAL_RAW,READY_PROVISIONAL,Electronics & IoT,Electronics & IoT:346
+Blast Freezer Docking Procedure,344,0,0,,,,,unmatched,0.4090,Blast Freezer Docking Procedure,PRV029,PROVISIONAL_RAW,READY_PROVISIONAL,Logistics & Supply Chain,Logistics & Supply Chain:344
+CAN Bus Protocol Auditing,343,0,0,,,,,unmatched,0.3381,CAN Bus Protocol Auditing,PRV030,PROVISIONAL_RAW,READY_PROVISIONAL,Automotive & EV,Automotive & EV:343
+LoRaWAN Gateway Antenna Tuning,342,0,0,,,,,unmatched,0.2313,LoRaWAN Gateway Antenna Tuning,PRV031,PROVISIONAL_RAW,READY_PROVISIONAL,Electronics & IoT,Electronics & IoT:342
+Vibration Sensor Mounting on Motors,341,0,0,,,,,unmatched,0.4216,Vibration Sensor Mounting on Motors,PRV032,PROVISIONAL_RAW,READY_PROVISIONAL,Electronics & IoT,Electronics & IoT:341
+KUKA/ABB Teach Pendant Programming,338,0,0,Robotics Programming,SK041,Industrial Robotics,Automotive & EV,semantic_candidate,0.7536,Robotics Programming,SK041,SEMANTIC_REVIEW,REVIEW,Automotive & EV,Automotive & EV:338
+DC Fast Charger Diagnostics,337,0,0,,,,,unmatched,0.3695,DC Fast Charger Diagnostics,PRV033,PROVISIONAL_RAW,READY_PROVISIONAL,Automotive & EV,Automotive & EV:337
+Fixture Clamping Alignment,336,0,0,,,,,unmatched,0.4619,Fixture Clamping Alignment,PRV034,PROVISIONAL_RAW,READY_PROVISIONAL,Automotive & EV,Automotive & EV:336
+MIG/MAG Synergic Welding,336,0,0,,,,,unmatched,0.6724,MIG/MAG Synergic Welding,PRV035,PROVISIONAL_RAW,READY_PROVISIONAL,Automotive & EV,Automotive & EV:336
+BMS Firmware Flashing,333,0,0,,,,,unmatched,0.2413,BMS Firmware Flashing,PRV036,PROVISIONAL_RAW,READY_PROVISIONAL,Automotive & EV,Automotive & EV:333
+Spatter Cleaning & Tip Replacement,333,0,0,,,,,unmatched,0.3779,Spatter Cleaning & Tip Replacement,PRV037,PROVISIONAL_RAW,READY_PROVISIONAL,Automotive & EV,Automotive & EV:333
+Continuity Testing with Cirris,331,0,0,,,,,unmatched,0.2806,Continuity Testing with Cirris,PRV038,PROVISIONAL_RAW,READY_PROVISIONAL,Automotive & EV,Automotive & EV:331
+Weld Seam Visual Inspection,331,0,0,,,,,unmatched,0.5055,Weld Seam Visual Inspection,PRV039,PROVISIONAL_RAW,READY_PROVISIONAL,Automotive & EV,Automotive & EV:331
+Wiring Diagram Reading,331,0,0,,,,,unmatched,0.6970,Wiring Diagram Reading,PRV040,PROVISIONAL_RAW,READY_PROVISIONAL,Automotive & EV,Automotive & EV:331
+Inverter Motor Calibration,330,0,0,,,,,unmatched,0.6261,Inverter Motor Calibration,PRV041,PROVISIONAL_RAW,READY_PROVISIONAL,Automotive & EV,Automotive & EV:330
+Sub-assembly Routing,328,0,0,,,,,unmatched,0.4455,Sub-assembly Routing,PRV042,PROVISIONAL_RAW,READY_PROVISIONAL,Automotive & EV,Automotive & EV:328
+Regenerative Braking Troubleshooting,325,0,0,,,,,unmatched,0.2857,Regenerative Braking Troubleshooting,PRV043,PROVISIONAL_RAW,READY_PROVISIONAL,Automotive & EV,Automotive & EV:325
+Lithium-Ion Cell Sorting,322,0,0,,,,,unmatched,0.3633,Lithium-Ion Cell Sorting,PRV044,PROVISIONAL_RAW,READY_PROVISIONAL,Automotive & EV,Automotive & EV:322
+Oscilloscope Waveform Analysis,322,0,0,,,,,unmatched,0.3978,Oscilloscope Waveform Analysis,PRV045,PROVISIONAL_RAW,READY_PROVISIONAL,Automotive & EV,Automotive & EV:322
+Crimping & Terminal Pinning,321,0,0,,,,,unmatched,0.5443,Crimping & Terminal Pinning,PRV046,PROVISIONAL_RAW,READY_PROVISIONAL,Automotive & EV,Automotive & EV:321
+Heat Shrink Sleeving,316,0,0,,,,,unmatched,0.2806,Heat Shrink Sleeving,PRV047,PROVISIONAL_RAW,READY_PROVISIONAL,Automotive & EV,Automotive & EV:316
+Spot Welding & Busbar Fastening,316,0,0,,,,,unmatched,0.5820,Spot Welding & Busbar Fastening,PRV048,PROVISIONAL_RAW,READY_PROVISIONAL,Automotive & EV,Automotive & EV:316
+High-Voltage Isolation Testing,311,0,0,,,,,unmatched,0.4500,High-Voltage Isolation Testing,PRV049,PROVISIONAL_RAW,READY_PROVISIONAL,Automotive & EV,Automotive & EV:311
+Thermal Runaway Protocols,311,0,0,,,,,unmatched,0.2967,Thermal Runaway Protocols,PRV050,PROVISIONAL_RAW,READY_PROVISIONAL,Automotive & EV,Automotive & EV:311
+Devanagari Font Keying (Shree-Lipi),146,0,0,,,,,unmatched,0.1948,Devanagari Font Keying (Shree-Lipi),PRV051,PROVISIONAL_RAW,READY_PROVISIONAL,Legacy Administrative,Legacy Administrative:146
+PageMaker 7.0 Layout,141,0,0,Desktop Publishing,SK069,Office Administration,Legacy Administrative,semantic_candidate,0.7527,Desktop Publishing,SK069,SEMANTIC_REVIEW,REVIEW,Legacy Administrative,Legacy Administrative:141
+CorelDraw 12 Vector Tracing,140,0,0,,,,,unmatched,0.3420,CorelDraw 12 Vector Tracing,PRV052,PROVISIONAL_RAW,READY_PROVISIONAL,Legacy Administrative,Legacy Administrative:140
+Visiting Card Pamphlet Typesetting,140,0,0,,,,,unmatched,0.2743,Visiting Card Pamphlet Typesetting,PRV053,PROVISIONAL_RAW,READY_PROVISIONAL,Legacy Administrative,Legacy Administrative:140
+Offset Master Printing Exposure,138,0,0,,,,,unmatched,0.4226,Offset Master Printing Exposure,PRV054,PROVISIONAL_RAW,READY_PROVISIONAL,Legacy Administrative,Legacy Administrative:138
+Paper Form Digitization,131,0,0,,,,,unmatched,0.3325,Paper Form Digitization,PRV055,PROVISIONAL_RAW,READY_PROVISIONAL,Legacy Administrative,Legacy Administrative:131
+Alphanumeric Keyboarding 35 WPM,130,0,0,,,,,unmatched,0.2578,Alphanumeric Keyboarding 35 WPM,PRV056,PROVISIONAL_RAW,READY_PROVISIONAL,Legacy Administrative,Legacy Administrative:130
+Cash Deposit Challan Submission,129,0,0,,,,,unmatched,0.3016,Cash Deposit Challan Submission,PRV057,PROVISIONAL_RAW,READY_PROVISIONAL,Legacy Administrative,Legacy Administrative:129
+Manual Lettering Stencils,129,0,0,,,,,unmatched,0.4830,Manual Lettering Stencils,PRV058,PROVISIONAL_RAW,READY_PROVISIONAL,Legacy Administrative,Legacy Administrative:129
+Physical Inward-Outward Register Entry,129,0,0,,,,,unmatched,0.3351,Physical Inward-Outward Register Entry,PRV059,PROVISIONAL_RAW,READY_PROVISIONAL,Legacy Administrative,Legacy Administrative:129
+Photocopying & File Indexing,126,0,0,,,,,unmatched,0.3387,Photocopying & File Indexing,PRV060,PROVISIONAL_RAW,READY_PROVISIONAL,Legacy Administrative,Legacy Administrative:126
+Rotring Pen Tracing Paper Inking,124,0,0,,,,,unmatched,0.3278,Rotring Pen Tracing Paper Inking,PRV061,PROVISIONAL_RAW,READY_PROVISIONAL,Legacy Administrative,Legacy Administrative:124
+Geometric Orthographic Views Drawing,123,0,0,,,,,unmatched,0.6347,Geometric Orthographic Views Drawing,PRV062,PROVISIONAL_RAW,READY_PROVISIONAL,Legacy Administrative,Legacy Administrative:123
+Mini-Drafter Isometric Projection,123,0,0,,,,,unmatched,0.3395,Mini-Drafter Isometric Projection,PRV063,PROVISIONAL_RAW,READY_PROVISIONAL,Legacy Administrative,Legacy Administrative:123
+Courier Envelope Packing,121,0,0,,,,,unmatched,0.2671,Courier Envelope Packing,PRV064,PROVISIONAL_RAW,READY_PROVISIONAL,Legacy Administrative,Legacy Administrative:121
+Pantry Tea/Coffee Serving,120,0,0,,,,,unmatched,0.2212,Pantry Tea/Coffee Serving,PRV065,PROVISIONAL_RAW,READY_PROVISIONAL,Legacy Administrative,Legacy Administrative:120
+Microsoft Word Typing,119,0,0,,,,,unmatched,0.3652,Microsoft Word Typing,PRV066,PROVISIONAL_RAW,READY_PROVISIONAL,Legacy Administrative,Legacy Administrative:119
+Basic Excel Sheet Cell Entry,118,0,0,,,,,unmatched,0.6670,Basic Excel Sheet Cell Entry,PRV067,PROVISIONAL_RAW,READY_PROVISIONAL,Legacy Administrative,Legacy Administrative:118
+Blue-Print Paper Ammonia Processing,116,0,0,,,,,unmatched,0.3271,Blue-Print Paper Ammonia Processing,PRV068,PROVISIONAL_RAW,READY_PROVISIONAL,Legacy Administrative,Legacy Administrative:116
+Bank Passbook Printing,114,0,0,,,,,unmatched,0.2765,Bank Passbook Printing,PRV069,PROVISIONAL_RAW,READY_PROVISIONAL,Legacy Administrative,Legacy Administrative:114
+digital twin simulation,0,0,39,Digital Twin,SK047,Industrial Digitalization,Automotive & EV,semantic_candidate,0.7524,Digital Twin,SK047,SEMANTIC_REVIEW,REVIEW,,
+Python scripting,0,22,29,Python,SK056,Programming,Electronics & IoT,semantic_candidate,0.8293,Python,SK056,SEMANTIC_REVIEW,REVIEW,,
+AI/ML awareness,0,0,29,,,,,unmatched,0.5450,AI/ML awareness,PRV070,PROVISIONAL_RAW,READY_PROVISIONAL,,
+cloud-based ERP,0,0,29,,,,,unmatched,0.6112,cloud-based ERP,PRV071,PROVISIONAL_RAW,READY_PROVISIONAL,,
+database querying,0,0,29,SQL,SK057,Data & Databases,Electronics & IoT,semantic_candidate,0.8487,SQL,SK057,SEMANTIC_REVIEW,REVIEW,,
+digital printing (UV/DTF),0,0,29,,,,,unmatched,0.4079,digital printing (UV/DTF),PRV072,PROVISIONAL_RAW,READY_PROVISIONAL,,
+flexographic printing,0,0,29,,,,,unmatched,0.3781,flexographic printing,PRV073,PROVISIONAL_RAW,READY_PROVISIONAL,,
+packaging design,0,0,29,,,,,unmatched,0.4332,packaging design,PRV074,PROVISIONAL_RAW,READY_PROVISIONAL,,
+pre-press DTP software,0,0,29,,,,,unmatched,0.6458,pre-press DTP software,PRV075,PROVISIONAL_RAW,READY_PROVISIONAL,,
+RPA tools,0,0,29,,,,,unmatched,0.3705,RPA tools,PRV076,PROVISIONAL_RAW,READY_PROVISIONAL,,
+3D CAD modelling (SolidWorks/CATIA),0,0,26,,,,,unmatched,0.4939,3D CAD modelling (SolidWorks/CATIA),PRV077,PROVISIONAL_RAW,READY_PROVISIONAL,,
+BIM software,0,0,26,,,,,unmatched,0.5557,BIM software,PRV078,PROVISIONAL_RAW,READY_PROVISIONAL,,
+CMM measurement,0,0,26,Coordinate Measuring Machine,SK020,CMM & Inspection,Advanced Manufacturing,semantic_candidate,0.7574,Coordinate Measuring Machine,SK020,SEMANTIC_REVIEW,REVIEW,,
+CNC turning centres,0,0,26,,,,,unmatched,0.6049,CNC turning centres,PRV079,PROVISIONAL_RAW,READY_PROVISIONAL,,
+GD&T,0,0,26,Geometric Dimensioning & Tolerancing,SK021,Quality & Metrology,Advanced Manufacturing,exact_alias,1.0000,Geometric Dimensioning & Tolerancing,SK021,EXACT_RESOLVED,READY,,
+ISO 9001 documentation,0,0,26,,,,,unmatched,0.2550,ISO 9001 documentation,PRV080,PROVISIONAL_RAW,READY_PROVISIONAL,,
+live tooling,0,0,26,,,,,unmatched,0.4576,live tooling,PRV081,PROVISIONAL_RAW,READY_PROVISIONAL,,
+parametric design,0,0,26,,,,,unmatched,0.3481,parametric design,PRV082,PROVISIONAL_RAW,READY_PROVISIONAL,,
+precision grinding,0,0,26,Surface Grinding,SK012,Precision Manufacturing,Advanced Manufacturing,exact_alias,1.0000,Surface Grinding,SK012,EXACT_RESOLVED,READY,,
+simulation basics,0,0,26,,,,,unmatched,0.3367,simulation basics,PRV083,PROVISIONAL_RAW,READY_PROVISIONAL,,
+cold-chain reefer servicing,0,0,25,,,,,unmatched,0.2801,cold-chain reefer servicing,PRV084,PROVISIONAL_RAW,READY_PROVISIONAL,,
+heat pump systems,0,0,25,,,,,unmatched,0.4446,heat pump systems,PRV085,PROVISIONAL_RAW,READY_PROVISIONAL,,
+IoT-enabled HVAC monitoring,0,0,25,,,,,unmatched,0.5732,IoT-enabled HVAC monitoring,PRV086,PROVISIONAL_RAW,READY_PROVISIONAL,,
+LEED commissioning,0,0,25,,,,,unmatched,0.5429,LEED commissioning,PRV087,PROVISIONAL_RAW,READY_PROVISIONAL,,
+pneumatic systems,0,19,24,Pneumatic Systems,SK045,Pneumatics,Automotive & EV,exact_alias,1.0000,Pneumatic Systems,SK045,EXACT_RESOLVED,READY,,
+5S/lean manufacturing,0,0,24,,,,,unmatched,0.3853,5S/lean manufacturing,PRV088,PROVISIONAL_RAW,READY_PROVISIONAL,,
+BIM coordination,0,0,24,,,,,unmatched,0.4587,BIM coordination,PRV089,PROVISIONAL_RAW,READY_PROVISIONAL,,
+CNC fixture assembly,0,0,24,,,,,unmatched,0.5364,CNC fixture assembly,PRV090,PROVISIONAL_RAW,READY_PROVISIONAL,,
+CPVC/HDPE piping,0,0,24,,,,,unmatched,0.3629,CPVC/HDPE piping,PRV091,PROVISIONAL_RAW,READY_PROVISIONAL,,
+digital measurement,0,0,24,,,,,unmatched,0.5989,digital measurement,PRV092,PROVISIONAL_RAW,READY_PROVISIONAL,,
+e-commerce product listing,0,0,24,,,,,unmatched,0.2667,e-commerce product listing,PRV093,PROVISIONAL_RAW,READY_PROVISIONAL,,
+ERP-based production planning,0,0,24,,,,,unmatched,0.3572,ERP-based production planning,PRV094,PROVISIONAL_RAW,READY_PROVISIONAL,,
+fire suppression piping,0,0,24,,,,,unmatched,0.5148,fire suppression piping,PRV095,PROVISIONAL_RAW,READY_PROVISIONAL,,
+hydraulic fitting,0,0,24,,,,,unmatched,0.3774,hydraulic fitting,PRV096,PROVISIONAL_RAW,READY_PROVISIONAL,,
+jacquard CAD design,0,0,24,,,,,unmatched,0.3079,jacquard CAD design,PRV097,PROVISIONAL_RAW,READY_PROVISIONAL,,
+rainwater harvesting systems,0,0,24,,,,,unmatched,0.2916,rainwater harvesting systems,PRV098,PROVISIONAL_RAW,READY_PROVISIONAL,,
+technical textiles,0,0,24,,,,,unmatched,0.5055,technical textiles,PRV099,PROVISIONAL_RAW,READY_PROVISIONAL,,
+agrivoltaic installation,0,0,23,,,,,unmatched,0.5447,agrivoltaic installation,PRV100,PROVISIONAL_RAW,READY_PROVISIONAL,,
+BESS integration,0,0,23,,,,,unmatched,0.2693,BESS integration,PRV101,PROVISIONAL_RAW,READY_PROVISIONAL,,
+bifacial module handling,0,0,23,,,,,unmatched,0.2909,bifacial module handling,PRV102,PROVISIONAL_RAW,READY_PROVISIONAL,,
+calendar management,0,0,23,,,,,unmatched,0.2996,calendar management,PRV103,PROVISIONAL_RAW,READY_PROVISIONAL,,
+CRM usage,0,0,23,,,,,unmatched,0.3443,CRM usage,PRV104,PROVISIONAL_RAW,READY_PROVISIONAL,,
+digital transcription tools,0,0,23,,,,,unmatched,0.3569,digital transcription tools,PRV105,PROVISIONAL_RAW,READY_PROVISIONAL,,
+drone-based O&M,0,0,23,,,,,unmatched,0.4256,drone-based O&M,PRV106,PROVISIONAL_RAW,READY_PROVISIONAL,,
+SCADA monitoring,0,0,23,SCADA Control Systems,SK031,Industrial Automation,Green Energy,semantic_candidate,0.8094,SCADA Control Systems,SK031,SEMANTIC_REVIEW,REVIEW,,
+voice-to-text software,0,0,23,,,,,unmatched,0.3470,voice-to-text software,PRV107,PROVISIONAL_RAW,READY_PROVISIONAL,,
+5G private network config,0,0,22,,,,,unmatched,0.2392,5G private network config,PRV108,PROVISIONAL_RAW,READY_PROVISIONAL,,
+aluminium TIG,0,0,22,,,,,unmatched,0.5763,aluminium TIG,PRV109,PROVISIONAL_RAW,READY_PROVISIONAL,,
+cybersecurity for OT networks,0,0,22,,,,,unmatched,0.3606,cybersecurity for OT networks,PRV110,PROVISIONAL_RAW,READY_PROVISIONAL,,
+digital thread,0,0,22,,,,,unmatched,0.4514,digital thread,PRV111,PROVISIONAL_RAW,READY_PROVISIONAL,,
+ML-based anomaly detection,0,0,22,,,,,unmatched,0.3726,ML-based anomaly detection,PRV112,PROVISIONAL_RAW,READY_PROVISIONAL,,
+NDT basics,0,0,22,,,,,unmatched,0.2821,NDT basics,PRV113,PROVISIONAL_RAW,READY_PROVISIONAL,,
+robotic welding cell operation,0,0,22,,,,,unmatched,0.6433,robotic welding cell operation,PRV114,PROVISIONAL_RAW,READY_PROVISIONAL,,
+structural welding codes,0,0,22,,,,,unmatched,0.6311,structural welding codes,PRV115,PROVISIONAL_RAW,READY_PROVISIONAL,,
+underwater welding,0,0,22,,,,,unmatched,0.6850,underwater welding,PRV116,PROVISIONAL_RAW,READY_PROVISIONAL,,
+5-axis machining,0,0,20,,,,,unmatched,0.5235,5-axis machining,PRV117,PROVISIONAL_RAW,READY_PROVISIONAL,,
+ECBC compliance documentation,0,0,20,,,,,unmatched,0.2922,ECBC compliance documentation,PRV118,PROVISIONAL_RAW,READY_PROVISIONAL,,
+green rating auditing,0,0,20,,,,,unmatched,0.3406,green rating auditing,PRV119,PROVISIONAL_RAW,READY_PROVISIONAL,,
+in-process gauging,0,0,20,,,,,unmatched,0.5127,in-process gauging,PRV120,PROVISIONAL_RAW,READY_PROVISIONAL,,
+Mastercam post-processing,0,0,20,,,,,unmatched,0.5322,Mastercam post-processing,PRV121,PROVISIONAL_RAW,READY_PROVISIONAL,,
+net-zero building modelling,0,0,20,,,,,unmatched,0.3730,net-zero building modelling,PRV122,PROVISIONAL_RAW,READY_PROVISIONAL,,
+robotic tending,0,0,20,,,,,unmatched,0.5846,robotic tending,PRV123,PROVISIONAL_RAW,READY_PROVISIONAL,,
+thermal comfort simulation,0,0,20,,,,,unmatched,0.2918,thermal comfort simulation,PRV124,PROVISIONAL_RAW,READY_PROVISIONAL,,
+EV charging infra,0,20,19,EV Battery Technology,SK043,EV Systems,Automotive & EV,semantic_candidate,0.7358,EV Battery Technology,SK043,SEMANTIC_REVIEW,REVIEW,,
+collaborative robot (cobot) programming,0,0,19,Collaborative Robotics,SK046,Industrial Robotics,Automotive & EV,semantic_candidate,0.8063,Collaborative Robotics,SK046,SEMANTIC_REVIEW,REVIEW,,
+FPV racing & repair,0,0,19,,,,,unmatched,0.2937,FPV racing & repair,PRV125,PROVISIONAL_RAW,READY_PROVISIONAL,,
+LiDAR data processing,0,0,19,,,,,unmatched,0.3802,LiDAR data processing,PRV126,PROVISIONAL_RAW,READY_PROVISIONAL,,
+multi-spectral imaging analysis,0,0,19,,,,,unmatched,0.4036,multi-spectral imaging analysis,PRV127,PROVISIONAL_RAW,READY_PROVISIONAL,,
+ROS basics,0,0,19,ROS Basics,SK049,Robotics Software,Automotive & EV,exact_alias,1.0000,ROS Basics,SK049,EXACT_RESOLVED,READY,,
+safety PLC,0,0,19,,,,,unmatched,0.6479,safety PLC,PRV128,PROVISIONAL_RAW,READY_PROVISIONAL,,
+SCADA basics,0,0,19,SCADA Control Systems,SK031,Industrial Automation,Green Energy,semantic_candidate,0.8757,SCADA Control Systems,SK031,SEMANTIC_REVIEW,REVIEW,,
+smart metering,0,0,19,,,,,unmatched,0.7080,smart metering,PRV129,PROVISIONAL_RAW,READY_PROVISIONAL,,
+solar grid interconnection,0,0,19,,,,,unmatched,0.5928,solar grid interconnection,PRV130,PROVISIONAL_RAW,READY_PROVISIONAL,,
+swarm drone coordination,0,0,19,,,,,unmatched,0.4430,swarm drone coordination,PRV131,PROVISIONAL_RAW,READY_PROVISIONAL,,
+VFD configuration,0,0,19,VFD Configuration,SK003,Industrial Automation,Advanced Manufacturing,exact_alias,1.0000,VFD Configuration,SK003,EXACT_RESOLVED,READY,,
+vision-guided robotics,0,0,19,Machine Vision,SK048,Industrial AI,Automotive & EV,exact_alias,1.0000,Machine Vision,SK048,EXACT_RESOLVED,READY,,
+blockchain-based traceability,0,0,18,,,,,unmatched,0.3708,blockchain-based traceability,PRV132,PROVISIONAL_RAW,READY_PROVISIONAL,,
+EV reefer vehicle ops,0,0,18,,,,,unmatched,0.5223,EV reefer vehicle ops,PRV133,PROVISIONAL_RAW,READY_PROVISIONAL,,
+last-mile route AI,0,0,18,,,,,unmatched,0.4744,last-mile route AI,PRV134,PROVISIONAL_RAW,READY_PROVISIONAL,,
+predictive maintenance for cold rooms,0,0,18,,,,,unmatched,0.3800,predictive maintenance for cold rooms,PRV135,PROVISIONAL_RAW,READY_PROVISIONAL,,
+edge AI deployment,0,0,17,,,,,unmatched,0.3913,edge AI deployment,PRV136,PROVISIONAL_RAW,READY_PROVISIONAL,,
+generative AI for test data,0,0,17,,,,,unmatched,0.4156,generative AI for test data,PRV137,PROVISIONAL_RAW,READY_PROVISIONAL,,
+ISO 17025 lab accreditation,0,0,17,,,,,unmatched,0.3859,ISO 17025 lab accreditation,PRV138,PROVISIONAL_RAW,READY_PROVISIONAL,,
+model retraining pipelines,0,0,17,,,,,unmatched,0.4390,model retraining pipelines,PRV139,PROVISIONAL_RAW,READY_PROVISIONAL,,
+battery recycling processes,0,0,7,,,,,unmatched,0.4958,battery recycling processes,PRV140,PROVISIONAL_RAW,READY_PROVISIONAL,,
+fast-charge system config,0,0,7,,,,,unmatched,0.3081,fast-charge system config,PRV141,PROVISIONAL_RAW,READY_PROVISIONAL,,
+second-life battery repurposing,0,0,7,,,,,unmatched,0.4211,second-life battery repurposing,PRV142,PROVISIONAL_RAW,READY_PROVISIONAL,,
+solid-state battery handling,0,0,7,,,,,unmatched,0.4669,solid-state battery handling,PRV143,PROVISIONAL_RAW,READY_PROVISIONAL,,
+measurement tools,0,50,0,,,,,unmatched,0.6548,measurement tools,PRV144,PROVISIONAL_RAW,READY_PROVISIONAL,,
+basic internet browsing,0,29,0,,,,,unmatched,0.4029,basic internet browsing,PRV145,PROVISIONAL_RAW,READY_PROVISIONAL,,
+bindery operations,0,29,0,,,,,unmatched,0.3708,bindery operations,PRV146,PROVISIONAL_RAW,READY_PROVISIONAL,,
+color registration,0,29,0,,,,,unmatched,0.3903,color registration,PRV147,PROVISIONAL_RAW,READY_PROVISIONAL,,
+data formatting,0,29,0,,,,,unmatched,0.5137,data formatting,PRV148,PROVISIONAL_RAW,READY_PROVISIONAL,,
+ink mixing,0,29,0,,,,,unmatched,0.3997,ink mixing,PRV149,PROVISIONAL_RAW,READY_PROVISIONAL,,
+MS Office,0,29,0,,,,,unmatched,0.5401,MS Office,PRV150,PROVISIONAL_RAW,READY_PROVISIONAL,,
+offset press operation,0,29,0,,,,,unmatched,0.6322,offset press operation,PRV151,PROVISIONAL_RAW,READY_PROVISIONAL,,
+plate burning,0,29,0,,,,,unmatched,0.3309,plate burning,PRV152,PROVISIONAL_RAW,READY_PROVISIONAL,,
+tally basics,0,29,0,,,,,unmatched,0.3691,tally basics,PRV153,PROVISIONAL_RAW,READY_PROVISIONAL,,
+typing speed 40wpm,0,29,0,,,,,unmatched,0.2733,typing speed 40wpm,PRV154,PROVISIONAL_RAW,READY_PROVISIONAL,,
+2D blueprint reading,0,26,0,,,,,unmatched,0.5333,2D blueprint reading,PRV155,PROVISIONAL_RAW,READY_PROVISIONAL,,
+basic AutoCAD,0,26,0,,,,,unmatched,0.4753,basic AutoCAD,PRV156,PROVISIONAL_RAW,READY_PROVISIONAL,,
+boring & drilling,0,26,0,,,,,unmatched,0.3962,boring & drilling,PRV157,PROVISIONAL_RAW,READY_PROVISIONAL,,
+coolant management,0,26,0,,,,,unmatched,0.3281,coolant management,PRV158,PROVISIONAL_RAW,READY_PROVISIONAL,,
+lathe operation,0,26,0,,,,,unmatched,0.3327,lathe operation,PRV159,PROVISIONAL_RAW,READY_PROVISIONAL,,
+manual drawing board,0,26,0,,,,,unmatched,0.5230,manual drawing board,PRV160,PROVISIONAL_RAW,READY_PROVISIONAL,,
+orthographic projection,0,26,0,,,,,unmatched,0.4416,orthographic projection,PRV161,PROVISIONAL_RAW,READY_PROVISIONAL,,
+T-square drafting,0,26,0,,,,,unmatched,0.3678,T-square drafting,PRV162,PROVISIONAL_RAW,READY_PROVISIONAL,,
+turning & facing,0,26,0,,,,,unmatched,0.2701,turning & facing,PRV163,PROVISIONAL_RAW,READY_PROVISIONAL,,
+AMC documentation,0,25,0,,,,,unmatched,0.3181,AMC documentation,PRV164,PROVISIONAL_RAW,READY_PROVISIONAL,,
+BMS controls,0,25,0,,,,,unmatched,0.3928,BMS controls,PRV165,PROVISIONAL_RAW,READY_PROVISIONAL,,
+electrical troubleshooting,0,25,0,,,,,unmatched,0.4898,electrical troubleshooting,PRV166,PROVISIONAL_RAW,READY_PROVISIONAL,,
+gas charging,0,25,0,,,,,unmatched,0.5380,gas charging,PRV167,PROVISIONAL_RAW,READY_PROVISIONAL,,
+refrigerant handling,0,25,0,,,,,unmatched,0.4049,refrigerant handling,PRV168,PROVISIONAL_RAW,READY_PROVISIONAL,,
+VRF systems,0,25,0,,,,,unmatched,0.4480,VRF systems,PRV169,PROVISIONAL_RAW,READY_PROVISIONAL,,
+assembly & fitting,0,24,0,,,,,unmatched,0.5546,assembly & fitting,PRV170,PROVISIONAL_RAW,READY_PROVISIONAL,,
+bench work,0,24,0,,,,,unmatched,0.2771,bench work,PRV171,PROVISIONAL_RAW,READY_PROVISIONAL,,
+blueprint reading,0,24,0,,,,,unmatched,0.4462,blueprint reading,PRV172,PROVISIONAL_RAW,READY_PROVISIONAL,,
+loom maintenance,0,24,0,,,,,unmatched,0.4058,loom maintenance,PRV173,PROVISIONAL_RAW,READY_PROVISIONAL,,
+pipe fitting,0,24,0,,,,,unmatched,0.6221,pipe fitting,PRV174,PROVISIONAL_RAW,READY_PROVISIONAL,,
+plumbing drawings,0,24,0,,,,,unmatched,0.4523,plumbing drawings,PRV175,PROVISIONAL_RAW,READY_PROVISIONAL,,
+power loom setup,0,24,0,,,,,unmatched,0.3433,power loom setup,PRV176,PROVISIONAL_RAW,READY_PROVISIONAL,,
+pressure testing,0,24,0,,,,,unmatched,0.4052,pressure testing,PRV177,PROVISIONAL_RAW,READY_PROVISIONAL,,
+quality grading,0,24,0,,,,,unmatched,0.4497,quality grading,PRV178,PROVISIONAL_RAW,READY_PROVISIONAL,,
+sanitary installation,0,24,0,,,,,unmatched,0.3312,sanitary installation,PRV179,PROVISIONAL_RAW,READY_PROVISIONAL,,
+shuttle changeover,0,24,0,,,,,unmatched,0.3405,shuttle changeover,PRV180,PROVISIONAL_RAW,READY_PROVISIONAL,,
+surface finishing,0,24,0,,,,,unmatched,0.5441,surface finishing,PRV181,PROVISIONAL_RAW,READY_PROVISIONAL,,
+thread cutting,0,24,0,,,,,unmatched,0.4970,thread cutting,PRV182,PROVISIONAL_RAW,READY_PROVISIONAL,,
+warp/weft threading,0,24,0,,,,,unmatched,0.3513,warp/weft threading,PRV183,PROVISIONAL_RAW,READY_PROVISIONAL,,
+water treatment basics,0,24,0,,,,,unmatched,0.3951,water treatment basics,PRV184,PROVISIONAL_RAW,READY_PROVISIONAL,,
+basic correspondence,0,23,0,,,,,unmatched,0.3800,basic correspondence,PRV185,PROVISIONAL_RAW,READY_PROVISIONAL,,
+DC cabling,0,23,0,,,,,unmatched,0.4296,DC cabling,PRV186,PROVISIONAL_RAW,READY_PROVISIONAL,,
+earthing & bonding,0,23,0,,,,,unmatched,0.5783,earthing & bonding,PRV187,PROVISIONAL_RAW,READY_PROVISIONAL,,
+filing systems,0,23,0,,,,,unmatched,0.3780,filing systems,PRV188,PROVISIONAL_RAW,READY_PROVISIONAL,,
+MS Word,0,23,0,,,,,unmatched,0.4885,MS Word,PRV189,PROVISIONAL_RAW,READY_PROVISIONAL,,
+net metering,0,23,0,Net Metering,SK029,Solar Energy,Green Energy,exact_alias,1.0000,Net Metering,SK029,EXACT_RESOLVED,READY,,
+Pitman shorthand,0,23,0,,,,,unmatched,0.5709,Pitman shorthand,PRV190,PROVISIONAL_RAW,READY_PROVISIONAL,,
+rooftop module mounting,0,23,0,,,,,unmatched,0.6773,rooftop module mounting,PRV191,PROVISIONAL_RAW,READY_PROVISIONAL,,
+string inverter commissioning,0,23,0,,,,,unmatched,0.6024,string inverter commissioning,PRV192,PROVISIONAL_RAW,READY_PROVISIONAL,,
+typing speed 60wpm,0,23,0,,,,,unmatched,0.2733,typing speed 60wpm,PRV193,PROVISIONAL_RAW,READY_PROVISIONAL,,
+cloud dashboards,0,22,0,,,,,unmatched,0.5796,cloud dashboards,PRV194,PROVISIONAL_RAW,READY_PROVISIONAL,,
+distortion control,0,22,0,,,,,unmatched,0.4216,distortion control,PRV195,PROVISIONAL_RAW,READY_PROVISIONAL,,
+edge computing,0,22,0,,,,,unmatched,0.4327,edge computing,PRV196,PROVISIONAL_RAW,READY_PROVISIONAL,,
+MIG welding,0,22,0,GTAW/TIG Welding,SK006,Welding & Fabrication,Advanced Manufacturing,semantic_candidate,0.7553,GTAW/TIG Welding,SK006,SEMANTIC_REVIEW,REVIEW,,
+MQTT protocol,0,22,0,,,,,unmatched,0.3491,MQTT protocol,PRV197,PROVISIONAL_RAW,READY_PROVISIONAL,,
+OPC-UA,0,22,0,,,,,unmatched,0.4952,OPC-UA,PRV198,PROVISIONAL_RAW,READY_PROVISIONAL,,
+PPE compliance,0,22,0,,,,,unmatched,0.2565,PPE compliance,PRV199,PROVISIONAL_RAW,READY_PROVISIONAL,,
+sensor calibration,0,22,0,,,,,unmatched,0.6360,sensor calibration,PRV200,PROVISIONAL_RAW,READY_PROVISIONAL,,
+SMAW,0,22,0,,,,,unmatched,0.5619,SMAW,PRV201,PROVISIONAL_RAW,READY_PROVISIONAL,,
+TIG welding,0,22,0,GTAW/TIG Welding,SK006,Welding & Fabrication,Advanced Manufacturing,exact_alias,1.0000,GTAW/TIG Welding,SK006,EXACT_RESOLVED,READY,,
+weld inspection,0,22,0,,,,,unmatched,0.6297,weld inspection,PRV202,PROVISIONAL_RAW,READY_PROVISIONAL,,
+BIM awareness,0,20,0,,,,,unmatched,0.4632,BIM awareness,PRV203,PROVISIONAL_RAW,READY_PROVISIONAL,,
+CAD/CAM basics,0,20,0,,,,,unmatched,0.7107,CAD/CAM basics,PRV204,PROVISIONAL_RAW,READY_PROVISIONAL,,
+energy auditing basics,0,20,0,,,,,unmatched,0.3632,energy auditing basics,PRV205,PROVISIONAL_RAW,READY_PROVISIONAL,,
+Fanuc CNC controls,0,20,0,CNC Controller Operation,SK015,CNC Manufacturing,Advanced Manufacturing,semantic_candidate,0.7644,CNC Controller Operation,SK015,SEMANTIC_REVIEW,REVIEW,,
+G-code programming,0,20,0,CNC Programming,SK017,CNC Manufacturing,Advanced Manufacturing,semantic_candidate,0.8803,CNC Programming,SK017,SEMANTIC_REVIEW,REVIEW,,
+IGBC norms,0,20,0,,,,,unmatched,0.2198,IGBC norms,PRV206,PROVISIONAL_RAW,READY_PROVISIONAL,,
+MEP coordination,0,20,0,,,,,unmatched,0.3422,MEP coordination,PRV207,PROVISIONAL_RAW,READY_PROVISIONAL,,
+quality inspection,0,20,0,AI Quality Inspection,SK050,Industrial AI,Automotive & EV,semantic_candidate,0.7724,AI Quality Inspection,SK050,SEMANTIC_REVIEW,REVIEW,,
+rainwater harvesting,0,20,0,,,,,unmatched,0.2749,rainwater harvesting,PRV208,PROVISIONAL_RAW,READY_PROVISIONAL,,
+tolerance measurement,0,20,0,,,,,unmatched,0.4155,tolerance measurement,PRV209,PROVISIONAL_RAW,READY_PROVISIONAL,,
+tool offsets,0,20,0,Tool Offset Calibration,SK018,CNC Manufacturing,Advanced Manufacturing,semantic_candidate,0.9714,Tool Offset Calibration,SK018,SEMANTIC_REVIEW,REVIEW,,
+DGCA certification,0,19,0,,,,,unmatched,0.2792,DGCA certification,PRV210,PROVISIONAL_RAW,READY_PROVISIONAL,,
+drone maintenance,0,19,0,,,,,unmatched,0.3867,drone maintenance,PRV211,PROVISIONAL_RAW,READY_PROVISIONAL,,
+earthing,0,19,0,,,,,unmatched,0.6109,earthing,PRV212,PROVISIONAL_RAW,READY_PROVISIONAL,,
+electrical drawings,0,19,0,,,,,unmatched,0.6560,electrical drawings,PRV213,PROVISIONAL_RAW,READY_PROVISIONAL,,
+FANUC/KUKA commissioning,0,19,0,Industrial Robot Commissioning,SK042,Industrial Robotics,Automotive & EV,semantic_candidate,0.8151,Industrial Robot Commissioning,SK042,SEMANTIC_REVIEW,REVIEW,,
+flight planning,0,19,0,,,,,unmatched,0.3475,flight planning,PRV214,PROVISIONAL_RAW,READY_PROVISIONAL,,
+geofencing,0,19,0,,,,,unmatched,0.3327,geofencing,PRV215,PROVISIONAL_RAW,READY_PROVISIONAL,,
+GPS calibration,0,19,0,,,,,unmatched,0.5303,GPS calibration,PRV216,PROVISIONAL_RAW,READY_PROVISIONAL,,
+motor winding,0,19,0,,,,,unmatched,0.5834,motor winding,PRV217,PROVISIONAL_RAW,READY_PROVISIONAL,,
+panel wiring,0,19,0,,,,,unmatched,0.6197,panel wiring,PRV218,PROVISIONAL_RAW,READY_PROVISIONAL,,
+payload operations,0,19,0,,,,,unmatched,0.3544,payload operations,PRV219,PROVISIONAL_RAW,READY_PROVISIONAL,,
+PLC basics,0,19,0,PLC Programming & Configuration,SK001,Industrial Automation,Advanced Manufacturing,semantic_candidate,0.8710,PLC Programming & Configuration,SK001,SEMANTIC_REVIEW,REVIEW,,
+PLC programming,0,19,0,PLC Programming & Configuration,SK001,Industrial Automation,Advanced Manufacturing,exact_alias,1.0000,PLC Programming & Configuration,SK001,EXACT_RESOLVED,READY,,
+robot teach pendant,0,19,0,Robotics Programming,SK041,Industrial Robotics,Automotive & EV,exact_alias,1.0000,Robotics Programming,SK041,EXACT_RESOLVED,READY,,
+safety regulations,0,19,0,,,,,unmatched,0.3571,safety regulations,PRV220,PROVISIONAL_RAW,READY_PROVISIONAL,,
+servo motor calibration,0,19,0,Servo Calibration,SK044,Industrial Automation,Automotive & EV,exact_alias,1.0000,Servo Calibration,SK044,EXACT_RESOLVED,READY,,
+FSSAI cold-chain norms,0,18,0,,,,,unmatched,0.1941,FSSAI cold-chain norms,PRV221,PROVISIONAL_RAW,READY_PROVISIONAL,,
+inventory management,0,18,0,,,,,unmatched,0.3571,inventory management,PRV222,PROVISIONAL_RAW,READY_PROVISIONAL,,
+reefer truck ops,0,18,0,,,,,unmatched,0.3450,reefer truck ops,PRV223,PROVISIONAL_RAW,READY_PROVISIONAL,,
+temperature monitoring,0,18,0,,,,,unmatched,0.5938,temperature monitoring,PRV224,PROVISIONAL_RAW,READY_PROVISIONAL,,
+WMS software,0,18,0,,,,,unmatched,0.3374,WMS software,PRV225,PROVISIONAL_RAW,READY_PROVISIONAL,,
+CMM operation,0,17,0,,,,,unmatched,0.6735,CMM operation,PRV226,PROVISIONAL_RAW,READY_PROVISIONAL,,
+computer vision basics,0,17,0,,,,,unmatched,0.6784,computer vision basics,PRV227,PROVISIONAL_RAW,READY_PROVISIONAL,,
+defect classification,0,17,0,,,,,unmatched,0.6081,defect classification,PRV228,PROVISIONAL_RAW,READY_PROVISIONAL,,
+image annotation,0,17,0,,,,,unmatched,0.4512,image annotation,PRV229,PROVISIONAL_RAW,READY_PROVISIONAL,,
+Python/ML awareness,0,17,0,,,,,unmatched,0.5656,Python/ML awareness,PRV230,PROVISIONAL_RAW,READY_PROVISIONAL,,
+SPC analysis,0,17,0,Statistical Process Control,SK022,Quality & Metrology,Advanced Manufacturing,semantic_candidate,0.7842,Statistical Process Control,SK022,SEMANTIC_REVIEW,REVIEW,,
+BMS calibration,0,7,0,,,,,unmatched,0.5875,BMS calibration,PRV231,PROVISIONAL_RAW,READY_PROVISIONAL,,
+DC bus wiring,0,7,0,,,,,unmatched,0.3816,DC bus wiring,PRV232,PROVISIONAL_RAW,READY_PROVISIONAL,,
+EV safety protocols,0,7,0,,,,,unmatched,0.5758,EV safety protocols,PRV233,PROVISIONAL_RAW,READY_PROVISIONAL,,
+Li-ion cell handling,0,7,0,,,,,unmatched,0.3167,Li-ion cell handling,PRV234,PROVISIONAL_RAW,READY_PROVISIONAL,,
+spot welding,0,7,0,GTAW/TIG Welding,SK006,Welding & Fabrication,Advanced Manufacturing,semantic_candidate,0.7526,GTAW/TIG Welding,SK006,SEMANTIC_REVIEW,REVIEW,,
+thermal management,0,7,0,,,,,unmatched,0.3715,thermal management,PRV235,PROVISIONAL_RAW,READY_PROVISIONAL,,

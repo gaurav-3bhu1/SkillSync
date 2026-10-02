@@ -1,0 +1,305 @@
+raw_skill,job_demand_count,training_taught_count,training_gap_count,total_mentions
+GTAW Pipe 6G Position,605,0,0,605
+Allen-Bradley/Siemens S7 PLC,595,0,0,595
+Radiographic Testing Quality Standard,595,0,0,595
+VFD Parameter Configuration,594,0,0,594
+Bevel Edge Preparation,593,0,0,593
+Surface Grinding to 5-Micron Tolerance,592,0,0,592
+3-Phase Motor Star-Delta Starter,591,0,0,591
+Argon Back-Purging Setup,587,0,0,587
+Ladder Logic Troubleshooting,585,0,0,585
+Injection Mould Assembly,583,0,0,583
+EDM Wire-Cut Operation,582,0,0,582
+Stainless Steel 316L Welding,582,0,0,582
+Electrical Circuit Schematic Reading,579,0,0,579
+Fanuc/Siemens 840D Controller,578,0,0,578
+Die Spotting Press Verification,577,0,0,577
+Optical Profile Projector,573,0,0,573
+Cimatron / Delcam 3D Reading,566,0,0,566
+Roughing & Finishing Cycle Setup,566,0,0,566
+Statistical Process Control (Cp/Cpk),564,0,0,564
+Coordinate Measuring Machine (CMM),558,0,0,558
+Geometric Dimensioning & Tolerancing (GD&T),558,0,0,558
+Tool Offset Calibration,556,0,0,556
+Non-Conformance Defect Logging,555,0,0,555
+Vernier/Micrometer Metrology,554,0,0,554
+G-Code & M-Code Programming,553,0,0,553
+Net-Metering Synchronization,478,0,0,478
+Earthing Pit Resistance Testing,471,0,0,471
+PV Module String Inverter Wiring,469,0,0,469
+MC4 Connector Crimping,456,0,0,456
+Roof Mounting Clamping & Anchoring,456,0,0,456
+Gas Chromatography Sampling,419,0,0,419
+SCADA Valve Control,412,0,0,412
+Anaerobic Digester Temperature Monitoring,410,0,0,410
+Biomethane Compressor Operation,403,0,0,403
+H2S Scrubber Column Maintenance,397,0,0,397
+Automated Guided Vehicle (AGV) Routing,395,0,0,395
+Pallet Center-of-Gravity Inspection,395,0,0,395
+Scrubber pH Neutralization Sampling,395,0,0,395
+Centrifuge Solid-Liquid Separation,394,0,0,394
+Conveyor Diverter Sortation Control,394,0,0,394
+SMT Feeder Setup & Component Loading,392,0,0,392
+Hazardous Material Handling & MSDS Compliance,391,0,0,391
+Automated Optical Inspection (AOI),389,0,0,389
+Dock Leveler Maneuvering,385,0,0,385
+Barcode Scanning & Bin Staging,381,0,0,381
+Electric Battery Charging Safety,379,0,0,379
+IPC-A-610 Workmanship Standard,378,0,0,378
+Solder Paste Stencil Printer Setup,378,0,0,378
+Radio Frequency (RF) Scanner Audits,377,0,0,377
+Reflow Oven Temperature Profiling,377,0,0,377
+Vacuum Distillation Column Control,377,0,0,377
+Batch Chemical Reactor Charging,375,0,0,375
+E-Way Bill & Dispatch Manifest Generation,373,0,0,373
+Exception Parcel Rerouting,372,0,0,372
+In-Process Disintegration & Hardness Test,372,0,0,372
+High-Mast Reach Stacking (11m),371,0,0,371
+cGMP Compliance & Cleanroom Protocol,369,0,0,369
+WMS (Warehouse Management System),368,0,0,368
+Rotary Tablet Press Tooling Setup,365,0,0,365
+Fluidized Bed Dryer (FBD) Operation,361,0,0,361
+4-20mA Current Loop Calibration,360,0,0,360
+Batch Manufacturing Record (BMR) Logging,359,0,0,359
+Reefer Vehicle Pre-cooling Check,353,0,0,353
+Temperature Logger Data Auditing,351,0,0,351
+MQTT Gateway Configuration,350,0,0,350
+FIFO / Expiry Batch Quarantine,348,0,0,348
+Modbus RTU & RS485 Cabling,346,0,0,346
+Blast Freezer Docking Procedure,344,0,0,344
+CAN Bus Protocol Auditing,343,0,0,343
+LoRaWAN Gateway Antenna Tuning,342,0,0,342
+Vibration Sensor Mounting on Motors,341,0,0,341
+KUKA/ABB Teach Pendant Programming,338,0,0,338
+DC Fast Charger Diagnostics,337,0,0,337
+Fixture Clamping Alignment,336,0,0,336
+MIG/MAG Synergic Welding,336,0,0,336
+BMS Firmware Flashing,333,0,0,333
+Spatter Cleaning & Tip Replacement,333,0,0,333
+Continuity Testing with Cirris,331,0,0,331
+Weld Seam Visual Inspection,331,0,0,331
+Wiring Diagram Reading,331,0,0,331
+Inverter Motor Calibration,330,0,0,330
+Sub-assembly Routing,328,0,0,328
+Regenerative Braking Troubleshooting,325,0,0,325
+Lithium-Ion Cell Sorting,322,0,0,322
+Oscilloscope Waveform Analysis,322,0,0,322
+Crimping & Terminal Pinning,321,0,0,321
+Heat Shrink Sleeving,316,0,0,316
+Spot Welding & Busbar Fastening,316,0,0,316
+High-Voltage Isolation Testing,311,0,0,311
+Thermal Runaway Protocols,311,0,0,311
+Devanagari Font Keying (Shree-Lipi),146,0,0,146
+PageMaker 7.0 Layout,141,0,0,141
+CorelDraw 12 Vector Tracing,140,0,0,140
+Visiting Card Pamphlet Typesetting,140,0,0,140
+Offset Master Printing Exposure,138,0,0,138
+Paper Form Digitization,131,0,0,131
+Alphanumeric Keyboarding 35 WPM,130,0,0,130
+Cash Deposit Challan Submission,129,0,0,129
+Manual Lettering Stencils,129,0,0,129
+Physical Inward-Outward Register Entry,129,0,0,129
+Photocopying & File Indexing,126,0,0,126
+Rotring Pen Tracing Paper Inking,124,0,0,124
+Geometric Orthographic Views Drawing,123,0,0,123
+Mini-Drafter Isometric Projection,123,0,0,123
+Courier Envelope Packing,121,0,0,121
+Pantry Tea/Coffee Serving,120,0,0,120
+Microsoft Word Typing,119,0,0,119
+Basic Excel Sheet Cell Entry,118,0,0,118
+Blue-Print Paper Ammonia Processing,116,0,0,116
+Bank Passbook Printing,114,0,0,114
+digital twin simulation,0,0,39,39
+Python scripting,0,22,29,51
+AI/ML awareness,0,0,29,29
+cloud-based ERP,0,0,29,29
+database querying,0,0,29,29
+digital printing (UV/DTF),0,0,29,29
+flexographic printing,0,0,29,29
+packaging design,0,0,29,29
+pre-press DTP software,0,0,29,29
+RPA tools,0,0,29,29
+3D CAD modelling (SolidWorks/CATIA),0,0,26,26
+BIM software,0,0,26,26
+CMM measurement,0,0,26,26
+CNC turning centres,0,0,26,26
+GD&T,0,0,26,26
+ISO 9001 documentation,0,0,26,26
+live tooling,0,0,26,26
+parametric design,0,0,26,26
+precision grinding,0,0,26,26
+simulation basics,0,0,26,26
+cold-chain reefer servicing,0,0,25,25
+heat pump systems,0,0,25,25
+IoT-enabled HVAC monitoring,0,0,25,25
+LEED commissioning,0,0,25,25
+pneumatic systems,0,19,24,43
+5S/lean manufacturing,0,0,24,24
+BIM coordination,0,0,24,24
+CNC fixture assembly,0,0,24,24
+CPVC/HDPE piping,0,0,24,24
+digital measurement,0,0,24,24
+e-commerce product listing,0,0,24,24
+ERP-based production planning,0,0,24,24
+fire suppression piping,0,0,24,24
+hydraulic fitting,0,0,24,24
+jacquard CAD design,0,0,24,24
+rainwater harvesting systems,0,0,24,24
+technical textiles,0,0,24,24
+agrivoltaic installation,0,0,23,23
+BESS integration,0,0,23,23
+bifacial module handling,0,0,23,23
+calendar management,0,0,23,23
+CRM usage,0,0,23,23
+digital transcription tools,0,0,23,23
+drone-based O&M,0,0,23,23
+SCADA monitoring,0,0,23,23
+voice-to-text software,0,0,23,23
+5G private network config,0,0,22,22
+aluminium TIG,0,0,22,22
+cybersecurity for OT networks,0,0,22,22
+digital thread,0,0,22,22
+ML-based anomaly detection,0,0,22,22
+NDT basics,0,0,22,22
+robotic welding cell operation,0,0,22,22
+structural welding codes,0,0,22,22
+underwater welding,0,0,22,22
+5-axis machining,0,0,20,20
+ECBC compliance documentation,0,0,20,20
+green rating auditing,0,0,20,20
+in-process gauging,0,0,20,20
+Mastercam post-processing,0,0,20,20
+net-zero building modelling,0,0,20,20
+robotic tending,0,0,20,20
+thermal comfort simulation,0,0,20,20
+EV charging infra,0,20,19,39
+collaborative robot (cobot) programming,0,0,19,19
+FPV racing & repair,0,0,19,19
+LiDAR data processing,0,0,19,19
+multi-spectral imaging analysis,0,0,19,19
+ROS basics,0,0,19,19
+safety PLC,0,0,19,19
+SCADA basics,0,0,19,19
+smart metering,0,0,19,19
+solar grid interconnection,0,0,19,19
+swarm drone coordination,0,0,19,19
+VFD configuration,0,0,19,19
+vision-guided robotics,0,0,19,19
+blockchain-based traceability,0,0,18,18
+EV reefer vehicle ops,0,0,18,18
+last-mile route AI,0,0,18,18
+predictive maintenance for cold rooms,0,0,18,18
+edge AI deployment,0,0,17,17
+generative AI for test data,0,0,17,17
+ISO 17025 lab accreditation,0,0,17,17
+model retraining pipelines,0,0,17,17
+battery recycling processes,0,0,7,7
+fast-charge system config,0,0,7,7
+second-life battery repurposing,0,0,7,7
+solid-state battery handling,0,0,7,7
+measurement tools,0,50,0,50
+basic internet browsing,0,29,0,29
+bindery operations,0,29,0,29
+color registration,0,29,0,29
+data formatting,0,29,0,29
+ink mixing,0,29,0,29
+MS Office,0,29,0,29
+offset press operation,0,29,0,29
+plate burning,0,29,0,29
+tally basics,0,29,0,29
+typing speed 40wpm,0,29,0,29
+2D blueprint reading,0,26,0,26
+basic AutoCAD,0,26,0,26
+boring & drilling,0,26,0,26
+coolant management,0,26,0,26
+lathe operation,0,26,0,26
+manual drawing board,0,26,0,26
+orthographic projection,0,26,0,26
+T-square drafting,0,26,0,26
+turning & facing,0,26,0,26
+AMC documentation,0,25,0,25
+BMS controls,0,25,0,25
+electrical troubleshooting,0,25,0,25
+gas charging,0,25,0,25
+refrigerant handling,0,25,0,25
+VRF systems,0,25,0,25
+assembly & fitting,0,24,0,24
+bench work,0,24,0,24
+blueprint reading,0,24,0,24
+loom maintenance,0,24,0,24
+pipe fitting,0,24,0,24
+plumbing drawings,0,24,0,24
+power loom setup,0,24,0,24
+pressure testing,0,24,0,24
+quality grading,0,24,0,24
+sanitary installation,0,24,0,24
+shuttle changeover,0,24,0,24
+surface finishing,0,24,0,24
+thread cutting,0,24,0,24
+warp/weft threading,0,24,0,24
+water treatment basics,0,24,0,24
+basic correspondence,0,23,0,23
+DC cabling,0,23,0,23
+earthing & bonding,0,23,0,23
+filing systems,0,23,0,23
+MS Word,0,23,0,23
+net metering,0,23,0,23
+Pitman shorthand,0,23,0,23
+rooftop module mounting,0,23,0,23
+string inverter commissioning,0,23,0,23
+typing speed 60wpm,0,23,0,23
+cloud dashboards,0,22,0,22
+distortion control,0,22,0,22
+edge computing,0,22,0,22
+MIG welding,0,22,0,22
+MQTT protocol,0,22,0,22
+OPC-UA,0,22,0,22
+PPE compliance,0,22,0,22
+sensor calibration,0,22,0,22
+SMAW,0,22,0,22
+TIG welding,0,22,0,22
+weld inspection,0,22,0,22
+BIM awareness,0,20,0,20
+CAD/CAM basics,0,20,0,20
+energy auditing basics,0,20,0,20
+Fanuc CNC controls,0,20,0,20
+G-code programming,0,20,0,20
+IGBC norms,0,20,0,20
+MEP coordination,0,20,0,20
+quality inspection,0,20,0,20
+rainwater harvesting,0,20,0,20
+tolerance measurement,0,20,0,20
+tool offsets,0,20,0,20
+DGCA certification,0,19,0,19
+drone maintenance,0,19,0,19
+earthing,0,19,0,19
+electrical drawings,0,19,0,19
+FANUC/KUKA commissioning,0,19,0,19
+flight planning,0,19,0,19
+geofencing,0,19,0,19
+GPS calibration,0,19,0,19
+motor winding,0,19,0,19
+panel wiring,0,19,0,19
+payload operations,0,19,0,19
+PLC basics,0,19,0,19
+PLC programming,0,19,0,19
+robot teach pendant,0,19,0,19
+safety regulations,0,19,0,19
+servo motor calibration,0,19,0,19
+FSSAI cold-chain norms,0,18,0,18
+inventory management,0,18,0,18
+reefer truck ops,0,18,0,18
+temperature monitoring,0,18,0,18
+WMS software,0,18,0,18
+CMM operation,0,17,0,17
+computer vision basics,0,17,0,17
+defect classification,0,17,0,17
+image annotation,0,17,0,17
+Python/ML awareness,0,17,0,17
+SPC analysis,0,17,0,17
+BMS calibration,0,7,0,7
+DC bus wiring,0,7,0,7
+EV safety protocols,0,7,0,7
+Li-ion cell handling,0,7,0,7
+spot welding,0,7,0,7
+thermal management,0,7,0,7

@@ -1,0 +1,305 @@
+raw_skill,job_demand_count,training_taught_count,training_gap_count,canonical_skill,skill_id,skill_family,sector,method,confidence,review_status
+GTAW Pipe 6G Position,605,0,0,GTAW/TIG Welding,SK006,Welding & Fabrication,Advanced Manufacturing,exact_alias,1.0000,AUTO_ACCEPT
+Allen-Bradley/Siemens S7 PLC,595,0,0,PLC Programming & Configuration,SK001,Industrial Automation,Advanced Manufacturing,exact_alias,1.0000,AUTO_ACCEPT
+Radiographic Testing Quality Standard,595,0,0,Radiographic Testing,SK011,NDT & Quality,Advanced Manufacturing,exact_alias,1.0000,AUTO_ACCEPT
+VFD Parameter Configuration,594,0,0,VFD Configuration,SK003,Industrial Automation,Advanced Manufacturing,exact_alias,1.0000,AUTO_ACCEPT
+Bevel Edge Preparation,593,0,0,Bevel Edge Preparation,SK010,Welding & Fabrication,Advanced Manufacturing,exact_alias,1.0000,AUTO_ACCEPT
+Surface Grinding to 5-Micron Tolerance,592,0,0,Surface Grinding,SK012,Precision Manufacturing,Advanced Manufacturing,exact_alias,1.0000,AUTO_ACCEPT
+3-Phase Motor Star-Delta Starter,591,0,0,Industrial Electrical Systems,SK004,Industrial Electrical,Advanced Manufacturing,exact_alias,1.0000,AUTO_ACCEPT
+Argon Back-Purging Setup,587,0,0,Gas Purging,SK008,Welding & Fabrication,Advanced Manufacturing,exact_alias,1.0000,AUTO_ACCEPT
+Ladder Logic Troubleshooting,585,0,0,PLC Troubleshooting,SK002,Industrial Automation,Advanced Manufacturing,exact_alias,1.0000,AUTO_ACCEPT
+Injection Mould Assembly,583,0,0,Injection Mould Assembly,SK013,Tooling & Moulding,Advanced Manufacturing,exact_alias,1.0000,AUTO_ACCEPT
+EDM Wire-Cut Operation,582,0,0,EDM Wire-Cut Operation,SK014,Precision Manufacturing,Advanced Manufacturing,exact_alias,1.0000,AUTO_ACCEPT
+Stainless Steel 316L Welding,582,0,0,Stainless Steel Welding,SK009,Welding & Fabrication,Advanced Manufacturing,exact_alias,1.0000,AUTO_ACCEPT
+Electrical Circuit Schematic Reading,579,0,0,Electrical Schematic Reading,SK005,Industrial Electrical,Advanced Manufacturing,exact_alias,1.0000,AUTO_ACCEPT
+Fanuc/Siemens 840D Controller,578,0,0,CNC Controller Operation,SK015,CNC Manufacturing,Advanced Manufacturing,exact_alias,1.0000,AUTO_ACCEPT
+Die Spotting Press Verification,577,0,0,,,,,unmatched,0.3821,NEW_TAXONOMY_REQUIRED
+Optical Profile Projector,573,0,0,Optical Profile Measurement,SK024,Quality & Metrology,Advanced Manufacturing,exact_alias,1.0000,AUTO_ACCEPT
+Cimatron / Delcam 3D Reading,566,0,0,CAD/CAM Toolpath Reading,SK025,CAD/CAM,Advanced Manufacturing,exact_alias,1.0000,AUTO_ACCEPT
+Roughing & Finishing Cycle Setup,566,0,0,CNC Cycle Setup,SK016,CNC Manufacturing,Advanced Manufacturing,exact_alias,1.0000,AUTO_ACCEPT
+Statistical Process Control (Cp/Cpk),564,0,0,Statistical Process Control,SK022,Quality & Metrology,Advanced Manufacturing,exact_alias,1.0000,AUTO_ACCEPT
+Coordinate Measuring Machine (CMM),558,0,0,Coordinate Measuring Machine,SK020,CMM & Inspection,Advanced Manufacturing,exact_alias,1.0000,AUTO_ACCEPT
+Geometric Dimensioning & Tolerancing (GD&T),558,0,0,Geometric Dimensioning & Tolerancing,SK021,Quality & Metrology,Advanced Manufacturing,exact_alias,1.0000,AUTO_ACCEPT
+Tool Offset Calibration,556,0,0,Tool Offset Calibration,SK018,CNC Manufacturing,Advanced Manufacturing,exact_alias,1.0000,AUTO_ACCEPT
+Non-Conformance Defect Logging,555,0,0,Defect Logging,SK023,Quality & Metrology,Advanced Manufacturing,exact_alias,1.0000,AUTO_ACCEPT
+Vernier/Micrometer Metrology,554,0,0,Metrology,SK019,Quality & Metrology,Advanced Manufacturing,exact_alias,1.0000,AUTO_ACCEPT
+G-Code & M-Code Programming,553,0,0,CNC Programming,SK017,CNC Manufacturing,Advanced Manufacturing,exact_alias,1.0000,AUTO_ACCEPT
+Net-Metering Synchronization,478,0,0,Net Metering,SK029,Solar Energy,Green Energy,exact_alias,1.0000,AUTO_ACCEPT
+Earthing Pit Resistance Testing,471,0,0,Electrical Earthing Testing,SK030,Electrical Safety,Green Energy,exact_alias,1.0000,AUTO_ACCEPT
+PV Module String Inverter Wiring,469,0,0,PV System Wiring,SK026,Solar Energy,Green Energy,exact_alias,1.0000,AUTO_ACCEPT
+MC4 Connector Crimping,456,0,0,MC4 Connector Crimping,SK027,Solar Energy,Green Energy,exact_alias,1.0000,AUTO_ACCEPT
+Roof Mounting Clamping & Anchoring,456,0,0,Roof-Mounted Solar Installation,SK028,Solar Installation,Green Energy,exact_alias,1.0000,AUTO_ACCEPT
+Gas Chromatography Sampling,419,0,0,Gas Chromatography Sampling,SK035,Analytical Chemistry,Pharmaceuticals & Chemical,exact_alias,1.0000,AUTO_ACCEPT
+SCADA Valve Control,412,0,0,SCADA Control Systems,SK031,Industrial Automation,Green Energy,exact_alias,1.0000,AUTO_ACCEPT
+Anaerobic Digester Temperature Monitoring,410,0,0,Anaerobic Digester Operations,SK032,Biogas Systems,Green Energy,exact_alias,1.0000,AUTO_ACCEPT
+Biomethane Compressor Operation,403,0,0,Biomethane Compressor Operation,SK033,Biogas Systems,Green Energy,exact_alias,1.0000,AUTO_ACCEPT
+H2S Scrubber Column Maintenance,397,0,0,H2S Scrubber Maintenance,SK034,Biogas Systems,Green Energy,exact_alias,1.0000,AUTO_ACCEPT
+Automated Guided Vehicle (AGV) Routing,395,0,0,AGV Routing,SK038,Warehouse Automation,Logistics & Supply Chain,exact_alias,1.0000,AUTO_ACCEPT
+Pallet Center-of-Gravity Inspection,395,0,0,Material Handling,SK039,Warehouse Operations,Logistics & Supply Chain,exact_alias,1.0000,AUTO_ACCEPT
+Scrubber pH Neutralization Sampling,395,0,0,pH Neutralization Sampling,SK036,Chemical Processing,Pharmaceuticals & Chemical,exact_alias,1.0000,AUTO_ACCEPT
+Centrifuge Solid-Liquid Separation,394,0,0,Centrifuge Operation,SK037,Chemical Processing,Pharmaceuticals & Chemical,exact_alias,1.0000,AUTO_ACCEPT
+Conveyor Diverter Sortation Control,394,0,0,Conveyor Sortation,SK040,Warehouse Automation,Logistics & Supply Chain,exact_alias,1.0000,AUTO_ACCEPT
+SMT Feeder Setup & Component Loading,392,0,0,,,,,unmatched,0.2803,NEW_TAXONOMY_REQUIRED
+Hazardous Material Handling & MSDS Compliance,391,0,0,,,,,unmatched,0.4504,NEW_TAXONOMY_REQUIRED
+Automated Optical Inspection (AOI),389,0,0,,,,,unmatched,0.6518,NEW_TAXONOMY_REQUIRED
+Dock Leveler Maneuvering,385,0,0,,,,,unmatched,0.5698,NEW_TAXONOMY_REQUIRED
+Barcode Scanning & Bin Staging,381,0,0,,,,,unmatched,0.3493,NEW_TAXONOMY_REQUIRED
+Electric Battery Charging Safety,379,0,0,,,,,unmatched,0.4864,NEW_TAXONOMY_REQUIRED
+IPC-A-610 Workmanship Standard,378,0,0,,,,,unmatched,0.3204,NEW_TAXONOMY_REQUIRED
+Solder Paste Stencil Printer Setup,378,0,0,,,,,unmatched,0.3431,NEW_TAXONOMY_REQUIRED
+Radio Frequency (RF) Scanner Audits,377,0,0,,,,,unmatched,0.4942,NEW_TAXONOMY_REQUIRED
+Reflow Oven Temperature Profiling,377,0,0,,,,,unmatched,0.3497,NEW_TAXONOMY_REQUIRED
+Vacuum Distillation Column Control,377,0,0,,,,,unmatched,0.3738,NEW_TAXONOMY_REQUIRED
+Batch Chemical Reactor Charging,375,0,0,,,,,unmatched,0.3636,NEW_TAXONOMY_REQUIRED
+E-Way Bill & Dispatch Manifest Generation,373,0,0,,,,,unmatched,0.2769,NEW_TAXONOMY_REQUIRED
+Exception Parcel Rerouting,372,0,0,,,,,unmatched,0.2246,NEW_TAXONOMY_REQUIRED
+In-Process Disintegration & Hardness Test,372,0,0,,,,,unmatched,0.3191,NEW_TAXONOMY_REQUIRED
+High-Mast Reach Stacking (11m),371,0,0,,,,,unmatched,0.2858,NEW_TAXONOMY_REQUIRED
+cGMP Compliance & Cleanroom Protocol,369,0,0,,,,,unmatched,0.3996,NEW_TAXONOMY_REQUIRED
+WMS (Warehouse Management System),368,0,0,,,,,unmatched,0.3868,NEW_TAXONOMY_REQUIRED
+Rotary Tablet Press Tooling Setup,365,0,0,,,,,unmatched,0.4301,NEW_TAXONOMY_REQUIRED
+Fluidized Bed Dryer (FBD) Operation,361,0,0,,,,,unmatched,0.3213,NEW_TAXONOMY_REQUIRED
+4-20mA Current Loop Calibration,360,0,0,,,,,unmatched,0.4259,NEW_TAXONOMY_REQUIRED
+Batch Manufacturing Record (BMR) Logging,359,0,0,,,,,unmatched,0.4486,NEW_TAXONOMY_REQUIRED
+Reefer Vehicle Pre-cooling Check,353,0,0,,,,,unmatched,0.3141,NEW_TAXONOMY_REQUIRED
+Temperature Logger Data Auditing,351,0,0,,,,,unmatched,0.5167,NEW_TAXONOMY_REQUIRED
+MQTT Gateway Configuration,350,0,0,,,,,unmatched,0.3064,NEW_TAXONOMY_REQUIRED
+FIFO / Expiry Batch Quarantine,348,0,0,,,,,unmatched,0.2216,NEW_TAXONOMY_REQUIRED
+Modbus RTU & RS485 Cabling,346,0,0,,,,,unmatched,0.3052,NEW_TAXONOMY_REQUIRED
+Blast Freezer Docking Procedure,344,0,0,,,,,unmatched,0.4090,NEW_TAXONOMY_REQUIRED
+CAN Bus Protocol Auditing,343,0,0,,,,,unmatched,0.3381,NEW_TAXONOMY_REQUIRED
+LoRaWAN Gateway Antenna Tuning,342,0,0,,,,,unmatched,0.2313,NEW_TAXONOMY_REQUIRED
+Vibration Sensor Mounting on Motors,341,0,0,,,,,unmatched,0.4216,NEW_TAXONOMY_REQUIRED
+KUKA/ABB Teach Pendant Programming,338,0,0,Robotics Programming,SK041,Industrial Robotics,Automotive & EV,semantic_candidate,0.7536,REVIEW_REQUIRED
+DC Fast Charger Diagnostics,337,0,0,,,,,unmatched,0.3695,NEW_TAXONOMY_REQUIRED
+Fixture Clamping Alignment,336,0,0,,,,,unmatched,0.4619,NEW_TAXONOMY_REQUIRED
+MIG/MAG Synergic Welding,336,0,0,,,,,unmatched,0.6724,NEW_TAXONOMY_REQUIRED
+BMS Firmware Flashing,333,0,0,,,,,unmatched,0.2413,NEW_TAXONOMY_REQUIRED
+Spatter Cleaning & Tip Replacement,333,0,0,,,,,unmatched,0.3779,NEW_TAXONOMY_REQUIRED
+Continuity Testing with Cirris,331,0,0,,,,,unmatched,0.2806,NEW_TAXONOMY_REQUIRED
+Weld Seam Visual Inspection,331,0,0,,,,,unmatched,0.5055,NEW_TAXONOMY_REQUIRED
+Wiring Diagram Reading,331,0,0,,,,,unmatched,0.6970,NEW_TAXONOMY_REQUIRED
+Inverter Motor Calibration,330,0,0,,,,,unmatched,0.6261,NEW_TAXONOMY_REQUIRED
+Sub-assembly Routing,328,0,0,,,,,unmatched,0.4455,NEW_TAXONOMY_REQUIRED
+Regenerative Braking Troubleshooting,325,0,0,,,,,unmatched,0.2857,NEW_TAXONOMY_REQUIRED
+Lithium-Ion Cell Sorting,322,0,0,,,,,unmatched,0.3633,NEW_TAXONOMY_REQUIRED
+Oscilloscope Waveform Analysis,322,0,0,,,,,unmatched,0.3978,NEW_TAXONOMY_REQUIRED
+Crimping & Terminal Pinning,321,0,0,,,,,unmatched,0.5443,NEW_TAXONOMY_REQUIRED
+Heat Shrink Sleeving,316,0,0,,,,,unmatched,0.2806,NEW_TAXONOMY_REQUIRED
+Spot Welding & Busbar Fastening,316,0,0,,,,,unmatched,0.5820,NEW_TAXONOMY_REQUIRED
+High-Voltage Isolation Testing,311,0,0,,,,,unmatched,0.4500,NEW_TAXONOMY_REQUIRED
+Thermal Runaway Protocols,311,0,0,,,,,unmatched,0.2967,NEW_TAXONOMY_REQUIRED
+Devanagari Font Keying (Shree-Lipi),146,0,0,,,,,unmatched,0.1948,NEW_TAXONOMY_REQUIRED
+PageMaker 7.0 Layout,141,0,0,Desktop Publishing,SK069,Office Administration,Legacy Administrative,semantic_candidate,0.7527,REVIEW_REQUIRED
+CorelDraw 12 Vector Tracing,140,0,0,,,,,unmatched,0.3420,NEW_TAXONOMY_REQUIRED
+Visiting Card Pamphlet Typesetting,140,0,0,,,,,unmatched,0.2743,NEW_TAXONOMY_REQUIRED
+Offset Master Printing Exposure,138,0,0,,,,,unmatched,0.4226,NEW_TAXONOMY_REQUIRED
+Paper Form Digitization,131,0,0,,,,,unmatched,0.3325,NEW_TAXONOMY_REQUIRED
+Alphanumeric Keyboarding 35 WPM,130,0,0,,,,,unmatched,0.2578,NEW_TAXONOMY_REQUIRED
+Cash Deposit Challan Submission,129,0,0,,,,,unmatched,0.3016,NEW_TAXONOMY_REQUIRED
+Manual Lettering Stencils,129,0,0,,,,,unmatched,0.4830,NEW_TAXONOMY_REQUIRED
+Physical Inward-Outward Register Entry,129,0,0,,,,,unmatched,0.3351,NEW_TAXONOMY_REQUIRED
+Photocopying & File Indexing,126,0,0,,,,,unmatched,0.3387,NEW_TAXONOMY_REQUIRED
+Rotring Pen Tracing Paper Inking,124,0,0,,,,,unmatched,0.3278,NEW_TAXONOMY_REQUIRED
+Geometric Orthographic Views Drawing,123,0,0,,,,,unmatched,0.6347,NEW_TAXONOMY_REQUIRED
+Mini-Drafter Isometric Projection,123,0,0,,,,,unmatched,0.3395,NEW_TAXONOMY_REQUIRED
+Courier Envelope Packing,121,0,0,,,,,unmatched,0.2671,NEW_TAXONOMY_REQUIRED
+Pantry Tea/Coffee Serving,120,0,0,,,,,unmatched,0.2212,NEW_TAXONOMY_REQUIRED
+Microsoft Word Typing,119,0,0,,,,,unmatched,0.3652,NEW_TAXONOMY_REQUIRED
+Basic Excel Sheet Cell Entry,118,0,0,,,,,unmatched,0.6670,NEW_TAXONOMY_REQUIRED
+Blue-Print Paper Ammonia Processing,116,0,0,,,,,unmatched,0.3271,NEW_TAXONOMY_REQUIRED
+Bank Passbook Printing,114,0,0,,,,,unmatched,0.2765,NEW_TAXONOMY_REQUIRED
+digital twin simulation,0,0,39,Digital Twin,SK047,Industrial Digitalization,Automotive & EV,semantic_candidate,0.7524,REVIEW_REQUIRED
+Python scripting,0,22,29,Python,SK056,Programming,Electronics & IoT,semantic_candidate,0.8293,REVIEW_REQUIRED
+AI/ML awareness,0,0,29,,,,,unmatched,0.5450,NEW_TAXONOMY_REQUIRED
+cloud-based ERP,0,0,29,,,,,unmatched,0.6112,NEW_TAXONOMY_REQUIRED
+database querying,0,0,29,SQL,SK057,Data & Databases,Electronics & IoT,semantic_candidate,0.8487,REVIEW_REQUIRED
+digital printing (UV/DTF),0,0,29,,,,,unmatched,0.4079,NEW_TAXONOMY_REQUIRED
+flexographic printing,0,0,29,,,,,unmatched,0.3781,NEW_TAXONOMY_REQUIRED
+packaging design,0,0,29,,,,,unmatched,0.4332,NEW_TAXONOMY_REQUIRED
+pre-press DTP software,0,0,29,,,,,unmatched,0.6458,NEW_TAXONOMY_REQUIRED
+RPA tools,0,0,29,,,,,unmatched,0.3705,NEW_TAXONOMY_REQUIRED
+3D CAD modelling (SolidWorks/CATIA),0,0,26,,,,,unmatched,0.4939,NEW_TAXONOMY_REQUIRED
+BIM software,0,0,26,,,,,unmatched,0.5557,NEW_TAXONOMY_REQUIRED
+CMM measurement,0,0,26,Coordinate Measuring Machine,SK020,CMM & Inspection,Advanced Manufacturing,semantic_candidate,0.7574,REVIEW_REQUIRED
+CNC turning centres,0,0,26,,,,,unmatched,0.6049,NEW_TAXONOMY_REQUIRED
+GD&T,0,0,26,Geometric Dimensioning & Tolerancing,SK021,Quality & Metrology,Advanced Manufacturing,exact_alias,1.0000,AUTO_ACCEPT
+ISO 9001 documentation,0,0,26,,,,,unmatched,0.2550,NEW_TAXONOMY_REQUIRED
+live tooling,0,0,26,,,,,unmatched,0.4576,NEW_TAXONOMY_REQUIRED
+parametric design,0,0,26,,,,,unmatched,0.3481,NEW_TAXONOMY_REQUIRED
+precision grinding,0,0,26,Surface Grinding,SK012,Precision Manufacturing,Advanced Manufacturing,exact_alias,1.0000,AUTO_ACCEPT
+simulation basics,0,0,26,,,,,unmatched,0.3367,NEW_TAXONOMY_REQUIRED
+cold-chain reefer servicing,0,0,25,,,,,unmatched,0.2801,NEW_TAXONOMY_REQUIRED
+heat pump systems,0,0,25,,,,,unmatched,0.4446,NEW_TAXONOMY_REQUIRED
+IoT-enabled HVAC monitoring,0,0,25,,,,,unmatched,0.5732,NEW_TAXONOMY_REQUIRED
+LEED commissioning,0,0,25,,,,,unmatched,0.5429,NEW_TAXONOMY_REQUIRED
+pneumatic systems,0,19,24,Pneumatic Systems,SK045,Pneumatics,Automotive & EV,exact_alias,1.0000,AUTO_ACCEPT
+5S/lean manufacturing,0,0,24,,,,,unmatched,0.3853,NEW_TAXONOMY_REQUIRED
+BIM coordination,0,0,24,,,,,unmatched,0.4587,NEW_TAXONOMY_REQUIRED
+CNC fixture assembly,0,0,24,,,,,unmatched,0.5364,NEW_TAXONOMY_REQUIRED
+CPVC/HDPE piping,0,0,24,,,,,unmatched,0.3629,NEW_TAXONOMY_REQUIRED
+digital measurement,0,0,24,,,,,unmatched,0.5989,NEW_TAXONOMY_REQUIRED
+e-commerce product listing,0,0,24,,,,,unmatched,0.2667,NEW_TAXONOMY_REQUIRED
+ERP-based production planning,0,0,24,,,,,unmatched,0.3572,NEW_TAXONOMY_REQUIRED
+fire suppression piping,0,0,24,,,,,unmatched,0.5148,NEW_TAXONOMY_REQUIRED
+hydraulic fitting,0,0,24,,,,,unmatched,0.3774,NEW_TAXONOMY_REQUIRED
+jacquard CAD design,0,0,24,,,,,unmatched,0.3079,NEW_TAXONOMY_REQUIRED
+rainwater harvesting systems,0,0,24,,,,,unmatched,0.2916,NEW_TAXONOMY_REQUIRED
+technical textiles,0,0,24,,,,,unmatched,0.5055,NEW_TAXONOMY_REQUIRED
+agrivoltaic installation,0,0,23,,,,,unmatched,0.5447,NEW_TAXONOMY_REQUIRED
+BESS integration,0,0,23,,,,,unmatched,0.2693,NEW_TAXONOMY_REQUIRED
+bifacial module handling,0,0,23,,,,,unmatched,0.2909,NEW_TAXONOMY_REQUIRED
+calendar management,0,0,23,,,,,unmatched,0.2996,NEW_TAXONOMY_REQUIRED
+CRM usage,0,0,23,,,,,unmatched,0.3443,NEW_TAXONOMY_REQUIRED
+digital transcription tools,0,0,23,,,,,unmatched,0.3569,NEW_TAXONOMY_REQUIRED
+drone-based O&M,0,0,23,,,,,unmatched,0.4256,NEW_TAXONOMY_REQUIRED
+SCADA monitoring,0,0,23,SCADA Control Systems,SK031,Industrial Automation,Green Energy,semantic_candidate,0.8094,REVIEW_REQUIRED
+voice-to-text software,0,0,23,,,,,unmatched,0.3470,NEW_TAXONOMY_REQUIRED
+5G private network config,0,0,22,,,,,unmatched,0.2392,NEW_TAXONOMY_REQUIRED
+aluminium TIG,0,0,22,,,,,unmatched,0.5763,NEW_TAXONOMY_REQUIRED
+cybersecurity for OT networks,0,0,22,,,,,unmatched,0.3606,NEW_TAXONOMY_REQUIRED
+digital thread,0,0,22,,,,,unmatched,0.4514,NEW_TAXONOMY_REQUIRED
+ML-based anomaly detection,0,0,22,,,,,unmatched,0.3726,NEW_TAXONOMY_REQUIRED
+NDT basics,0,0,22,,,,,unmatched,0.2821,NEW_TAXONOMY_REQUIRED
+robotic welding cell operation,0,0,22,,,,,unmatched,0.6433,NEW_TAXONOMY_REQUIRED
+structural welding codes,0,0,22,,,,,unmatched,0.6311,NEW_TAXONOMY_REQUIRED
+underwater welding,0,0,22,,,,,unmatched,0.6850,NEW_TAXONOMY_REQUIRED
+5-axis machining,0,0,20,,,,,unmatched,0.5235,NEW_TAXONOMY_REQUIRED
+ECBC compliance documentation,0,0,20,,,,,unmatched,0.2922,NEW_TAXONOMY_REQUIRED
+green rating auditing,0,0,20,,,,,unmatched,0.3406,NEW_TAXONOMY_REQUIRED
+in-process gauging,0,0,20,,,,,unmatched,0.5127,NEW_TAXONOMY_REQUIRED
+Mastercam post-processing,0,0,20,,,,,unmatched,0.5322,NEW_TAXONOMY_REQUIRED
+net-zero building modelling,0,0,20,,,,,unmatched,0.3730,NEW_TAXONOMY_REQUIRED
+robotic tending,0,0,20,,,,,unmatched,0.5846,NEW_TAXONOMY_REQUIRED
+thermal comfort simulation,0,0,20,,,,,unmatched,0.2918,NEW_TAXONOMY_REQUIRED
+EV charging infra,0,20,19,EV Battery Technology,SK043,EV Systems,Automotive & EV,semantic_candidate,0.7358,REVIEW_REQUIRED
+collaborative robot (cobot) programming,0,0,19,Collaborative Robotics,SK046,Industrial Robotics,Automotive & EV,semantic_candidate,0.8063,REVIEW_REQUIRED
+FPV racing & repair,0,0,19,,,,,unmatched,0.2937,NEW_TAXONOMY_REQUIRED
+LiDAR data processing,0,0,19,,,,,unmatched,0.3802,NEW_TAXONOMY_REQUIRED
+multi-spectral imaging analysis,0,0,19,,,,,unmatched,0.4036,NEW_TAXONOMY_REQUIRED
+ROS basics,0,0,19,ROS Basics,SK049,Robotics Software,Automotive & EV,exact_alias,1.0000,AUTO_ACCEPT
+safety PLC,0,0,19,,,,,unmatched,0.6479,NEW_TAXONOMY_REQUIRED
+SCADA basics,0,0,19,SCADA Control Systems,SK031,Industrial Automation,Green Energy,semantic_candidate,0.8757,REVIEW_REQUIRED
+smart metering,0,0,19,,,,,unmatched,0.7080,NEW_TAXONOMY_REQUIRED
+solar grid interconnection,0,0,19,,,,,unmatched,0.5928,NEW_TAXONOMY_REQUIRED
+swarm drone coordination,0,0,19,,,,,unmatched,0.4430,NEW_TAXONOMY_REQUIRED
+VFD configuration,0,0,19,VFD Configuration,SK003,Industrial Automation,Advanced Manufacturing,exact_alias,1.0000,AUTO_ACCEPT
+vision-guided robotics,0,0,19,Machine Vision,SK048,Industrial AI,Automotive & EV,exact_alias,1.0000,AUTO_ACCEPT
+blockchain-based traceability,0,0,18,,,,,unmatched,0.3708,NEW_TAXONOMY_REQUIRED
+EV reefer vehicle ops,0,0,18,,,,,unmatched,0.5223,NEW_TAXONOMY_REQUIRED
+last-mile route AI,0,0,18,,,,,unmatched,0.4744,NEW_TAXONOMY_REQUIRED
+predictive maintenance for cold rooms,0,0,18,,,,,unmatched,0.3800,NEW_TAXONOMY_REQUIRED
+edge AI deployment,0,0,17,,,,,unmatched,0.3913,NEW_TAXONOMY_REQUIRED
+generative AI for test data,0,0,17,,,,,unmatched,0.4156,NEW_TAXONOMY_REQUIRED
+ISO 17025 lab accreditation,0,0,17,,,,,unmatched,0.3859,NEW_TAXONOMY_REQUIRED
+model retraining pipelines,0,0,17,,,,,unmatched,0.4390,NEW_TAXONOMY_REQUIRED
+battery recycling processes,0,0,7,,,,,unmatched,0.4958,NEW_TAXONOMY_REQUIRED
+fast-charge system config,0,0,7,,,,,unmatched,0.3081,NEW_TAXONOMY_REQUIRED
+second-life battery repurposing,0,0,7,,,,,unmatched,0.4211,NEW_TAXONOMY_REQUIRED
+solid-state battery handling,0,0,7,,,,,unmatched,0.4669,NEW_TAXONOMY_REQUIRED
+measurement tools,0,50,0,,,,,unmatched,0.6548,NEW_TAXONOMY_REQUIRED
+basic internet browsing,0,29,0,,,,,unmatched,0.4029,NEW_TAXONOMY_REQUIRED
+bindery operations,0,29,0,,,,,unmatched,0.3708,NEW_TAXONOMY_REQUIRED
+color registration,0,29,0,,,,,unmatched,0.3903,NEW_TAXONOMY_REQUIRED
+data formatting,0,29,0,,,,,unmatched,0.5137,NEW_TAXONOMY_REQUIRED
+ink mixing,0,29,0,,,,,unmatched,0.3997,NEW_TAXONOMY_REQUIRED
+MS Office,0,29,0,,,,,unmatched,0.5401,NEW_TAXONOMY_REQUIRED
+offset press operation,0,29,0,,,,,unmatched,0.6322,NEW_TAXONOMY_REQUIRED
+plate burning,0,29,0,,,,,unmatched,0.3309,NEW_TAXONOMY_REQUIRED
+tally basics,0,29,0,,,,,unmatched,0.3691,NEW_TAXONOMY_REQUIRED
+typing speed 40wpm,0,29,0,,,,,unmatched,0.2733,NEW_TAXONOMY_REQUIRED
+2D blueprint reading,0,26,0,,,,,unmatched,0.5333,NEW_TAXONOMY_REQUIRED
+basic AutoCAD,0,26,0,,,,,unmatched,0.4753,NEW_TAXONOMY_REQUIRED
+boring & drilling,0,26,0,,,,,unmatched,0.3962,NEW_TAXONOMY_REQUIRED
+coolant management,0,26,0,,,,,unmatched,0.3281,NEW_TAXONOMY_REQUIRED
+lathe operation,0,26,0,,,,,unmatched,0.3327,NEW_TAXONOMY_REQUIRED
+manual drawing board,0,26,0,,,,,unmatched,0.5230,NEW_TAXONOMY_REQUIRED
+orthographic projection,0,26,0,,,,,unmatched,0.4416,NEW_TAXONOMY_REQUIRED
+T-square drafting,0,26,0,,,,,unmatched,0.3678,NEW_TAXONOMY_REQUIRED
+turning & facing,0,26,0,,,,,unmatched,0.2701,NEW_TAXONOMY_REQUIRED
+AMC documentation,0,25,0,,,,,unmatched,0.3181,NEW_TAXONOMY_REQUIRED
+BMS controls,0,25,0,,,,,unmatched,0.3928,NEW_TAXONOMY_REQUIRED
+electrical troubleshooting,0,25,0,,,,,unmatched,0.4898,NEW_TAXONOMY_REQUIRED
+gas charging,0,25,0,,,,,unmatched,0.5380,NEW_TAXONOMY_REQUIRED
+refrigerant handling,0,25,0,,,,,unmatched,0.4049,NEW_TAXONOMY_REQUIRED
+VRF systems,0,25,0,,,,,unmatched,0.4480,NEW_TAXONOMY_REQUIRED
+assembly & fitting,0,24,0,,,,,unmatched,0.5546,NEW_TAXONOMY_REQUIRED
+bench work,0,24,0,,,,,unmatched,0.2771,NEW_TAXONOMY_REQUIRED
+blueprint reading,0,24,0,,,,,unmatched,0.4462,NEW_TAXONOMY_REQUIRED
+loom maintenance,0,24,0,,,,,unmatched,0.4058,NEW_TAXONOMY_REQUIRED
+pipe fitting,0,24,0,,,,,unmatched,0.6221,NEW_TAXONOMY_REQUIRED
+plumbing drawings,0,24,0,,,,,unmatched,0.4523,NEW_TAXONOMY_REQUIRED
+power loom setup,0,24,0,,,,,unmatched,0.3433,NEW_TAXONOMY_REQUIRED
+pressure testing,0,24,0,,,,,unmatched,0.4052,NEW_TAXONOMY_REQUIRED
+quality grading,0,24,0,,,,,unmatched,0.4497,NEW_TAXONOMY_REQUIRED
+sanitary installation,0,24,0,,,,,unmatched,0.3312,NEW_TAXONOMY_REQUIRED
+shuttle changeover,0,24,0,,,,,unmatched,0.3405,NEW_TAXONOMY_REQUIRED
+surface finishing,0,24,0,,,,,unmatched,0.5441,NEW_TAXONOMY_REQUIRED
+thread cutting,0,24,0,,,,,unmatched,0.4970,NEW_TAXONOMY_REQUIRED
+warp/weft threading,0,24,0,,,,,unmatched,0.3513,NEW_TAXONOMY_REQUIRED
+water treatment basics,0,24,0,,,,,unmatched,0.3951,NEW_TAXONOMY_REQUIRED
+basic correspondence,0,23,0,,,,,unmatched,0.3800,NEW_TAXONOMY_REQUIRED
+DC cabling,0,23,0,,,,,unmatched,0.4296,NEW_TAXONOMY_REQUIRED
+earthing & bonding,0,23,0,,,,,unmatched,0.5783,NEW_TAXONOMY_REQUIRED
+filing systems,0,23,0,,,,,unmatched,0.3780,NEW_TAXONOMY_REQUIRED
+MS Word,0,23,0,,,,,unmatched,0.4885,NEW_TAXONOMY_REQUIRED
+net metering,0,23,0,Net Metering,SK029,Solar Energy,Green Energy,exact_alias,1.0000,AUTO_ACCEPT
+Pitman shorthand,0,23,0,,,,,unmatched,0.5709,NEW_TAXONOMY_REQUIRED
+rooftop module mounting,0,23,0,,,,,unmatched,0.6773,NEW_TAXONOMY_REQUIRED
+string inverter commissioning,0,23,0,,,,,unmatched,0.6024,NEW_TAXONOMY_REQUIRED
+typing speed 60wpm,0,23,0,,,,,unmatched,0.2733,NEW_TAXONOMY_REQUIRED
+cloud dashboards,0,22,0,,,,,unmatched,0.5796,NEW_TAXONOMY_REQUIRED
+distortion control,0,22,0,,,,,unmatched,0.4216,NEW_TAXONOMY_REQUIRED
+edge computing,0,22,0,,,,,unmatched,0.4327,NEW_TAXONOMY_REQUIRED
+MIG welding,0,22,0,GTAW/TIG Welding,SK006,Welding & Fabrication,Advanced Manufacturing,semantic_candidate,0.7553,REVIEW_REQUIRED
+MQTT protocol,0,22,0,,,,,unmatched,0.3491,NEW_TAXONOMY_REQUIRED
+OPC-UA,0,22,0,,,,,unmatched,0.4952,NEW_TAXONOMY_REQUIRED
+PPE compliance,0,22,0,,,,,unmatched,0.2565,NEW_TAXONOMY_REQUIRED
+sensor calibration,0,22,0,,,,,unmatched,0.6360,NEW_TAXONOMY_REQUIRED
+SMAW,0,22,0,,,,,unmatched,0.5619,NEW_TAXONOMY_REQUIRED
+TIG welding,0,22,0,GTAW/TIG Welding,SK006,Welding & Fabrication,Advanced Manufacturing,exact_alias,1.0000,AUTO_ACCEPT
+weld inspection,0,22,0,,,,,unmatched,0.6297,NEW_TAXONOMY_REQUIRED
+BIM awareness,0,20,0,,,,,unmatched,0.4632,NEW_TAXONOMY_REQUIRED
+CAD/CAM basics,0,20,0,,,,,unmatched,0.7107,NEW_TAXONOMY_REQUIRED
+energy auditing basics,0,20,0,,,,,unmatched,0.3632,NEW_TAXONOMY_REQUIRED
+Fanuc CNC controls,0,20,0,CNC Controller Operation,SK015,CNC Manufacturing,Advanced Manufacturing,semantic_candidate,0.7644,REVIEW_REQUIRED
+G-code programming,0,20,0,CNC Programming,SK017,CNC Manufacturing,Advanced Manufacturing,semantic_candidate,0.8803,REVIEW_REQUIRED
+IGBC norms,0,20,0,,,,,unmatched,0.2198,NEW_TAXONOMY_REQUIRED
+MEP coordination,0,20,0,,,,,unmatched,0.3422,NEW_TAXONOMY_REQUIRED
+quality inspection,0,20,0,AI Quality Inspection,SK050,Industrial AI,Automotive & EV,semantic_candidate,0.7724,REVIEW_REQUIRED
+rainwater harvesting,0,20,0,,,,,unmatched,0.2749,NEW_TAXONOMY_REQUIRED
+tolerance measurement,0,20,0,,,,,unmatched,0.4155,NEW_TAXONOMY_REQUIRED
+tool offsets,0,20,0,Tool Offset Calibration,SK018,CNC Manufacturing,Advanced Manufacturing,semantic_candidate,0.9714,REVIEW_REQUIRED
+DGCA certification,0,19,0,,,,,unmatched,0.2792,NEW_TAXONOMY_REQUIRED
+drone maintenance,0,19,0,,,,,unmatched,0.3867,NEW_TAXONOMY_REQUIRED
+earthing,0,19,0,,,,,unmatched,0.6109,NEW_TAXONOMY_REQUIRED
+electrical drawings,0,19,0,,,,,unmatched,0.6560,NEW_TAXONOMY_REQUIRED
+FANUC/KUKA commissioning,0,19,0,Industrial Robot Commissioning,SK042,Industrial Robotics,Automotive & EV,semantic_candidate,0.8151,REVIEW_REQUIRED
+flight planning,0,19,0,,,,,unmatched,0.3475,NEW_TAXONOMY_REQUIRED
+geofencing,0,19,0,,,,,unmatched,0.3327,NEW_TAXONOMY_REQUIRED
+GPS calibration,0,19,0,,,,,unmatched,0.5303,NEW_TAXONOMY_REQUIRED
+motor winding,0,19,0,,,,,unmatched,0.5834,NEW_TAXONOMY_REQUIRED
+panel wiring,0,19,0,,,,,unmatched,0.6197,NEW_TAXONOMY_REQUIRED
+payload operations,0,19,0,,,,,unmatched,0.3544,NEW_TAXONOMY_REQUIRED
+PLC basics,0,19,0,PLC Programming & Configuration,SK001,Industrial Automation,Advanced Manufacturing,semantic_candidate,0.8710,REVIEW_REQUIRED
+PLC programming,0,19,0,PLC Programming & Configuration,SK001,Industrial Automation,Advanced Manufacturing,exact_alias,1.0000,AUTO_ACCEPT
+robot teach pendant,0,19,0,Robotics Programming,SK041,Industrial Robotics,Automotive & EV,exact_alias,1.0000,AUTO_ACCEPT
+safety regulations,0,19,0,,,,,unmatched,0.3571,NEW_TAXONOMY_REQUIRED
+servo motor calibration,0,19,0,Servo Calibration,SK044,Industrial Automation,Automotive & EV,exact_alias,1.0000,AUTO_ACCEPT
+FSSAI cold-chain norms,0,18,0,,,,,unmatched,0.1941,NEW_TAXONOMY_REQUIRED
+inventory management,0,18,0,,,,,unmatched,0.3571,NEW_TAXONOMY_REQUIRED
+reefer truck ops,0,18,0,,,,,unmatched,0.3450,NEW_TAXONOMY_REQUIRED
+temperature monitoring,0,18,0,,,,,unmatched,0.5938,NEW_TAXONOMY_REQUIRED
+WMS software,0,18,0,,,,,unmatched,0.3374,NEW_TAXONOMY_REQUIRED
+CMM operation,0,17,0,,,,,unmatched,0.6735,NEW_TAXONOMY_REQUIRED
+computer vision basics,0,17,0,,,,,unmatched,0.6784,NEW_TAXONOMY_REQUIRED
+defect classification,0,17,0,,,,,unmatched,0.6081,NEW_TAXONOMY_REQUIRED
+image annotation,0,17,0,,,,,unmatched,0.4512,NEW_TAXONOMY_REQUIRED
+Python/ML awareness,0,17,0,,,,,unmatched,0.5656,NEW_TAXONOMY_REQUIRED
+SPC analysis,0,17,0,Statistical Process Control,SK022,Quality & Metrology,Advanced Manufacturing,semantic_candidate,0.7842,REVIEW_REQUIRED
+BMS calibration,0,7,0,,,,,unmatched,0.5875,NEW_TAXONOMY_REQUIRED
+DC bus wiring,0,7,0,,,,,unmatched,0.3816,NEW_TAXONOMY_REQUIRED
+EV safety protocols,0,7,0,,,,,unmatched,0.5758,NEW_TAXONOMY_REQUIRED
+Li-ion cell handling,0,7,0,,,,,unmatched,0.3167,NEW_TAXONOMY_REQUIRED
+spot welding,0,7,0,GTAW/TIG Welding,SK006,Welding & Fabrication,Advanced Manufacturing,semantic_candidate,0.7526,REVIEW_REQUIRED
+thermal management,0,7,0,,,,,unmatched,0.3715,NEW_TAXONOMY_REQUIRED
